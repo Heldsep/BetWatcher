@@ -1,0 +1,8318 @@
+[
+  {
+    "home_name": "CD Dragon",
+    "away_name": "CD Platense Municipal Zacatecoluca",
+    "outcome_1": 1.14,
+    "outcome_X": 5.0,
+    "outcome_2": 34.0
+  },
+  {
+    "home_name": "CD FAS Santa Ana",
+    "away_name": "CD Atletico Marte San Salvador",
+    "outcome_1": 1.01,
+    "outcome_X": 11.0,
+    "outcome_2": 67.0
+  },
+  {
+    "home_name": "CD Luis Angel Firpo Usulutan",
+    "away_name": "Jocoro FC",
+    "outcome_1": 51.0,
+    "outcome_X": 13.0,
+    "outcome_2": 1.03
+  },
+  {
+    "home_name": "Carabobo FC",
+    "away_name": "Metropolitanos FC",
+    "outcome_1": 2.5,
+    "outcome_X": 2.2,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Monagas SC",
+    "away_name": "Zamora FC",
+    "outcome_1": 5.5,
+    "outcome_X": 3.2,
+    "outcome_2": 1.67
+  },
+  {
+    "home_name": "Union Espanola",
+    "away_name": "CD Universidad Catolica",
+    "outcome_1": 8.0,
+    "outcome_X": 3.8,
+    "outcome_2": 1.4
+  },
+  {
+    "home_name": "FBC Melgar",
+    "away_name": "Sport Boys Association",
+    "outcome_1": 1.28,
+    "outcome_X": 4.35,
+    "outcome_2": 12.0
+  },
+  {
+    "home_name": "Club Guarani Asuncion",
+    "away_name": "Nacional Asuncion",
+    "outcome_1": 3.0,
+    "outcome_X": 2.9,
+    "outcome_2": 2.4
+  },
+  {
+    "home_name": "CA Nacional Potosi",
+    "away_name": "Universitario de Sucre",
+    "outcome_1": 1.33,
+    "outcome_X": 4.35,
+    "outcome_2": 6.25
+  },
+  {
+    "home_name": "Millonarios FC",
+    "away_name": "CS Deportivo Pereira",
+    "outcome_1": 1.5,
+    "outcome_X": 3.75,
+    "outcome_2": 6.05
+  },
+  {
+    "home_name": "Buhos ULVR FC",
+    "away_name": "CD Olmedo",
+    "outcome_1": 2.28,
+    "outcome_X": 2.9,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Venados  FC",
+    "away_name": "Tepatitlan FC",
+    "outcome_1": 2.01,
+    "outcome_X": 3.2,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "CA Talleres de Cordoba",
+    "away_name": "Union de Santa Fe",
+    "outcome_1": 1.96,
+    "outcome_X": 3.25,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Guabira Montero",
+    "away_name": "Club Bolivar",
+    "outcome_1": 2.85,
+    "outcome_X": 3.1,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "CR Flamengo RJ",
+    "away_name": "Corinthians",
+    "outcome_1": 1.52,
+    "outcome_X": 3.7,
+    "outcome_2": 5.75
+  },
+  {
+    "home_name": "Real CD Espana San Pedro Sula",
+    "away_name": "CD Olimpia Tegucigalpa",
+    "outcome_1": 3.15,
+    "outcome_X": 3.0,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "Independiente Medellin",
+    "away_name": "CA Bucaramanga",
+    "outcome_1": 1.7,
+    "outcome_X": 3.45,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Alianza FC San Salvador",
+    "away_name": "Santa Tecla FC",
+    "outcome_1": 1.27,
+    "outcome_X": 4.95,
+    "outcome_2": 7.8
+  },
+  {
+    "home_name": "AD Isidro Metapan",
+    "away_name": "Once Deportivo de Ahuachapan",
+    "outcome_1": 1.95,
+    "outcome_X": 3.15,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "CD Vida La Ceiba",
+    "away_name": "CD Marathon San Pedro Sula",
+    "outcome_1": 1.79,
+    "outcome_X": 3.7,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Deportivo Toluca",
+    "away_name": "CF America",
+    "outcome_1": 4.35,
+    "outcome_X": 3.75,
+    "outcome_2": 1.71
+  },
+  {
+    "home_name": "Deportivo Saprissa San Jose",
+    "away_name": "CS Herediano",
+    "outcome_1": 1.94,
+    "outcome_X": 3.3,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Sejong Sportstoto WFC",
+    "away_name": "Boeun Sangmu Wfc",
+    "outcome_1": 2.18,
+    "outcome_X": 3.5,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Changnyeong WFC",
+    "away_name": "Gyeongju FC",
+    "outcome_1": 6.35,
+    "outcome_X": 4.55,
+    "outcome_2": 1.35
+  },
+  {
+    "home_name": "Hwacheon KSPO FC",
+    "away_name": "Incheon Hyundai Steel Red Angels",
+    "outcome_1": 3.25,
+    "outcome_X": 3.5,
+    "outcome_2": 1.9
+  },
+  {
+    "home_name": "Suwon WFC",
+    "away_name": "Seoul City WFC",
+    "outcome_1": 1.35,
+    "outcome_X": 4.65,
+    "outcome_2": 6.15
+  },
+  {
+    "home_name": "Ethiopian Coffee SC",
+    "away_name": "Sidama Bunna SC",
+    "outcome_1": 2.44,
+    "outcome_X": 2.75,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Genclerbirligi",
+    "away_name": "Nigde Anadolu",
+    "outcome_1": 1.04,
+    "outcome_X": 9.7,
+    "outcome_2": 30.0
+  },
+  {
+    "home_name": "FC Alashkert Yerevan",
+    "away_name": "Lernayin Artsakh FC",
+    "outcome_1": 1.59,
+    "outcome_X": 3.65,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Menemenspor AS",
+    "away_name": "Bulvarspor",
+    "outcome_1": 1.49,
+    "outcome_X": 4.15,
+    "outcome_2": 5.3
+  },
+  {
+    "home_name": "Tuzlaspor",
+    "away_name": "Bursa Yildirim Spor",
+    "outcome_1": 1.15,
+    "outcome_X": 6.3,
+    "outcome_2": 13.5
+  },
+  {
+    "home_name": "Foolad Mobarakeh Sepahan SC",
+    "away_name": "Tractor Sport Club",
+    "outcome_1": 2.24,
+    "outcome_X": 2.41,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Hougang United FC",
+    "away_name": "Balestier Khalsa FC",
+    "outcome_1": 1.62,
+    "outcome_X": 4.2,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Tampines Rovers FC",
+    "away_name": "Tanjong Pagar United FC",
+    "outcome_1": 1.41,
+    "outcome_X": 4.8,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "AE Kifisia FC",
+    "away_name": "OFI Kreta",
+    "outcome_1": 3.45,
+    "outcome_X": 3.2,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "FC Isloch",
+    "away_name": "Bate Borisovn",
+    "outcome_1": 2.75,
+    "outcome_X": 3.38,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "Yeni Malatyaspor",
+    "away_name": "Agrispor 1970 SK",
+    "outcome_1": 1.45,
+    "outcome_X": 4.45,
+    "outcome_2": 5.35
+  },
+  {
+    "home_name": "Pogon Siedlce",
+    "away_name": "Chrobry Glogow",
+    "outcome_1": 3.7,
+    "outcome_X": 3.4,
+    "outcome_2": 1.86
+  },
+  {
+    "home_name": "Qarabag FK",
+    "away_name": "Turan Tovuz",
+    "outcome_1": 1.18,
+    "outcome_X": 5.6,
+    "outcome_2": 11.0
+  },
+  {
+    "home_name": "Cremonese",
+    "away_name": "Modena FC",
+    "outcome_1": 1.78,
+    "outcome_X": 3.8,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Al Mokawloon Al Arab",
+    "away_name": "Ghazl El Mahallah",
+    "outcome_1": 2.19,
+    "outcome_X": 2.58,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "AS Inter Star",
+    "away_name": "Bujumbura City FC",
+    "outcome_1": 2.85,
+    "outcome_X": 2.75,
+    "outcome_2": 2.48
+  },
+  {
+    "home_name": "Agios Nikolaos",
+    "away_name": "Almyros Gaziou",
+    "outcome_1": 2.23,
+    "outcome_X": 3.0,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Ethiopia Electricity",
+    "away_name": "Legetafo Legedadi",
+    "outcome_1": 2.34,
+    "outcome_X": 3.1,
+    "outcome_2": 2.57
+  },
+  {
+    "home_name": "Ionikos Ionias",
+    "away_name": "Apollon Paralimniou FC",
+    "outcome_1": 2.8,
+    "outcome_X": 3.1,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "Malavan Bandar Anzali FC",
+    "away_name": "Persepolis FC",
+    "outcome_1": 9.0,
+    "outcome_X": 3.3,
+    "outcome_2": 1.46
+  },
+  {
+    "home_name": "Sanat Mes Kerman FC",
+    "away_name": "Sanat Naft Abadan FC",
+    "outcome_1": 2.38,
+    "outcome_X": 2.3,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Safa SC",
+    "away_name": "AL Ahed",
+    "outcome_1": 5.25,
+    "outcome_X": 3.45,
+    "outcome_2": 1.52
+  },
+  {
+    "home_name": "FC Nassaji Mazandaran",
+    "away_name": "Foolad Khuzestan FC",
+    "outcome_1": 3.2,
+    "outcome_X": 2.38,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Northeast United FC",
+    "away_name": "SC East Bengal",
+    "outcome_1": 2.13,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Olympique de Beja",
+    "away_name": "US Monastir",
+    "outcome_1": 2.8,
+    "outcome_X": 2.7,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "Giresunspor",
+    "away_name": "Amasyaspor 1968 FK",
+    "outcome_1": 1.03,
+    "outcome_X": 11.25,
+    "outcome_2": 23.5
+  },
+  {
+    "home_name": "East Riffa",
+    "away_name": "Al-Muharraq SC",
+    "outcome_1": 3.65,
+    "outcome_X": 3.3,
+    "outcome_2": 1.9
+  },
+  {
+    "home_name": "Manama Club",
+    "away_name": "AL Hala",
+    "outcome_1": 1.57,
+    "outcome_X": 3.6,
+    "outcome_2": 5.5
+  },
+  {
+    "home_name": "FK Partizan Belgrade",
+    "away_name": "FK Napredak Krusevac",
+    "outcome_1": 1.08,
+    "outcome_X": 6.7,
+    "outcome_2": 23.0
+  },
+  {
+    "home_name": "FC Neman Grodno",
+    "away_name": "FC Dnepr Mogilev",
+    "outcome_1": 1.19,
+    "outcome_X": 5.85,
+    "outcome_2": 11.5
+  },
+  {
+    "home_name": "Haras El Hodood",
+    "away_name": "Future FC",
+    "outcome_1": 4.05,
+    "outcome_X": 2.85,
+    "outcome_2": 1.99
+  },
+  {
+    "home_name": "Sahab SC",
+    "away_name": "FC Maan",
+    "outcome_1": 2.16,
+    "outcome_X": 2.9,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "TPS Turku",
+    "away_name": "FC Lahti",
+    "outcome_1": 2.57,
+    "outcome_X": 3.0,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Zawisza Bydgoszcz",
+    "away_name": "RKS Radomiak Radom",
+    "outcome_1": 6.65,
+    "outcome_X": 4.7,
+    "outcome_2": 1.36
+  },
+  {
+    "home_name": "Sampdoria Genoa",
+    "away_name": "Ascoli Calcio 1898",
+    "outcome_1": 1.6,
+    "outcome_X": 3.95,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "AD Cantolao",
+    "away_name": "CS Cienciano",
+    "outcome_1": 2.43,
+    "outcome_X": 3.25,
+    "outcome_2": 2.61
+  },
+  {
+    "home_name": "AEK Athene",
+    "away_name": "PAS Giannina",
+    "outcome_1": 1.26,
+    "outcome_X": 4.65,
+    "outcome_2": 9.2
+  },
+  {
+    "home_name": "Royal Antwerp FC",
+    "away_name": "KV Oostende",
+    "outcome_1": 1.57,
+    "outcome_X": 4.35,
+    "outcome_2": 5.45
+  },
+  {
+    "home_name": "Pordenone",
+    "away_name": "AC Trento",
+    "outcome_1": 1.63,
+    "outcome_X": 3.4,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "VfL Wolfsburg",
+    "away_name": "SKN St. Polten",
+    "outcome_1": 1.02,
+    "outcome_X": 9.8,
+    "outcome_2": 24.5
+  },
+  {
+    "home_name": "Vllaznia Shkoder",
+    "away_name": "Real Madrid",
+    "outcome_1": 13.75,
+    "outcome_X": 17.0,
+    "outcome_2": 1.01
+  },
+  {
+    "home_name": "ZSV Sportlust 46",
+    "away_name": "FC Utrecht",
+    "outcome_1": 18.0,
+    "outcome_X": 10.25,
+    "outcome_2": 1.08
+  },
+  {
+    "home_name": "FK Vojvodina Novi Sad",
+    "away_name": "FK Crvena Zvezda Belgrade",
+    "outcome_1": 5.95,
+    "outcome_X": 4.1,
+    "outcome_2": 1.41
+  },
+  {
+    "home_name": "Arsenal",
+    "away_name": "PSV",
+    "outcome_1": 1.52,
+    "outcome_X": 4.65,
+    "outcome_2": 5.65
+  },
+  {
+    "home_name": "Almeria",
+    "away_name": "Girona",
+    "outcome_1": 2.63,
+    "outcome_X": 3.25,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Degerfors",
+    "away_name": "IFK Goteborg",
+    "outcome_1": 2.59,
+    "outcome_X": 3.55,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "Hammarby",
+    "away_name": "IK Sirius",
+    "outcome_1": 1.26,
+    "outcome_X": 5.75,
+    "outcome_2": 9.65
+  },
+  {
+    "home_name": "Kalmar",
+    "away_name": "Mjallby",
+    "outcome_1": 1.67,
+    "outcome_X": 3.65,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "Malmo",
+    "away_name": "Djurgardens",
+    "outcome_1": 2.07,
+    "outcome_X": 3.5,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "BFC Dynamo",
+    "away_name": "SV Babelsberg",
+    "outcome_1": 2.52,
+    "outcome_X": 3.25,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "El Daklyeh",
+    "away_name": "Talaea El Gaish",
+    "outcome_1": 4.85,
+    "outcome_X": 3.38,
+    "outcome_2": 1.68
+  },
+  {
+    "home_name": "AL Sareeh",
+    "away_name": "Shabab AL Ordun",
+    "outcome_1": 2.8,
+    "outcome_X": 2.85,
+    "outcome_2": 2.42
+  },
+  {
+    "home_name": "Al-Ahli SC Manama",
+    "away_name": "Sitra Club",
+    "outcome_1": 1.83,
+    "outcome_X": 3.3,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Gaziantep FK",
+    "away_name": "AS Sariyer",
+    "outcome_1": 1.07,
+    "outcome_X": 8.65,
+    "outcome_2": 19.0
+  },
+  {
+    "home_name": "Dongen",
+    "away_name": "VVV Venlo",
+    "outcome_1": 8.2,
+    "outcome_X": 6.2,
+    "outcome_2": 1.31
+  },
+  {
+    "home_name": "OFC Oostzaan",
+    "away_name": "Sparta Rotterdam",
+    "outcome_1": 11.0,
+    "outcome_X": 7.2,
+    "outcome_2": 1.22
+  },
+  {
+    "home_name": "Osasuna",
+    "away_name": "Espanyol Barcelona",
+    "outcome_1": 2.11,
+    "outcome_X": 3.38,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Rkav Volendam",
+    "away_name": "HV and CV Quick",
+    "outcome_1": 2.65,
+    "outcome_X": 3.38,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Rkvv Dem",
+    "away_name": "Blauw Geel 38",
+    "outcome_1": 3.65,
+    "outcome_X": 3.85,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "VV Katwijk",
+    "away_name": "SV Dvs 33 Ermelo",
+    "outcome_1": 1.15,
+    "outcome_X": 8.4,
+    "outcome_2": 16.25
+  },
+  {
+    "home_name": "Sporting Cristal",
+    "away_name": "Atletico Grau",
+    "outcome_1": 1.3,
+    "outcome_X": 4.85,
+    "outcome_2": 7.9
+  },
+  {
+    "home_name": "Fulham",
+    "away_name": "Aston Villa",
+    "outcome_1": 2.8,
+    "outcome_X": 3.3,
+    "outcome_2": 2.54
+  },
+  {
+    "home_name": "Basel",
+    "away_name": "FC Zurich",
+    "outcome_1": 1.9,
+    "outcome_X": 3.65,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Grasshopper",
+    "away_name": "Servette Geneva",
+    "outcome_1": 3.2,
+    "outcome_X": 3.55,
+    "outcome_2": 2.06
+  },
+  {
+    "home_name": "GKS Katowice",
+    "away_name": "Gornik Zabrze",
+    "outcome_1": 3.3,
+    "outcome_X": 3.25,
+    "outcome_2": 2.03
+  },
+  {
+    "home_name": "Wiener Sport-Club",
+    "away_name": "FK Austria Wien",
+    "outcome_1": 16.0,
+    "outcome_X": 7.75,
+    "outcome_2": 1.1
+  },
+  {
+    "home_name": "SV Zulte Waregem",
+    "away_name": "RSC Anderlecht",
+    "outcome_1": 4.9,
+    "outcome_X": 4.3,
+    "outcome_2": 1.63
+  },
+  {
+    "home_name": "HHC Hardenberg",
+    "away_name": "PEC Zwolle",
+    "outcome_1": 7.3,
+    "outcome_X": 5.65,
+    "outcome_2": 1.36
+  },
+  {
+    "home_name": "Barcelona",
+    "away_name": "Villarreal",
+    "outcome_1": 1.49,
+    "outcome_X": 4.75,
+    "outcome_2": 5.95
+  },
+  {
+    "home_name": "Bologna",
+    "away_name": "Cagliari",
+    "outcome_1": 1.67,
+    "outcome_X": 3.85,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "AS Roma",
+    "away_name": "Slavia Prague",
+    "outcome_1": 1.13,
+    "outcome_X": 6.5,
+    "outcome_2": 12.0
+  },
+  {
+    "home_name": "Club Aurora",
+    "away_name": "FC Universitario de Vinto",
+    "outcome_1": 1.66,
+    "outcome_X": 3.45,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "LR Vicenza",
+    "away_name": "Mantova 1911",
+    "outcome_1": 1.29,
+    "outcome_X": 4.3,
+    "outcome_2": 8.9
+  },
+  {
+    "home_name": "Paris Saint-Germain",
+    "away_name": "Chelsea",
+    "outcome_1": 2.12,
+    "outcome_X": 3.4,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Leicester City",
+    "away_name": "Leeds United",
+    "outcome_1": 2.33,
+    "outcome_X": 3.55,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "America de Cali Sa",
+    "away_name": "Club Alianza Lima",
+    "outcome_1": 1.12,
+    "outcome_X": 6.65,
+    "outcome_2": 18.0
+  },
+  {
+    "home_name": "Santiago Morning",
+    "away_name": "Deportivo Lara",
+    "outcome_1": 1.04,
+    "outcome_X": 10.5,
+    "outcome_2": 24.5
+  },
+  {
+    "home_name": "UTC de Cajamarca",
+    "away_name": "Asociacion Deportiva Tarma",
+    "outcome_1": 1.74,
+    "outcome_X": 3.5,
+    "outcome_2": 4.15
+  },
+  {
+    "home_name": "Puebla",
+    "away_name": "Club Leon",
+    "outcome_1": 1.86,
+    "outcome_X": 3.8,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "AD Chalatenango",
+    "away_name": "CD Aguila San Miguel",
+    "outcome_1": 3.15,
+    "outcome_X": 3.0,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "Deportivo Lara",
+    "away_name": "Academia Puerto Cabello",
+    "outcome_1": 2.01,
+    "outcome_X": 3.0,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Portuguesa FC",
+    "away_name": "Deportivo Tachira",
+    "outcome_1": 3.25,
+    "outcome_X": 2.7,
+    "outcome_2": 2.37
+  },
+  {
+    "home_name": "Blooming Santa Cruz",
+    "away_name": "CA Palmaflor",
+    "outcome_1": 1.75,
+    "outcome_X": 3.15,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Libertad Limpeno",
+    "away_name": "Independiente Del Valle",
+    "outcome_1": 2.53,
+    "outcome_X": 3.65,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "SE Palmeiras SP",
+    "away_name": "Universidad de Chile",
+    "outcome_1": 1.25,
+    "outcome_X": 5.55,
+    "outcome_2": 8.5
+  },
+  {
+    "home_name": "Sao Paulo",
+    "away_name": "Coritiba",
+    "outcome_1": 1.47,
+    "outcome_X": 4.25,
+    "outcome_2": 6.6
+  },
+  {
+    "home_name": "Carlos Mannucci",
+    "away_name": "Alianza Atletico",
+    "outcome_1": 2.04,
+    "outcome_X": 3.3,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Tigres FC",
+    "away_name": "CD Atletico Huila",
+    "outcome_1": 1.99,
+    "outcome_X": 3.0,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Deportes Copiapo",
+    "away_name": "Deportes Magallanes",
+    "outcome_1": 2.9,
+    "outcome_X": 3.0,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "Philadelphia Union",
+    "away_name": "FC Cincinnati",
+    "outcome_1": 1.67,
+    "outcome_X": 3.9,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "CD El Nacional",
+    "away_name": "Libertad Loja",
+    "outcome_1": 1.66,
+    "outcome_X": 3.15,
+    "outcome_2": 4.95
+  },
+  {
+    "home_name": "CD Mineros de Zacatecas",
+    "away_name": "CD Tapatio",
+    "outcome_1": 1.74,
+    "outcome_X": 3.5,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Ponte Preta",
+    "away_name": "CS Alagoano AL",
+    "outcome_1": 2.04,
+    "outcome_X": 3.05,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Independiente Petrolero",
+    "away_name": "CD Real Tomayapo",
+    "outcome_1": 1.7,
+    "outcome_X": 3.45,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "Deportes Quindio",
+    "away_name": "CD Real Santander",
+    "outcome_1": 1.66,
+    "outcome_X": 3.2,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "FC Motagua Tegucigalpa",
+    "away_name": "Lobos UPNFM",
+    "outcome_1": 1.25,
+    "outcome_X": 4.85,
+    "outcome_2": 8.95
+  },
+  {
+    "home_name": "Alianza Lima",
+    "away_name": "Em Deportivo Binacional",
+    "outcome_1": 1.25,
+    "outcome_X": 5.2,
+    "outcome_2": 9.35
+  },
+  {
+    "home_name": "Los Angeles FC",
+    "away_name": "Los Angeles Galaxy",
+    "outcome_1": 1.71,
+    "outcome_X": 4.05,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Pachuca",
+    "away_name": "Monterrey",
+    "outcome_1": 2.03,
+    "outcome_X": 3.3,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "FC Mokpo",
+    "away_name": "Busan Transportation Corporation FC",
+    "outcome_1": 2.95,
+    "outcome_X": 2.8,
+    "outcome_2": 2.34
+  },
+  {
+    "home_name": "Western United FC",
+    "away_name": "Macarthur FC",
+    "outcome_1": 2.0,
+    "outcome_X": 3.55,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Persis Solo",
+    "away_name": "Barito Putera",
+    "outcome_1": 2.03,
+    "outcome_X": 2.9,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Fasil Kenema SC",
+    "away_name": "Defence Force SC",
+    "outcome_1": 1.68,
+    "outcome_X": 3.2,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Paykan FC",
+    "away_name": "Havadar SC",
+    "outcome_1": 2.7,
+    "outcome_X": 2.75,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Geylang International FC",
+    "away_name": "Albirex Niigata Singapore FC",
+    "outcome_1": 4.9,
+    "outcome_X": 4.8,
+    "outcome_2": 1.37
+  },
+  {
+    "home_name": "Chiangrai United",
+    "away_name": "Nakhon Ratchasima FC",
+    "outcome_1": 1.61,
+    "outcome_X": 3.6,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Esteghlal",
+    "away_name": "Aluminium Arak",
+    "outcome_1": 1.82,
+    "outcome_X": 3.15,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Gol Gohar Sirjan FC",
+    "away_name": "Zob Ahan Isfahan FC",
+    "outcome_1": 2.33,
+    "outcome_X": 2.64,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Naft Masjed Soleyman FC",
+    "away_name": "Mes Rafsanjan FC",
+    "outcome_1": 3.2,
+    "outcome_X": 2.85,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "Chennaiyin FC",
+    "away_name": "FC Goa",
+    "outcome_1": 2.8,
+    "outcome_X": 3.25,
+    "outcome_2": 2.2
+  },
+  {
+    "home_name": "FC Thy - Thistedq",
+    "away_name": "Dbk Fortuna Hjoerring Women",
+    "outcome_1": 2.59,
+    "outcome_X": 3.6,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "FC Vysocina Jihlava",
+    "away_name": "SK Slavia Prague B",
+    "outcome_1": 1.44,
+    "outcome_X": 4.15,
+    "outcome_2": 5.4
+  },
+  {
+    "home_name": "FK Riteriai",
+    "away_name": "FK Banga Gargzdai",
+    "outcome_1": 1.49,
+    "outcome_X": 3.5,
+    "outcome_2": 5.55
+  },
+  {
+    "home_name": "MFK Skalica",
+    "away_name": "Slovan Bratislava",
+    "outcome_1": 6.5,
+    "outcome_X": 4.25,
+    "outcome_2": 1.41
+  },
+  {
+    "home_name": "Anorthosis Famagusta",
+    "away_name": "Doxa Katokopias",
+    "outcome_1": 1.55,
+    "outcome_X": 3.8,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "HNK Hajduk Split",
+    "away_name": "GNK Dinamo Zagreb",
+    "outcome_1": 2.8,
+    "outcome_X": 3.3,
+    "outcome_2": 2.27
+  },
+  {
+    "home_name": "Olympiakos Nicosia",
+    "away_name": "Apollon Limassol",
+    "outcome_1": 4.55,
+    "outcome_X": 3.55,
+    "outcome_2": 1.67
+  },
+  {
+    "home_name": "SFC Opava",
+    "away_name": "1. FK Pribram",
+    "outcome_1": 1.8,
+    "outcome_X": 3.38,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "FC Liefering",
+    "away_name": "Rapid Wien II",
+    "outcome_1": 1.92,
+    "outcome_X": 3.8,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Young Violets Wien",
+    "away_name": "SKU Amstetten",
+    "outcome_1": 2.85,
+    "outcome_X": 3.65,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Hansa Rostock",
+    "away_name": "1 FC Kaiserslautern",
+    "outcome_1": 2.9,
+    "outcome_X": 3.38,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "SV Darmstadt 98",
+    "away_name": "Holstein Kiel",
+    "outcome_1": 1.67,
+    "outcome_X": 3.85,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Arda Kardzhali",
+    "away_name": "Lokomotive Sofia",
+    "outcome_1": 1.9,
+    "outcome_X": 3.3,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Antalyaspor",
+    "away_name": "Istanbulspor AS",
+    "outcome_1": 1.7,
+    "outcome_X": 3.7,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Odense BK",
+    "away_name": "Lyngby BK",
+    "outcome_1": 2.08,
+    "outcome_X": 3.45,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Bayern Munich II",
+    "away_name": "1 FC Nuremberg II",
+    "outcome_1": 1.78,
+    "outcome_X": 3.6,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Bruck/Leitha",
+    "away_name": "SV Leobendorf",
+    "outcome_1": 2.13,
+    "outcome_X": 3.5,
+    "outcome_2": 2.61
+  },
+  {
+    "home_name": "DSV Leoben",
+    "away_name": "SC Weiz",
+    "outcome_1": 1.16,
+    "outcome_X": 6.4,
+    "outcome_2": 8.25
+  },
+  {
+    "home_name": "Eyupspor",
+    "away_name": "Sakaryaspor",
+    "outcome_1": 1.53,
+    "outcome_X": 3.75,
+    "outcome_2": 4.95
+  },
+  {
+    "home_name": "FC 08 Homburg-Saar",
+    "away_name": "FSV Mainz II",
+    "outcome_1": 2.19,
+    "outcome_X": 3.3,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "FC Augsburg II",
+    "away_name": "SpVgg Ansbach",
+    "outcome_1": 2.0,
+    "outcome_X": 3.45,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "FC Marchfeld Donauauen",
+    "away_name": "SV Stripfing",
+    "outcome_1": 3.38,
+    "outcome_X": 3.85,
+    "outcome_2": 1.72
+  },
+  {
+    "home_name": "FC Nordsjaelland",
+    "away_name": "Sundby BK",
+    "outcome_1": 1.92,
+    "outcome_X": 3.6,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "FSV Zwickau",
+    "away_name": "SC Freiburg II",
+    "outcome_1": 2.36,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "FV Illertissen",
+    "away_name": "Turkgucu Munich",
+    "outcome_1": 2.95,
+    "outcome_X": 3.45,
+    "outcome_2": 2.03
+  },
+  {
+    "home_name": "Hammarby",
+    "away_name": "IF Brommapojkarna",
+    "outcome_1": 1.21,
+    "outcome_X": 6.15,
+    "outcome_2": 9.25
+  },
+  {
+    "home_name": "Offenbacher FC Kickers 1901",
+    "away_name": "SSV Ulm 1846",
+    "outcome_1": 2.14,
+    "outcome_X": 3.25,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "SC Wiedenbruck",
+    "away_name": "SV Rodinghausen",
+    "outcome_1": 3.2,
+    "outcome_X": 3.25,
+    "outcome_2": 2.0
+  },
+  {
+    "home_name": "Soenderjyske",
+    "away_name": "Hillerod Fodbold",
+    "outcome_1": 1.35,
+    "outcome_X": 4.7,
+    "outcome_2": 6.75
+  },
+  {
+    "home_name": "TSG Balingen 1848",
+    "away_name": "Bahlinger SC",
+    "outcome_1": 2.03,
+    "outcome_X": 3.25,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "VSG Altglienicke",
+    "away_name": "1. FC Lokomotive Leipzig",
+    "outcome_1": 2.07,
+    "outcome_X": 3.5,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Polonia Warszawa",
+    "away_name": "KS Gornik Polkowice",
+    "outcome_1": 1.59,
+    "outcome_X": 3.7,
+    "outcome_2": 4.15
+  },
+  {
+    "home_name": "SV Meppen",
+    "away_name": "1. FFC Turbine Potsdam 71",
+    "outcome_1": 2.26,
+    "outcome_X": 3.55,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Alemannia Aachen",
+    "away_name": "1. FC Cologne II",
+    "outcome_1": 2.14,
+    "outcome_X": 3.38,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "BSV SW Rehden",
+    "away_name": "TSV Havelse",
+    "outcome_1": 1.7,
+    "outcome_X": 3.75,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "FC Bastia Borgo",
+    "away_name": "Chateauroux",
+    "outcome_1": 3.8,
+    "outcome_X": 3.2,
+    "outcome_2": 1.83
+  },
+  {
+    "home_name": "FC Rot-Weiss Erfurt",
+    "away_name": "Tennis Borussia Berlin",
+    "outcome_1": 1.24,
+    "outcome_X": 5.2,
+    "outcome_2": 8.3
+  },
+  {
+    "home_name": "Football Bourg-En-Bresse Peronnas 01",
+    "away_name": "Paris 13 Atletico",
+    "outcome_1": 1.94,
+    "outcome_X": 3.25,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Le Mans FC",
+    "away_name": "FC Martigues",
+    "outcome_1": 2.04,
+    "outcome_X": 3.2,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Le Puy Foot 43 Auvergne",
+    "away_name": "US Avranches",
+    "outcome_1": 2.14,
+    "outcome_X": 3.1,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Nancy-Lorraine",
+    "away_name": "Stade Briochin",
+    "outcome_1": 1.85,
+    "outcome_X": 3.2,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Rapid Bucuresti 1923",
+    "away_name": "FC Farul Constanta",
+    "outcome_1": 2.7,
+    "outcome_X": 3.0,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "TWL Elektra",
+    "away_name": "ASV Drassburg",
+    "outcome_1": 1.24,
+    "outcome_X": 5.2,
+    "outcome_2": 7.0
+  },
+  {
+    "home_name": "US Concarneau",
+    "away_name": "FC Villefranche-Beaujolais",
+    "outcome_1": 2.04,
+    "outcome_X": 3.05,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "USL Dunkerque",
+    "away_name": "CS Sedan-Ardennes",
+    "outcome_1": 1.71,
+    "outcome_X": 3.3,
+    "outcome_2": 4.35
+  },
+  {
+    "home_name": "ADO Den Haag",
+    "away_name": "De Graafschap",
+    "outcome_1": 2.52,
+    "outcome_X": 3.65,
+    "outcome_2": 2.63
+  },
+  {
+    "home_name": "Heracles Almelo",
+    "away_name": "FC Eindhoven",
+    "outcome_1": 1.8,
+    "outcome_X": 3.9,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Willem II Tilburg",
+    "away_name": "Almere City FC",
+    "outcome_1": 1.98,
+    "outcome_X": 3.65,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "TOP Oss",
+    "away_name": "Roda JC Kerkrade",
+    "outcome_1": 3.9,
+    "outcome_X": 3.65,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "Club NXT",
+    "away_name": "KMSK Deinze",
+    "outcome_1": 2.23,
+    "outcome_X": 3.5,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Kremser SC",
+    "away_name": "SC Neusiedl am See 1919",
+    "outcome_1": 2.33,
+    "outcome_X": 3.45,
+    "outcome_2": 2.37
+  },
+  {
+    "home_name": "RSC Anderlecht",
+    "away_name": "FC Femina White Star Woluwe",
+    "outcome_1": 1.01,
+    "outcome_X": 11.5,
+    "outcome_2": 17.0
+  },
+  {
+    "home_name": "Sl16 Football Campus",
+    "away_name": "Royal Excelsior Virton",
+    "outcome_1": 2.37,
+    "outcome_X": 3.4,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "Sporting du Pays de Charleroi",
+    "away_name": "KAA Gent",
+    "outcome_1": 10.5,
+    "outcome_X": 5.65,
+    "outcome_2": 1.15
+  },
+  {
+    "home_name": "Vasas FC",
+    "away_name": "Kecskemeti TE",
+    "outcome_1": 2.06,
+    "outcome_X": 3.38,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Lausanne-Sport",
+    "away_name": "FC Thun",
+    "outcome_1": 1.71,
+    "outcome_X": 3.95,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "FSV Mainz",
+    "away_name": "FC Koln",
+    "outcome_1": 2.22,
+    "outcome_X": 3.5,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Widzew Lodz",
+    "away_name": "Miedz Legnica",
+    "outcome_1": 2.0,
+    "outcome_X": 3.4,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Hibernian",
+    "away_name": "St Johnstone",
+    "outcome_1": 1.59,
+    "outcome_X": 3.8,
+    "outcome_2": 5.65
+  },
+  {
+    "home_name": "Odra Opole",
+    "away_name": "Ruch Chorzow",
+    "outcome_1": 3.05,
+    "outcome_X": 3.2,
+    "outcome_2": 2.17
+  },
+  {
+    "home_name": "Vorwarts Steyr",
+    "away_name": "SV Lafnitz",
+    "outcome_1": 3.0,
+    "outcome_X": 3.5,
+    "outcome_2": 2.07
+  },
+  {
+    "home_name": "Juventus",
+    "away_name": "Empoli FC",
+    "outcome_1": 1.44,
+    "outcome_X": 4.6,
+    "outcome_2": 7.2
+  },
+  {
+    "home_name": "Bohemians",
+    "away_name": "Finn Harps",
+    "outcome_1": 1.61,
+    "outcome_X": 3.85,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "Cercle Brugge",
+    "away_name": "Royal Charleroi SC",
+    "outcome_1": 2.15,
+    "outcome_X": 3.55,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Cork City",
+    "away_name": "Bray Wanderers",
+    "outcome_1": 1.29,
+    "outcome_X": 4.8,
+    "outcome_2": 8.6
+  },
+  {
+    "home_name": "Derry City",
+    "away_name": "Shelbourne",
+    "outcome_1": 1.45,
+    "outcome_X": 4.1,
+    "outcome_2": 6.7
+  },
+  {
+    "home_name": "Dundalk",
+    "away_name": "Sligo Rovers",
+    "outcome_1": 2.0,
+    "outcome_X": 3.25,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Dungannon Swifts",
+    "away_name": "Ballymena United",
+    "outcome_1": 2.55,
+    "outcome_X": 3.45,
+    "outcome_2": 2.38
+  },
+  {
+    "home_name": "Galway United",
+    "away_name": "Longford Town",
+    "outcome_1": 1.59,
+    "outcome_X": 3.85,
+    "outcome_2": 4.75
+  },
+  {
+    "home_name": "Notts County",
+    "away_name": "Maidstone United FC",
+    "outcome_1": 1.3,
+    "outcome_X": 5.0,
+    "outcome_2": 7.6
+  },
+  {
+    "home_name": "Shamrock Rovers",
+    "away_name": "St. Patricks Athletic",
+    "outcome_1": 1.82,
+    "outcome_X": 3.5,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Treaty United",
+    "away_name": "Wexford FC",
+    "outcome_1": 2.63,
+    "outcome_X": 3.45,
+    "outcome_2": 2.34
+  },
+  {
+    "home_name": "UCD",
+    "away_name": "Drogheda United",
+    "outcome_1": 2.85,
+    "outcome_X": 3.3,
+    "outcome_2": 2.35
+  },
+  {
+    "home_name": "Waterford",
+    "away_name": "Athlone Town",
+    "outcome_1": 1.26,
+    "outcome_X": 5.55,
+    "outcome_2": 8.05
+  },
+  {
+    "home_name": "AC Ajaccio",
+    "away_name": "Paris Saint-Germain",
+    "outcome_1": 11.0,
+    "outcome_X": 5.75,
+    "outcome_2": 1.27
+  },
+  {
+    "home_name": "Granada",
+    "away_name": "Real Zaragoza",
+    "outcome_1": 2.05,
+    "outcome_X": 3.1,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "Ipswich Town",
+    "away_name": "Derby County",
+    "outcome_1": 1.71,
+    "outcome_X": 3.65,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "FC Porto",
+    "away_name": "Benfica Lisbon",
+    "outcome_1": 2.29,
+    "outcome_X": 3.3,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Guairena FC",
+    "away_name": "Sol de America Villa Elisa",
+    "outcome_1": 2.01,
+    "outcome_X": 3.15,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Deportivo La Guaira",
+    "away_name": "Caracas FC",
+    "outcome_1": 2.1,
+    "outcome_X": 2.9,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Chapecoense",
+    "away_name": "Tombense FC MG",
+    "outcome_1": 1.59,
+    "outcome_X": 3.55,
+    "outcome_2": 5.3
+  },
+  {
+    "home_name": "Tacuary Asuncion",
+    "away_name": "12 de Octubre de Itaugua",
+    "outcome_1": 2.02,
+    "outcome_X": 3.1,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "CD O\u00b4Higgins",
+    "away_name": "Cobresal",
+    "outcome_1": 2.06,
+    "outcome_X": 3.2,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "CD La Equidad",
+    "away_name": "Union Magdalena",
+    "outcome_1": 1.69,
+    "outcome_X": 3.4,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Atletico Morelia",
+    "away_name": "Alebrijes de Oaxaca FC",
+    "outcome_1": 1.93,
+    "outcome_X": 3.15,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Oriente Petrolero",
+    "away_name": "Jorge Wilstermann",
+    "outcome_1": 1.7,
+    "outcome_X": 3.2,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "CR Brasil AL",
+    "away_name": "Operario Ferroviario",
+    "outcome_1": 1.99,
+    "outcome_X": 3.1,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Aguilas Doradas Rionegro",
+    "away_name": "Envigado FC",
+    "outcome_1": 1.71,
+    "outcome_X": 3.25,
+    "outcome_2": 4.85
+  },
+  {
+    "home_name": "CSD Dorados Sinaloa",
+    "away_name": "Alacranes de Durango",
+    "outcome_1": 1.66,
+    "outcome_X": 3.8,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Fujieda MYFC",
+    "away_name": "Tegevajaro Miyazaki",
+    "outcome_1": 1.53,
+    "outcome_X": 3.8,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "Cerezo Osaka",
+    "away_name": "Sanfrecce Hiroshima",
+    "outcome_1": 2.75,
+    "outcome_X": 3.15,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "Newcastle United Jets FC",
+    "away_name": "Wellington Phoenix FC",
+    "outcome_1": 1.97,
+    "outcome_X": 3.6,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Western Sydney Wanderers",
+    "away_name": "Brisbane Roar FC",
+    "outcome_1": 2.16,
+    "outcome_X": 3.4,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Gimcheon Sangmu FC",
+    "away_name": "Suwon Bluewings",
+    "outcome_1": 2.6,
+    "outcome_X": 3.25,
+    "outcome_2": 2.57
+  },
+  {
+    "home_name": "Seongnam",
+    "away_name": "Daegu",
+    "outcome_1": 3.05,
+    "outcome_X": 3.38,
+    "outcome_2": 2.22
+  },
+  {
+    "home_name": "Suwon City",
+    "away_name": "FC Seoul",
+    "outcome_1": 2.95,
+    "outcome_X": 3.3,
+    "outcome_2": 2.27
+  },
+  {
+    "home_name": "Shimizu S-Pulse",
+    "away_name": "Jubilo Iwata",
+    "outcome_1": 1.83,
+    "outcome_X": 3.5,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "MFK Chrudim",
+    "away_name": "SK Sigma Olomouc B",
+    "outcome_1": 1.99,
+    "outcome_X": 3.2,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "MFk Vyskov",
+    "away_name": "FC Vlasim",
+    "outcome_1": 1.91,
+    "outcome_X": 3.38,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Melbourne Victory",
+    "away_name": "Melbourne City FC",
+    "outcome_1": 2.9,
+    "outcome_X": 3.4,
+    "outcome_2": 2.32
+  },
+  {
+    "home_name": "Tottenham Hotspur FC Women",
+    "away_name": "Manchester City WFC",
+    "outcome_1": 5.9,
+    "outcome_X": 4.65,
+    "outcome_2": 1.4
+  },
+  {
+    "home_name": "SC Covilha",
+    "away_name": "SCU Torreense",
+    "outcome_1": 2.61,
+    "outcome_X": 2.9,
+    "outcome_2": 2.53
+  },
+  {
+    "home_name": "Ankara Keciorengucu",
+    "away_name": "Pendikspor",
+    "outcome_1": 2.24,
+    "outcome_X": 3.15,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Manisa Futbol Kulubu",
+    "away_name": "Caykur Rizespor",
+    "outcome_1": 2.04,
+    "outcome_X": 3.15,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "1. FC Nurnberg",
+    "away_name": "Hannover 96",
+    "outcome_1": 2.16,
+    "outcome_X": 3.38,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Eintracht Braunschweig",
+    "away_name": "SC Paderborn 07",
+    "outcome_1": 3.65,
+    "outcome_X": 3.65,
+    "outcome_2": 1.92
+  },
+  {
+    "home_name": "Jahn Regensburg",
+    "away_name": "SV Sandhausen",
+    "outcome_1": 2.2,
+    "outcome_X": 3.38,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Angelholms FF",
+    "away_name": "Tvaakers IF",
+    "outcome_1": 2.85,
+    "outcome_X": 3.3,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "BFC Daugavpils",
+    "away_name": "FK Spartaks Jurmala",
+    "outcome_1": 1.99,
+    "outcome_X": 3.45,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "BK Forward",
+    "away_name": "Motala AIF FK",
+    "outcome_1": 2.95,
+    "outcome_X": 3.65,
+    "outcome_2": 1.99
+  },
+  {
+    "home_name": "BK Olympic",
+    "away_name": "Ljungskile",
+    "outcome_1": 1.98,
+    "outcome_X": 3.3,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "BSG Chemie Leipzig",
+    "away_name": "Hertha BSC II",
+    "outcome_1": 2.15,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Budafoki",
+    "away_name": "Aqvital FC Csakvar",
+    "outcome_1": 2.28,
+    "outcome_X": 3.25,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Dorogi FC",
+    "away_name": "WKW ETO FC Gyor",
+    "outcome_1": 2.65,
+    "outcome_X": 3.25,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "Energie Cottbus",
+    "away_name": "FC Viktoria 1889 Berlin",
+    "outcome_1": 1.69,
+    "outcome_X": 3.45,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Gefle IF",
+    "away_name": "Umea",
+    "outcome_1": 1.29,
+    "outcome_X": 4.95,
+    "outcome_2": 6.9
+  },
+  {
+    "home_name": "Gyirmot FC",
+    "away_name": "Soroksar SC",
+    "outcome_1": 1.83,
+    "outcome_X": 3.5,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Koldingq",
+    "away_name": "AGF Aarhus",
+    "outcome_1": 1.82,
+    "outcome_X": 3.6,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Lindome GIF",
+    "away_name": "Lunds BK",
+    "outcome_1": 2.7,
+    "outcome_X": 3.3,
+    "outcome_2": 2.24
+  },
+  {
+    "home_name": "Mosonmagyarovari TE",
+    "away_name": "Diosgyori",
+    "outcome_1": 3.95,
+    "outcome_X": 3.55,
+    "outcome_2": 1.71
+  },
+  {
+    "home_name": "Nongbua Pitchaya FC",
+    "away_name": "Lamphun Warrior",
+    "outcome_1": 1.84,
+    "outcome_X": 3.38,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Qviding FIF",
+    "away_name": "IFK Malmo",
+    "outcome_1": 1.6,
+    "outcome_X": 3.6,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Rks Garbarnia Krakow",
+    "away_name": "ZKS Olimpia Elblag",
+    "outcome_1": 2.13,
+    "outcome_X": 3.1,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "SV Lichtenberg 47",
+    "away_name": "Chemnitzer FC",
+    "outcome_1": 3.38,
+    "outcome_X": 3.4,
+    "outcome_2": 1.9
+  },
+  {
+    "home_name": "Szentlorinc SE",
+    "away_name": "Szombathelyi Haladas FC",
+    "outcome_1": 2.57,
+    "outcome_X": 3.2,
+    "outcome_2": 2.38
+  },
+  {
+    "home_name": "Vejle BK",
+    "away_name": "Hvidovre IF",
+    "outcome_1": 2.05,
+    "outcome_X": 3.4,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Nottingham Forest",
+    "away_name": "Liverpool",
+    "outcome_1": 10.75,
+    "outcome_X": 6.4,
+    "outcome_2": 1.25
+  },
+  {
+    "home_name": "Blackpool",
+    "away_name": "Preston North End",
+    "outcome_1": 2.55,
+    "outcome_X": 3.25,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Umraniyespor",
+    "away_name": "Fatih Karagumruk Istanbul",
+    "outcome_1": 2.43,
+    "outcome_X": 3.38,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Heart of Midlothian FC",
+    "away_name": "Celtic",
+    "outcome_1": 7.6,
+    "outcome_X": 5.3,
+    "outcome_2": 1.33
+  },
+  {
+    "home_name": "Aston Villa WFC",
+    "away_name": "Everton FC Women",
+    "outcome_1": 1.88,
+    "outcome_X": 3.7,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "KRC Genk",
+    "away_name": "Standard Luik",
+    "outcome_1": 2.11,
+    "outcome_X": 3.4,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Khon Kaen United FC",
+    "away_name": "Buriram United FC",
+    "outcome_1": 9.6,
+    "outcome_X": 5.25,
+    "outcome_2": 1.21
+  },
+  {
+    "home_name": "SC Weiche Flensburg 08",
+    "away_name": "VfB Lubeck",
+    "outcome_1": 2.39,
+    "outcome_X": 3.45,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "Zalaegerszeg",
+    "away_name": "Boedapest Honved",
+    "outcome_1": 1.96,
+    "outcome_X": 3.5,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Rayo Vallecano",
+    "away_name": "Cadiz",
+    "outcome_1": 1.76,
+    "outcome_X": 3.55,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "1. FC Bocholt",
+    "away_name": "SV Lippstadt 08",
+    "outcome_1": 2.46,
+    "outcome_X": 3.15,
+    "outcome_2": 2.52
+  },
+  {
+    "home_name": "1. FC Schweinfurt 05",
+    "away_name": "Viktoria Aschaffenburg",
+    "outcome_1": 1.83,
+    "outcome_X": 3.5,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "BK Frem",
+    "away_name": "AB Gladsaxe",
+    "outcome_1": 2.8,
+    "outcome_X": 3.55,
+    "outcome_2": 2.08
+  },
+  {
+    "home_name": "Brabrand IF",
+    "away_name": "FC Roskilde",
+    "outcome_1": 2.6,
+    "outcome_X": 3.5,
+    "outcome_2": 2.21
+  },
+  {
+    "home_name": "Brescia",
+    "away_name": "Venezia FC",
+    "outcome_1": 2.22,
+    "outcome_X": 3.25,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Como 1907",
+    "away_name": "Benevento",
+    "outcome_1": 2.61,
+    "outcome_X": 3.2,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "Dynamo Dresden",
+    "away_name": "1. FC Saarbrucken",
+    "outcome_1": 2.35,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "FC Astoria Walldorf",
+    "away_name": "VfB Stuttgart II",
+    "outcome_1": 2.57,
+    "outcome_X": 3.3,
+    "outcome_2": 2.32
+  },
+  {
+    "home_name": "FC Sudtirol Bolzano",
+    "away_name": "Parma Calcio",
+    "outcome_1": 3.0,
+    "outcome_X": 3.1,
+    "outcome_2": 2.36
+  },
+  {
+    "home_name": "FK Metta / Lu",
+    "away_name": "Riga FC",
+    "outcome_1": 18.75,
+    "outcome_X": 6.95,
+    "outcome_2": 1.08
+  },
+  {
+    "home_name": "FSV Frankfurt 1899",
+    "away_name": "TSG Hoffenheim II",
+    "outcome_1": 2.11,
+    "outcome_X": 3.4,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Frosinone",
+    "away_name": "SSC Bari",
+    "outcome_1": 1.99,
+    "outcome_X": 3.3,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "GKS Jastrzebie",
+    "away_name": "Lech II Poznan",
+    "outcome_1": 1.65,
+    "outcome_X": 3.7,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "Greuther Furth II",
+    "away_name": "Hankofen-Hailing",
+    "outcome_1": 1.96,
+    "outcome_X": 3.4,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "HIK Hellerup",
+    "away_name": "Thisted FC",
+    "outcome_1": 2.9,
+    "outcome_X": 3.6,
+    "outcome_2": 2.02
+  },
+  {
+    "home_name": "KSV Hessen Kassel",
+    "away_name": "TSV Steinbach Haiger",
+    "outcome_1": 4.05,
+    "outcome_X": 3.6,
+    "outcome_2": 1.67
+  },
+  {
+    "home_name": "Lampang FC",
+    "away_name": "Police Tero FC",
+    "outcome_1": 2.59,
+    "outcome_X": 3.15,
+    "outcome_2": 2.42
+  },
+  {
+    "home_name": "Lincoln City",
+    "away_name": "Sheffield Wednesday",
+    "outcome_1": 4.05,
+    "outcome_X": 3.5,
+    "outcome_2": 1.83
+  },
+  {
+    "home_name": "MSV Duisburg",
+    "away_name": "FC Viktoria Koln",
+    "outcome_1": 2.22,
+    "outcome_X": 3.38,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Mumbai City FC",
+    "away_name": "Jamshedpur FC",
+    "outcome_1": 1.95,
+    "outcome_X": 3.38,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Reggina 1914",
+    "away_name": "Perugia",
+    "outcome_1": 2.07,
+    "outcome_X": 3.2,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Rot Weiss Ahlen",
+    "away_name": "1. FC Kaan-Marienborn",
+    "outcome_1": 1.99,
+    "outcome_X": 3.4,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "SC Preussen Munster",
+    "away_name": "1. FC Duren",
+    "outcome_1": 1.23,
+    "outcome_X": 5.05,
+    "outcome_2": 8.9
+  },
+  {
+    "home_name": "SG Barockstadt Fulda-Lehnerz",
+    "away_name": "FC Rot-Weiss Koblenz",
+    "outcome_1": 1.79,
+    "outcome_X": 3.4,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "SGV Freiberg",
+    "away_name": "VfR Wormatia 08 Worms",
+    "outcome_1": 2.19,
+    "outcome_X": 3.25,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "SV 07 Elversberg",
+    "away_name": "VfL 1899 Osnabruck",
+    "outcome_1": 2.14,
+    "outcome_X": 3.55,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "SV Heimstetten",
+    "away_name": "VfB Eichstatt",
+    "outcome_1": 2.08,
+    "outcome_X": 3.5,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "SV Meppen 1912",
+    "away_name": "Borussia Dortmund II",
+    "outcome_1": 2.24,
+    "outcome_X": 3.4,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "SV Waldhof Mannheim",
+    "away_name": "Rot-Weiss Essen",
+    "outcome_1": 2.2,
+    "outcome_X": 3.38,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "SV Werder Bremen II",
+    "away_name": "Bremer SV 1906",
+    "outcome_1": 1.54,
+    "outcome_X": 3.9,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Siarka Tarnobrzeg",
+    "away_name": "Stomil Olsztyn",
+    "outcome_1": 2.45,
+    "outcome_X": 3.1,
+    "outcome_2": 2.45
+  },
+  {
+    "home_name": "Spal Ferrara",
+    "away_name": "Cosenza",
+    "outcome_1": 1.73,
+    "outcome_X": 3.45,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "TSV 1860 Munchen",
+    "away_name": "SV Wehen Wiesbaden",
+    "outcome_1": 2.7,
+    "outcome_X": 3.4,
+    "outcome_2": 2.42
+  },
+  {
+    "home_name": "TSV 1896 Rain",
+    "away_name": "SpVgg Unterhaching",
+    "outcome_1": 4.6,
+    "outcome_X": 3.95,
+    "outcome_2": 1.54
+  },
+  {
+    "home_name": "TSV Aubstadt",
+    "away_name": "FC Wurzburger Kickers",
+    "outcome_1": 2.9,
+    "outcome_X": 3.6,
+    "outcome_2": 2.02
+  },
+  {
+    "home_name": "TSV Buchbach",
+    "away_name": "DJK Vilzing",
+    "outcome_1": 1.98,
+    "outcome_X": 3.55,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "VfR Aalen",
+    "away_name": "Eintracht Trier",
+    "outcome_1": 2.23,
+    "outcome_X": 3.3,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Wacker Burghausen",
+    "away_name": "FC Pipinsried",
+    "outcome_1": 1.44,
+    "outcome_X": 4.25,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "Wuppertaler SV",
+    "away_name": "RW Oberhausen",
+    "outcome_1": 2.15,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Zaglebie Lubin II",
+    "away_name": "LKP Motor Lublin",
+    "outcome_1": 2.38,
+    "outcome_X": 3.1,
+    "outcome_2": 2.52
+  },
+  {
+    "home_name": "FK Spartak 1918 Varna",
+    "away_name": "Tsjerno More Varna",
+    "outcome_1": 5.55,
+    "outcome_X": 3.7,
+    "outcome_2": 1.54
+  },
+  {
+    "home_name": "ACR Messina",
+    "away_name": "Latina Calcio",
+    "outcome_1": 2.65,
+    "outcome_X": 2.95,
+    "outcome_2": 2.48
+  },
+  {
+    "home_name": "AZ Picerno",
+    "away_name": "US Viterbese",
+    "outcome_1": 1.97,
+    "outcome_X": 3.05,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "BK Fremad Amager",
+    "away_name": "Nykobing",
+    "outcome_1": 1.74,
+    "outcome_X": 3.65,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Calcio Foggia",
+    "away_name": "Fidelis Andria",
+    "outcome_1": 1.79,
+    "outcome_X": 3.05,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Delfino Pescara",
+    "away_name": "Audace Cerignola",
+    "outcome_1": 1.54,
+    "outcome_X": 3.6,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "FC Dornbirn",
+    "away_name": "Sturm Graz II",
+    "outcome_1": 3.75,
+    "outcome_X": 3.7,
+    "outcome_2": 1.78
+  },
+  {
+    "home_name": "FK Igman Konjic",
+    "away_name": "FK Borac Banja Luka",
+    "outcome_1": 2.7,
+    "outcome_X": 3.2,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "FK Leotar Trebinje",
+    "away_name": "NK siroki Brijeg",
+    "outcome_1": 3.75,
+    "outcome_X": 3.4,
+    "outcome_2": 1.79
+  },
+  {
+    "home_name": "Kapfenberger SV",
+    "away_name": "Blau-Weiss Linz",
+    "outcome_1": 8.9,
+    "outcome_X": 5.8,
+    "outcome_2": 1.23
+  },
+  {
+    "home_name": "SV Horn",
+    "away_name": "SKN St Polten",
+    "outcome_1": 2.55,
+    "outcome_X": 3.45,
+    "outcome_2": 2.4
+  },
+  {
+    "home_name": "US Salernitana",
+    "away_name": "Spezia",
+    "outcome_1": 2.02,
+    "outcome_X": 3.45,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "FKS Stal Mielec",
+    "away_name": "Wisla Plock",
+    "outcome_1": 2.85,
+    "outcome_X": 3.3,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "Aasane Fotball",
+    "away_name": "Bryne FK",
+    "outcome_1": 2.28,
+    "outcome_X": 3.6,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Altay Izmir",
+    "away_name": "Buyuksehir Belediye Erzurumspor",
+    "outcome_1": 2.65,
+    "outcome_X": 3.05,
+    "outcome_2": 2.39
+  },
+  {
+    "home_name": "Amiens SC",
+    "away_name": "AS Saint-Etienne",
+    "outcome_1": 2.54,
+    "outcome_X": 3.2,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Bravo Ljubljana",
+    "away_name": "NK Celje",
+    "outcome_1": 3.3,
+    "outcome_X": 3.38,
+    "outcome_2": 2.1
+  },
+  {
+    "home_name": "Fredrikstad FK",
+    "away_name": "SK Brann",
+    "outcome_1": 6.6,
+    "outcome_X": 5.15,
+    "outcome_2": 1.36
+  },
+  {
+    "home_name": "KFUM Oslo",
+    "away_name": "Stjordals-Blink",
+    "outcome_1": 1.22,
+    "outcome_X": 6.6,
+    "outcome_2": 9.45
+  },
+  {
+    "home_name": "KS Wisla Pulawy",
+    "away_name": "MKS Znicz Pruszkow",
+    "outcome_1": 1.95,
+    "outcome_X": 3.25,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Khor Fakkan Club",
+    "away_name": "Shabab Al-Ahli Dubai FC",
+    "outcome_1": 3.7,
+    "outcome_X": 3.65,
+    "outcome_2": 1.74
+  },
+  {
+    "home_name": "Landskrona BoIS",
+    "away_name": "Eskilstuna",
+    "outcome_1": 2.05,
+    "outcome_X": 3.55,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "MFK Karvina",
+    "away_name": "Dukla Prague",
+    "outcome_1": 2.1,
+    "outcome_X": 3.2,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "MFK Tatran Liptovsky Mikulas",
+    "away_name": "Vion Zlate Moravce",
+    "outcome_1": 2.25,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Mjoendalen IF",
+    "away_name": "Grorud IL",
+    "outcome_1": 1.51,
+    "outcome_X": 4.5,
+    "outcome_2": 5.05
+  },
+  {
+    "home_name": "MsK zilina",
+    "away_name": "Spartak Trnava",
+    "outcome_1": 3.38,
+    "outcome_X": 3.5,
+    "outcome_2": 1.94
+  },
+  {
+    "home_name": "NK Lokomotiva Zagreb",
+    "away_name": "HNK Gorica",
+    "outcome_1": 2.08,
+    "outcome_X": 3.3,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Ranheim",
+    "away_name": "Raufoss IL",
+    "outcome_1": 1.66,
+    "outcome_X": 4.1,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Ruzomberok",
+    "away_name": "Dukla Banska Bystrica",
+    "outcome_1": 1.75,
+    "outcome_X": 3.55,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "SV Atlas Delmenhorst",
+    "away_name": "Eintracht Norderstedt",
+    "outcome_1": 2.09,
+    "outcome_X": 3.38,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Sandecja Nowy Sacz",
+    "away_name": "Bruk-Bet Termalica Nieciecza",
+    "outcome_1": 3.15,
+    "outcome_X": 3.3,
+    "outcome_2": 2.1
+  },
+  {
+    "home_name": "Sandnes Ulf",
+    "away_name": "Stabaek IF",
+    "outcome_1": 3.65,
+    "outcome_X": 3.95,
+    "outcome_2": 1.8
+  },
+  {
+    "home_name": "Skeid Fotball",
+    "away_name": "Kongsvinger IL",
+    "outcome_1": 3.2,
+    "outcome_X": 3.65,
+    "outcome_2": 2.02
+  },
+  {
+    "home_name": "Sogndal",
+    "away_name": "IK Start",
+    "outcome_1": 2.8,
+    "outcome_X": 3.85,
+    "outcome_2": 2.16
+  },
+  {
+    "home_name": "Szeged-Csanad Grosics Akademia",
+    "away_name": "Kozarmisleny SE",
+    "outcome_1": 1.54,
+    "outcome_X": 3.75,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "Zemplin Michalovce",
+    "away_name": "AS Trencin",
+    "outcome_1": 2.9,
+    "outcome_X": 3.45,
+    "outcome_2": 2.16
+  },
+  {
+    "home_name": "osters",
+    "away_name": "orgryte",
+    "outcome_1": 1.69,
+    "outcome_X": 3.7,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "ostersunds",
+    "away_name": "Trelleborgs",
+    "outcome_1": 2.85,
+    "outcome_X": 3.5,
+    "outcome_2": 2.25
+  },
+  {
+    "home_name": "Borussia Dortmund",
+    "away_name": "VfB Stuttgart",
+    "outcome_1": 1.52,
+    "outcome_X": 4.65,
+    "outcome_2": 5.7
+  },
+  {
+    "home_name": "FC Augsburg",
+    "away_name": "RB Leipzig",
+    "outcome_1": 5.3,
+    "outcome_X": 4.45,
+    "outcome_2": 1.57
+  },
+  {
+    "home_name": "TSG Hoffenheim",
+    "away_name": "Bayern M\u00fcnchen",
+    "outcome_1": 5.35,
+    "outcome_X": 5.05,
+    "outcome_2": 1.5
+  },
+  {
+    "home_name": "Bayer Leverkusen",
+    "away_name": "VfL Wolfsburg",
+    "outcome_1": 1.68,
+    "outcome_X": 4.2,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "SC Freiburg",
+    "away_name": "Werder Bremen",
+    "outcome_1": 1.92,
+    "outcome_X": 3.85,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Brondby IF",
+    "away_name": "HB Koge",
+    "outcome_1": 5.1,
+    "outcome_X": 4.2,
+    "outcome_2": 1.5
+  },
+  {
+    "home_name": "SC Eendracht Aalst",
+    "away_name": "Club Brugge YLA",
+    "outcome_1": 13.0,
+    "outcome_X": 6.5,
+    "outcome_2": 1.1
+  },
+  {
+    "home_name": "SK Lisen Brno",
+    "away_name": "1.SK Prostejov",
+    "outcome_1": 1.53,
+    "outcome_X": 3.75,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "Manchester City",
+    "away_name": "Brighton & Hove Albion",
+    "outcome_1": 1.2,
+    "outcome_X": 7.05,
+    "outcome_2": 13.0
+  },
+  {
+    "home_name": "Everton",
+    "away_name": "Crystal Palace",
+    "outcome_1": 2.5,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Blackburn Rovers",
+    "away_name": "Birmingham City",
+    "outcome_1": 2.0,
+    "outcome_X": 3.4,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Middlesbrough",
+    "away_name": "Huddersfield Town",
+    "outcome_1": 1.74,
+    "outcome_X": 3.7,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "Millwall",
+    "away_name": "West Bromwich Albion",
+    "outcome_1": 2.75,
+    "outcome_X": 3.3,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "Queens Park Rangers",
+    "away_name": "Wigan Athletic",
+    "outcome_1": 2.05,
+    "outcome_X": 3.45,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Reading",
+    "away_name": "Bristol City",
+    "outcome_1": 2.49,
+    "outcome_X": 3.38,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Rotherham United",
+    "away_name": "Hull City",
+    "outcome_1": 2.23,
+    "outcome_X": 3.38,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Sheffield United",
+    "away_name": "Norwich City",
+    "outcome_1": 2.46,
+    "outcome_X": 3.38,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Stoke City",
+    "away_name": "Coventry City",
+    "outcome_1": 2.22,
+    "outcome_X": 3.38,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Sunderland AFC",
+    "away_name": "Burnley",
+    "outcome_1": 3.0,
+    "outcome_X": 3.38,
+    "outcome_2": 2.38
+  },
+  {
+    "home_name": "Trabzonspor",
+    "away_name": "Sivasspor",
+    "outcome_1": 1.61,
+    "outcome_X": 3.95,
+    "outcome_2": 4.85
+  },
+  {
+    "home_name": "FC Kopenhagen",
+    "away_name": "Midtjylland",
+    "outcome_1": 2.28,
+    "outcome_X": 3.4,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Rangers FC",
+    "away_name": "Livingston",
+    "outcome_1": 1.18,
+    "outcome_X": 6.65,
+    "outcome_2": 14.5
+  },
+  {
+    "home_name": "Aatvidabergs FF",
+    "away_name": "GAIS",
+    "outcome_1": 6.95,
+    "outcome_X": 4.65,
+    "outcome_2": 1.31
+  },
+  {
+    "home_name": "Accrington Stanley",
+    "away_name": "Bolton Wanderers",
+    "outcome_1": 2.85,
+    "outcome_X": 3.38,
+    "outcome_2": 2.34
+  },
+  {
+    "home_name": "Aldershot Town FC",
+    "away_name": "York City FC",
+    "outcome_1": 2.9,
+    "outcome_X": 3.3,
+    "outcome_2": 2.22
+  },
+  {
+    "home_name": "Arbroath FC",
+    "away_name": "Hamilton Academical",
+    "outcome_1": 2.22,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Ayr United FC",
+    "away_name": "Cove Rangers FC",
+    "outcome_1": 1.77,
+    "outcome_X": 3.55,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Barnet FC",
+    "away_name": "Maidenhead United FC",
+    "outcome_1": 2.28,
+    "outcome_X": 3.4,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Bath City FC",
+    "away_name": "Cheshunt FC",
+    "outcome_1": 1.67,
+    "outcome_X": 3.65,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Blyth Spartans AFC",
+    "away_name": "Alfreton Town FC",
+    "outcome_1": 2.95,
+    "outcome_X": 3.25,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Boreham Wood FC",
+    "away_name": "Wrexham AFC",
+    "outcome_1": 3.45,
+    "outcome_X": 3.6,
+    "outcome_2": 1.89
+  },
+  {
+    "home_name": "Boston United FC",
+    "away_name": "Curzon Ashton FC",
+    "outcome_1": 2.05,
+    "outcome_X": 3.38,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Brackley Town FC",
+    "away_name": "Buxton FC",
+    "outcome_1": 1.86,
+    "outcome_X": 3.38,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Bradford Park Avenue AFC",
+    "away_name": "Hereford FC",
+    "outcome_1": 3.1,
+    "outcome_X": 3.4,
+    "outcome_2": 1.98
+  },
+  {
+    "home_name": "Bristol Rovers",
+    "away_name": "Plymouth Argyle",
+    "outcome_1": 3.1,
+    "outcome_X": 3.45,
+    "outcome_2": 2.13
+  },
+  {
+    "home_name": "Burton Albion",
+    "away_name": "Cheltenham Town",
+    "outcome_1": 2.08,
+    "outcome_X": 3.4,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "CD Diocesano",
+    "away_name": "CD Leganes B",
+    "outcome_1": 2.08,
+    "outcome_X": 2.9,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Cambridge United",
+    "away_name": "Port Vale",
+    "outcome_1": 2.65,
+    "outcome_X": 3.2,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "Carlisle United",
+    "away_name": "Leyton Orient",
+    "outcome_1": 2.8,
+    "outcome_X": 3.15,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "Chelmsford City",
+    "away_name": "Hemel Hempstead Town",
+    "outcome_1": 1.91,
+    "outcome_X": 3.25,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Chester FC",
+    "away_name": "Kettering Town",
+    "outcome_1": 1.8,
+    "outcome_X": 3.4,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Chesterfield FC",
+    "away_name": "Bromley FC",
+    "outcome_1": 1.92,
+    "outcome_X": 3.55,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Clyde FC",
+    "away_name": "Queen of The South FC",
+    "outcome_1": 3.05,
+    "outcome_X": 3.3,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "Coleraine FC",
+    "away_name": "Cliftonville FC",
+    "outcome_1": 2.9,
+    "outcome_X": 3.3,
+    "outcome_2": 2.21
+  },
+  {
+    "home_name": "Crawley Town",
+    "away_name": "Mansfield Town",
+    "outcome_1": 4.35,
+    "outcome_X": 3.5,
+    "outcome_2": 1.77
+  },
+  {
+    "home_name": "Crewe Alexandra",
+    "away_name": "Doncaster Rovers",
+    "outcome_1": 2.31,
+    "outcome_X": 3.3,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Crusaders FC",
+    "away_name": "Portadown FC",
+    "outcome_1": 1.1,
+    "outcome_X": 7.65,
+    "outcome_2": 16.25
+  },
+  {
+    "home_name": "Dorking Wanderers",
+    "away_name": "Wealdstone FC",
+    "outcome_1": 2.01,
+    "outcome_X": 3.55,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Dover Athletic FC",
+    "away_name": "Farnborough FC",
+    "outcome_1": 2.03,
+    "outcome_X": 3.2,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Dulwich Hamlet",
+    "away_name": "Hungerford Town FC",
+    "outcome_1": 1.87,
+    "outcome_X": 3.4,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Eastbourne Borough",
+    "away_name": "Braintree Town FC",
+    "outcome_1": 2.12,
+    "outcome_X": 3.3,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Ebbsfleet United FC",
+    "away_name": "Welling United FC",
+    "outcome_1": 1.43,
+    "outcome_X": 4.1,
+    "outcome_2": 5.7
+  },
+  {
+    "home_name": "Edinburgh City FC",
+    "away_name": "Airdrieonians FC",
+    "outcome_1": 2.75,
+    "outcome_X": 3.3,
+    "outcome_2": 2.31
+  },
+  {
+    "home_name": "Exeter City",
+    "away_name": "Fleetwood Town",
+    "outcome_1": 1.88,
+    "outcome_X": 3.45,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "FC Dundee",
+    "away_name": "Greenock Morton FC",
+    "outcome_1": 1.6,
+    "outcome_X": 3.7,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "FC Halifax Town",
+    "away_name": "Dagenham and Redbridge FC",
+    "outcome_1": 2.12,
+    "outcome_X": 3.4,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "FC Slovan Liberec",
+    "away_name": "FK Jablonec",
+    "outcome_1": 2.2,
+    "outcome_X": 3.3,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "FC Voluntari",
+    "away_name": "AFC Chindia Targoviste",
+    "outcome_1": 2.31,
+    "outcome_X": 2.95,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "FK Pardubice",
+    "away_name": "FC Zbrojovka Brno",
+    "outcome_1": 2.75,
+    "outcome_X": 3.45,
+    "outcome_2": 2.34
+  },
+  {
+    "home_name": "Falkirk FC",
+    "away_name": "Kelty Hearts FC",
+    "outcome_1": 1.79,
+    "outcome_X": 3.5,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Forest Green Rovers",
+    "away_name": "Portsmouth",
+    "outcome_1": 3.8,
+    "outcome_X": 3.55,
+    "outcome_2": 1.86
+  },
+  {
+    "home_name": "Gateshead FC",
+    "away_name": "Woking FC",
+    "outcome_1": 2.62,
+    "outcome_X": 3.3,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "Gillingham FC",
+    "away_name": "Barrow AFC",
+    "outcome_1": 2.75,
+    "outcome_X": 3.0,
+    "outcome_2": 2.63
+  },
+  {
+    "home_name": "Glenavon FC",
+    "away_name": "Carrick Rangers",
+    "outcome_1": 1.85,
+    "outcome_X": 3.6,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Gloucester City",
+    "away_name": "Farsley Celtic FC",
+    "outcome_1": 1.87,
+    "outcome_X": 3.4,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Grimsby Town",
+    "away_name": "Bradford City",
+    "outcome_1": 2.33,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Hampton & Richmond Borough",
+    "away_name": "Concord Rangers",
+    "outcome_1": 1.65,
+    "outcome_X": 3.6,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Harrogate Town",
+    "away_name": "Tranmere Rovers",
+    "outcome_1": 2.75,
+    "outcome_X": 3.15,
+    "outcome_2": 2.5
+  },
+  {
+    "home_name": "Havant & Waterlooville",
+    "away_name": "Oxford City",
+    "outcome_1": 1.61,
+    "outcome_X": 3.75,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Hyderabad FC",
+    "away_name": "Bengaluru FC",
+    "outcome_1": 2.14,
+    "outcome_X": 3.38,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Inverness Caledonian Thistle FC",
+    "away_name": "Raith Rovers FC",
+    "outcome_1": 1.93,
+    "outcome_X": 3.38,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Jong KRC Genk",
+    "away_name": "K Beerschot VA",
+    "outcome_1": 2.59,
+    "outcome_X": 3.45,
+    "outcome_2": 2.35
+  },
+  {
+    "home_name": "KV Kortrijk",
+    "away_name": "KVC Westerlo",
+    "outcome_1": 3.05,
+    "outcome_X": 3.6,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "Kidderminster Harriers FC",
+    "away_name": "Southport FC",
+    "outcome_1": 1.51,
+    "outcome_X": 3.8,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "Kilmarnock",
+    "away_name": "Ross County",
+    "outcome_1": 2.04,
+    "outcome_X": 3.3,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Kings Lynn FC",
+    "away_name": "Darlington FC",
+    "outcome_1": 1.94,
+    "outcome_X": 3.38,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Leamington FC",
+    "away_name": "AFC Fylde",
+    "outcome_1": 3.4,
+    "outcome_X": 3.25,
+    "outcome_2": 1.92
+  },
+  {
+    "home_name": "Linfield FC",
+    "away_name": "Larne FC",
+    "outcome_1": 2.22,
+    "outcome_X": 3.25,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Milton Keynes Dons",
+    "away_name": "Wycombe Wanderers",
+    "outcome_1": 2.7,
+    "outcome_X": 3.25,
+    "outcome_2": 2.47
+  },
+  {
+    "home_name": "Montrose FC",
+    "away_name": "Dunfermline Athletic FC",
+    "outcome_1": 2.38,
+    "outcome_X": 3.3,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Morecambe FC",
+    "away_name": "Barnsley",
+    "outcome_1": 3.75,
+    "outcome_X": 3.45,
+    "outcome_2": 1.92
+  },
+  {
+    "home_name": "Motherwell",
+    "away_name": "Aberdeen",
+    "outcome_1": 2.75,
+    "outcome_X": 3.25,
+    "outcome_2": 2.51
+  },
+  {
+    "home_name": "Newport County",
+    "away_name": "Colchester United",
+    "outcome_1": 2.22,
+    "outcome_X": 3.25,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Newry City AFC",
+    "away_name": "Glentoran FC",
+    "outcome_1": 6.2,
+    "outcome_X": 4.4,
+    "outcome_2": 1.41
+  },
+  {
+    "home_name": "Oldham Athletic",
+    "away_name": "Yeovil Town",
+    "outcome_1": 2.38,
+    "outcome_X": 3.25,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Oskarshamns AIK",
+    "away_name": "Vanersborgs IF",
+    "outcome_1": 1.7,
+    "outcome_X": 3.7,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "Oxford United",
+    "away_name": "Peterborough United",
+    "outcome_1": 2.37,
+    "outcome_X": 3.45,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Partick Thistle FC",
+    "away_name": "Queens Park FC",
+    "outcome_1": 1.63,
+    "outcome_X": 3.7,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Peterborough Sports",
+    "away_name": "Chorley FC",
+    "outcome_1": 2.45,
+    "outcome_X": 3.3,
+    "outcome_2": 2.44
+  },
+  {
+    "home_name": "Peterhead FC",
+    "away_name": "Alloa Athletic FC",
+    "outcome_1": 2.95,
+    "outcome_X": 3.45,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Rochdale AFC",
+    "away_name": "AFC Wimbledon",
+    "outcome_1": 2.23,
+    "outcome_X": 3.15,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "SK Sigma Olomouc",
+    "away_name": "FC Zlin",
+    "outcome_1": 1.93,
+    "outcome_X": 3.4,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Salford City",
+    "away_name": "Stockport County FC",
+    "outcome_1": 2.62,
+    "outcome_X": 3.15,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "Sandvikens IF",
+    "away_name": "Orebro Syrianska IF",
+    "outcome_1": 1.29,
+    "outcome_X": 4.95,
+    "outcome_2": 7.1
+  },
+  {
+    "home_name": "Scarborough Athletic",
+    "away_name": "AFC Telford United",
+    "outcome_1": 2.05,
+    "outcome_X": 3.38,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Shrewsbury Town",
+    "away_name": "Charlton Athletic",
+    "outcome_1": 2.65,
+    "outcome_X": 3.2,
+    "outcome_2": 2.54
+  },
+  {
+    "home_name": "Slough Town FC",
+    "away_name": "Weymouth FC",
+    "outcome_1": 1.96,
+    "outcome_X": 3.25,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Solihull Moors FC",
+    "away_name": "Eastleigh FC",
+    "outcome_1": 1.77,
+    "outcome_X": 3.8,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Southend United",
+    "away_name": "Scunthorpe United",
+    "outcome_1": 1.91,
+    "outcome_X": 3.45,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Spennymoor Town FC",
+    "away_name": "Banbury United",
+    "outcome_1": 2.01,
+    "outcome_X": 3.25,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "St Albans City",
+    "away_name": "Dartford FC",
+    "outcome_1": 2.65,
+    "outcome_X": 3.38,
+    "outcome_2": 2.25
+  },
+  {
+    "home_name": "St Mirren",
+    "away_name": "Dundee United",
+    "outcome_1": 2.03,
+    "outcome_X": 3.3,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Stevenage FC",
+    "away_name": "Northampton Town",
+    "outcome_1": 1.86,
+    "outcome_X": 3.38,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Sutton United",
+    "away_name": "Walsall FC",
+    "outcome_1": 2.42,
+    "outcome_X": 3.1,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Swindon Town",
+    "away_name": "Hartlepool United",
+    "outcome_1": 1.71,
+    "outcome_X": 3.7,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Tonbridge Angels",
+    "away_name": "Chippenham Town",
+    "outcome_1": 2.1,
+    "outcome_X": 3.2,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Torns IF",
+    "away_name": "IK Oddevold",
+    "outcome_1": 3.95,
+    "outcome_X": 3.6,
+    "outcome_2": 1.69
+  },
+  {
+    "home_name": "Worthing FC",
+    "away_name": "Taunton Town",
+    "outcome_1": 1.67,
+    "outcome_X": 3.55,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Real Valladolid",
+    "away_name": "Real Sociedad San Sebastian",
+    "outcome_1": 3.65,
+    "outcome_X": 3.45,
+    "outcome_2": 2.07
+  },
+  {
+    "home_name": "Villarreal CF B",
+    "away_name": "FC Andorra",
+    "outcome_1": 2.36,
+    "outcome_X": 3.15,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Ternana Calcio",
+    "away_name": "Genoa",
+    "outcome_1": 3.75,
+    "outcome_X": 3.45,
+    "outcome_2": 1.92
+  },
+  {
+    "home_name": "Feyenoord",
+    "away_name": "Fortuna Sittard",
+    "outcome_1": 1.21,
+    "outcome_X": 7.1,
+    "outcome_2": 11.75
+  },
+  {
+    "home_name": "Famalicao",
+    "away_name": "Pacos Ferreira",
+    "outcome_1": 1.73,
+    "outcome_X": 3.5,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "Fehervar FC Szekesfehervar",
+    "away_name": "Paksi",
+    "outcome_1": 1.78,
+    "outcome_X": 3.7,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Hapoel Jerusalem FC",
+    "away_name": "Hapoel Be`er Sheva FC",
+    "outcome_1": 3.05,
+    "outcome_X": 3.3,
+    "outcome_2": 2.12
+  },
+  {
+    "home_name": "Slavia Sofia",
+    "away_name": "CSKA 1948 Sofia",
+    "outcome_1": 3.1,
+    "outcome_X": 3.4,
+    "outcome_2": 2.08
+  },
+  {
+    "home_name": "Montpellier",
+    "away_name": "Olympique Lyon",
+    "outcome_1": 3.95,
+    "outcome_X": 3.95,
+    "outcome_2": 1.84
+  },
+  {
+    "home_name": "Bekescsaba 1912 Elore",
+    "away_name": "Nyiregyhaza Spartacus FC",
+    "outcome_1": 2.52,
+    "outcome_X": 3.2,
+    "outcome_2": 2.43
+  },
+  {
+    "home_name": "Cadiz CF B",
+    "away_name": "Velez CF",
+    "outcome_1": 2.08,
+    "outcome_X": 2.95,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "FK Zeljeznicar Sarajevo",
+    "away_name": "FK Velez Mostar",
+    "outcome_1": 2.09,
+    "outcome_X": 3.3,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Gimnastic de Tarragona",
+    "away_name": "Numancia",
+    "outcome_1": 2.21,
+    "outcome_X": 3.0,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "HSK Zrinjski Mostar",
+    "away_name": "FK Sloga Doboj",
+    "outcome_1": 1.35,
+    "outcome_X": 4.25,
+    "outcome_2": 6.9
+  },
+  {
+    "home_name": "Kazincbarcikai SC",
+    "away_name": "Tiszakecskei LC",
+    "outcome_1": 2.1,
+    "outcome_X": 3.25,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "MTK Budapest",
+    "away_name": "BFC Siofok",
+    "outcome_1": 1.49,
+    "outcome_X": 3.95,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "Pafos FC",
+    "away_name": "AC Omonia Nicosia",
+    "outcome_1": 2.05,
+    "outcome_X": 3.15,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Pecsi MFC",
+    "away_name": "FC Ajka",
+    "outcome_1": 1.6,
+    "outcome_X": 3.7,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "RB Salzburg",
+    "away_name": "SK Sturm Graz",
+    "outcome_1": 1.6,
+    "outcome_X": 3.8,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "Racing Club de Ferrol",
+    "away_name": "Cordoba CF",
+    "outcome_1": 2.63,
+    "outcome_X": 3.0,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "SK Rapid Wien",
+    "away_name": "SK Austria Klagenfurt",
+    "outcome_1": 1.8,
+    "outcome_X": 3.8,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "TSV Hartberg",
+    "away_name": "WSG Tirol",
+    "outcome_1": 2.38,
+    "outcome_X": 3.5,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Varteks Varazdin",
+    "away_name": "NK Osijek",
+    "outcome_1": 2.95,
+    "outcome_X": 3.2,
+    "outcome_2": 2.24
+  },
+  {
+    "home_name": "Legia Warschau",
+    "away_name": "Pogon Szczecin",
+    "outcome_1": 2.1,
+    "outcome_X": 3.38,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "CD Laredo",
+    "away_name": "CD Arenteiro",
+    "outcome_1": 3.05,
+    "outcome_X": 2.65,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "FC Giugliano 1928",
+    "away_name": "ASD Gelbison",
+    "outcome_1": 2.05,
+    "outcome_X": 2.95,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Taranto FC",
+    "away_name": "Potenza Calcio",
+    "outcome_1": 2.04,
+    "outcome_X": 2.95,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "US Catanzaro",
+    "away_name": "Juve Stabia",
+    "outcome_1": 1.48,
+    "outcome_X": 3.7,
+    "outcome_2": 5.8
+  },
+  {
+    "home_name": "Virtus Francavilla Calcio",
+    "away_name": "US Avellino",
+    "outcome_1": 2.56,
+    "outcome_X": 2.9,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "Wisla Krakow",
+    "away_name": "Podbeskidzie",
+    "outcome_1": 1.9,
+    "outcome_X": 3.38,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Hapoel Haifa FC",
+    "away_name": "Sektzia Ness Ziona FC",
+    "outcome_1": 1.74,
+    "outcome_X": 3.55,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "AC Milan",
+    "away_name": "AC Monza",
+    "outcome_1": 1.39,
+    "outcome_X": 5.1,
+    "outcome_2": 7.55
+  },
+  {
+    "home_name": "Atromitos Athinon",
+    "away_name": "Volos NPS",
+    "outcome_1": 2.12,
+    "outcome_X": 3.3,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Young Boys Bern",
+    "away_name": "Sion",
+    "outcome_1": 1.42,
+    "outcome_X": 4.7,
+    "outcome_2": 6.1
+  },
+  {
+    "home_name": "AC Bellinzona",
+    "away_name": "Yverdon-Sport",
+    "outcome_1": 2.64,
+    "outcome_X": 3.45,
+    "outcome_2": 2.31
+  },
+  {
+    "home_name": "Al-Nasr Dubai CSC",
+    "away_name": "Al-Ain FC",
+    "outcome_1": 3.55,
+    "outcome_X": 3.65,
+    "outcome_2": 1.78
+  },
+  {
+    "home_name": "Denizlispor",
+    "away_name": "Altinordu FK",
+    "outcome_1": 2.27,
+    "outcome_X": 3.1,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "FC Schaffhausen",
+    "away_name": "Stade Lausanne Ouchy",
+    "outcome_1": 2.42,
+    "outcome_X": 3.45,
+    "outcome_2": 2.51
+  },
+  {
+    "home_name": "Hamarkameratene",
+    "away_name": "Stroemsgodset IF",
+    "outcome_1": 2.04,
+    "outcome_X": 3.45,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "IF Sylvia",
+    "away_name": "Vasalunds IF",
+    "outcome_1": 3.25,
+    "outcome_X": 3.4,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "Odds BK",
+    "away_name": "Vaalerenga IF",
+    "outcome_1": 2.95,
+    "outcome_X": 3.6,
+    "outcome_2": 2.22
+  },
+  {
+    "home_name": "KV Mechelen",
+    "away_name": "KAS Eupen",
+    "outcome_1": 1.94,
+    "outcome_X": 3.85,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "St. Truidense VV",
+    "away_name": "Oud-Heverlee Leuven",
+    "outcome_1": 2.07,
+    "outcome_X": 3.6,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Torquay United",
+    "away_name": "Altrincham FC",
+    "outcome_1": 2.9,
+    "outcome_X": 3.38,
+    "outcome_2": 2.19
+  },
+  {
+    "home_name": "Chelsea",
+    "away_name": "Manchester United",
+    "outcome_1": 2.08,
+    "outcome_X": 3.6,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Panaitolikos Agrinio",
+    "away_name": "Olympiacos Piraeus",
+    "outcome_1": 5.85,
+    "outcome_X": 4.2,
+    "outcome_2": 1.49
+  },
+  {
+    "home_name": "Borussia Monchengladbach",
+    "away_name": "Eintracht Frankfurt",
+    "outcome_1": 2.25,
+    "outcome_X": 3.8,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Valencia",
+    "away_name": "Real Mallorca",
+    "outcome_1": 1.78,
+    "outcome_X": 3.5,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "CD Mirandes",
+    "away_name": "Huesca",
+    "outcome_1": 2.38,
+    "outcome_X": 3.1,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Deportivo Alaves",
+    "away_name": "Sporting Gij\u00f3n",
+    "outcome_1": 2.18,
+    "outcome_X": 3.15,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Puskas Akademia FC Felcsut",
+    "away_name": "Ferencvarosi Budapest",
+    "outcome_1": 3.5,
+    "outcome_X": 3.38,
+    "outcome_2": 1.95
+  },
+  {
+    "home_name": "RKC Waalwijk",
+    "away_name": "Ajax",
+    "outcome_1": 9.45,
+    "outcome_X": 6.65,
+    "outcome_2": 1.26
+  },
+  {
+    "home_name": "FC Ashdod",
+    "away_name": "Beitar Jerusalem FC",
+    "outcome_1": 1.89,
+    "outcome_X": 3.4,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Levski Sofia",
+    "away_name": "Lokomotiv Plovdiv",
+    "outcome_1": 1.49,
+    "outcome_X": 3.8,
+    "outcome_2": 6.15
+  },
+  {
+    "home_name": "Fenerbahce",
+    "away_name": "Istanbul Basaksehir",
+    "outcome_1": 1.92,
+    "outcome_X": 3.55,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Estoril Praia",
+    "away_name": "SC Braga",
+    "outcome_1": 4.45,
+    "outcome_X": 3.8,
+    "outcome_2": 1.72
+  },
+  {
+    "home_name": "APOEL Nikosia",
+    "away_name": "AEK Larnaca",
+    "outcome_1": 2.06,
+    "outcome_X": 3.2,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Atletico Sanluqueno",
+    "away_name": "Juventud Torremolinos CF",
+    "outcome_1": 1.75,
+    "outcome_X": 2.95,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "CE Sabadell FC",
+    "away_name": "CF Intercity",
+    "outcome_1": 2.2,
+    "outcome_X": 3.1,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "CF Rayo Majadahonda",
+    "away_name": "CF Fuenlabrada",
+    "outcome_1": 3.0,
+    "outcome_X": 3.1,
+    "outcome_2": 2.23
+  },
+  {
+    "home_name": "Chamois FC",
+    "away_name": "Dijon FCO",
+    "outcome_1": 2.65,
+    "outcome_X": 3.1,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "Cultural Leonesa",
+    "away_name": "Pontevedra CF",
+    "outcome_1": 2.08,
+    "outcome_X": 3.15,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "EA Guingamp",
+    "away_name": "SC Bastia",
+    "outcome_1": 2.18,
+    "outcome_X": 3.05,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "FC Viktoria Plzen",
+    "away_name": "FC Banik Ostrava",
+    "outcome_1": 1.57,
+    "outcome_X": 4.1,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "Girondins Bordeaux",
+    "away_name": "Annecy FC",
+    "outcome_1": 1.76,
+    "outcome_X": 3.5,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Grenoble",
+    "away_name": "Valenciennes",
+    "outcome_1": 2.34,
+    "outcome_X": 3.05,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Oud-Heverlee Leuven",
+    "away_name": "SV Zulte Waregem",
+    "outcome_1": 1.03,
+    "outcome_X": 9.05,
+    "outcome_2": 17.0
+  },
+  {
+    "home_name": "Paris",
+    "away_name": "Stade Lavallois Mayenne",
+    "outcome_1": 1.86,
+    "outcome_X": 3.4,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Pau",
+    "away_name": "Nimes Olympique",
+    "outcome_1": 2.23,
+    "outcome_X": 3.15,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Real Union de Irun",
+    "away_name": "Real Sociedad San Sebastian B",
+    "outcome_1": 2.17,
+    "outcome_X": 3.15,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "SM Caen",
+    "away_name": "Rodez Aveyron",
+    "outcome_1": 1.78,
+    "outcome_X": 3.38,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Sochaux-Montbeliard",
+    "away_name": "Quevilly-Rouen Metropole",
+    "outcome_1": 1.69,
+    "outcome_X": 3.55,
+    "outcome_2": 4.85
+  },
+  {
+    "home_name": "Hapoel Ironi Kiryat Shmona FC",
+    "away_name": "Maccabi Haifa FC",
+    "outcome_1": 5.85,
+    "outcome_X": 4.15,
+    "outcome_2": 1.46
+  },
+  {
+    "home_name": "FC Dordrecht",
+    "away_name": "NAC Breda",
+    "outcome_1": 2.95,
+    "outcome_X": 3.7,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "MVV Maastricht",
+    "away_name": "FC Den Bosch",
+    "outcome_1": 2.44,
+    "outcome_X": 3.75,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "RKS Rakow Czestochowa",
+    "away_name": "Korona Kielce",
+    "outcome_1": 1.19,
+    "outcome_X": 6.2,
+    "outcome_2": 13.25
+  },
+  {
+    "home_name": "MKS Arka Gdynia",
+    "away_name": "MKS Chojniczanka Chojnice",
+    "outcome_1": 1.58,
+    "outcome_X": 3.8,
+    "outcome_2": 4.95
+  },
+  {
+    "home_name": "RSC Anderlecht Futures",
+    "away_name": "FCV Dender EH",
+    "outcome_1": 1.86,
+    "outcome_X": 3.55,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "NK Maribor",
+    "away_name": "NK Domzale",
+    "outcome_1": 1.86,
+    "outcome_X": 3.65,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Arminia Bielefeld",
+    "away_name": "FC St. Pauli",
+    "outcome_1": 2.95,
+    "outcome_X": 3.4,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "Luzern",
+    "away_name": "Lugano",
+    "outcome_1": 2.02,
+    "outcome_X": 3.6,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Fiorentina",
+    "away_name": "Internazionale",
+    "outcome_1": 3.6,
+    "outcome_X": 3.45,
+    "outcome_2": 2.07
+  },
+  {
+    "home_name": "FC U Craiova 1948",
+    "away_name": "AFC Hermannstadt",
+    "outcome_1": 2.02,
+    "outcome_X": 3.15,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Union Saint-Gilloise",
+    "away_name": "Club Brugge",
+    "outcome_1": 2.65,
+    "outcome_X": 3.45,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "Vitesse Arnhem",
+    "away_name": "FC Emmen",
+    "outcome_1": 1.81,
+    "outcome_X": 3.8,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Real Madrid",
+    "away_name": "Sevilla FC",
+    "outcome_1": 1.43,
+    "outcome_X": 4.9,
+    "outcome_2": 6.95
+  },
+  {
+    "home_name": "Olympique Marseille",
+    "away_name": "RC Lens",
+    "outcome_1": 2.09,
+    "outcome_X": 3.5,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "UD Ibiza",
+    "away_name": "Levante",
+    "outcome_1": 3.1,
+    "outcome_X": 3.25,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "Independiente Santa Fe",
+    "away_name": "AD Cali",
+    "outcome_1": 1.86,
+    "outcome_X": 3.25,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Sporting Lisbon",
+    "away_name": "Casa Pia Lisbon",
+    "outcome_1": 1.29,
+    "outcome_X": 5.25,
+    "outcome_2": 9.5
+  },
+  {
+    "home_name": "Bragantino",
+    "away_name": "Paranaense",
+    "outcome_1": 2.08,
+    "outcome_X": 3.25,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "B-SAD Lisbon",
+    "away_name": "SL Benfica B",
+    "outcome_1": 2.7,
+    "outcome_X": 3.2,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "Bahia",
+    "away_name": "Vila Nova FC GO",
+    "outcome_1": 1.48,
+    "outcome_X": 3.7,
+    "outcome_2": 6.35
+  },
+  {
+    "home_name": "Ituano FC SP",
+    "away_name": "Sampaio Correa",
+    "outcome_1": 1.83,
+    "outcome_X": 3.25,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Londrina EC PR",
+    "away_name": "Recife",
+    "outcome_1": 2.8,
+    "outcome_X": 2.8,
+    "outcome_2": 2.61
+  },
+  {
+    "home_name": "Vasco da Gama",
+    "away_name": "Criciuma EC SC",
+    "outcome_1": 1.73,
+    "outcome_X": 3.3,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Sportivo Ameliano",
+    "away_name": "Resistencia FC",
+    "outcome_1": 1.76,
+    "outcome_X": 3.45,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Club Bolivar",
+    "away_name": "Real Santa Cruz",
+    "outcome_1": 1.13,
+    "outcome_X": 5.7,
+    "outcome_2": 13.0
+  },
+  {
+    "home_name": "Nublense",
+    "away_name": "Huachipato",
+    "outcome_1": 1.64,
+    "outcome_X": 3.5,
+    "outcome_2": 4.9
+  },
+  {
+    "home_name": "AF Sporting San Miguelito",
+    "away_name": "Club Deportivo del Este",
+    "outcome_1": 2.02,
+    "outcome_X": 3.25,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "CD Arabe Unido",
+    "away_name": "Tauro FC",
+    "outcome_1": 1.94,
+    "outcome_X": 3.15,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "CD Plaza Amador Panama City",
+    "away_name": "Alianza FC Panama",
+    "outcome_1": 2.01,
+    "outcome_X": 2.9,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "America de Cali",
+    "away_name": "AD Pasto",
+    "outcome_1": 1.83,
+    "outcome_X": 3.1,
+    "outcome_2": 4.35
+  },
+  {
+    "home_name": "America FC",
+    "away_name": "CR Flamengo RJ",
+    "outcome_1": 3.5,
+    "outcome_X": 3.4,
+    "outcome_2": 2.05
+  },
+  {
+    "home_name": "Santos",
+    "away_name": "Corinthians",
+    "outcome_1": 2.3,
+    "outcome_X": 3.05,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Club Olimpia",
+    "away_name": "Club General Caballero JLM",
+    "outcome_1": 1.44,
+    "outcome_X": 4.2,
+    "outcome_2": 6.05
+  },
+  {
+    "home_name": "Universidad de Chile",
+    "away_name": "CD Everton Vina del Mar",
+    "outcome_1": 2.75,
+    "outcome_X": 3.3,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "Herrera FC",
+    "away_name": "San Francisco FC",
+    "outcome_1": 2.38,
+    "outcome_X": 3.0,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Veraguas United FC",
+    "away_name": "Atletico Chiriqui",
+    "outcome_1": 2.22,
+    "outcome_X": 2.9,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "SE Palmeiras SP",
+    "away_name": "Avai FC SC",
+    "outcome_1": 1.16,
+    "outcome_X": 6.85,
+    "outcome_2": 15.5
+  },
+  {
+    "home_name": "Sydney FC",
+    "away_name": "Adelaide United FC",
+    "outcome_1": 2.01,
+    "outcome_X": 3.55,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "FC Imabari",
+    "away_name": "Matsumoto Yamaga",
+    "outcome_1": 2.02,
+    "outcome_X": 3.2,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Fukushima United FC",
+    "away_name": "Kagoshima United",
+    "outcome_1": 2.63,
+    "outcome_X": 3.2,
+    "outcome_2": 2.35
+  },
+  {
+    "home_name": "Iwaki FC",
+    "away_name": "Ehime",
+    "outcome_1": 1.42,
+    "outcome_X": 4.0,
+    "outcome_2": 6.05
+  },
+  {
+    "home_name": "Vanraure Hachinohe FC",
+    "away_name": "Kataller Toyama",
+    "outcome_1": 3.1,
+    "outcome_X": 3.38,
+    "outcome_2": 1.99
+  },
+  {
+    "home_name": "AC Nagano Parceiro",
+    "away_name": "YSCC Yokohama",
+    "outcome_1": 1.44,
+    "outcome_X": 4.0,
+    "outcome_2": 5.8
+  },
+  {
+    "home_name": "Blaublitz Akita",
+    "away_name": "Vegalta Sendai",
+    "outcome_1": 3.1,
+    "outcome_X": 3.1,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "Giravanz Kitakyushu",
+    "away_name": "Gainare Tottori",
+    "outcome_1": 1.9,
+    "outcome_X": 3.38,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Kamatamare Sanuki",
+    "away_name": "SC Sagamihara",
+    "outcome_1": 2.16,
+    "outcome_X": 3.1,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Mito",
+    "away_name": "Thespakusatsu",
+    "outcome_1": 1.84,
+    "outcome_X": 3.3,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Montedio Yamagata",
+    "away_name": "Tokushima Vortis",
+    "outcome_1": 2.52,
+    "outcome_X": 3.1,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Niigata Albirex",
+    "away_name": "Machida Zelvia",
+    "outcome_1": 1.77,
+    "outcome_X": 3.45,
+    "outcome_2": 4.4
+  },
+  {
+    "home_name": "Omiya Ardija",
+    "away_name": "V-Varen Nagasaki",
+    "outcome_1": 2.64,
+    "outcome_X": 3.1,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Renofa Yamaguchi",
+    "away_name": "JEF United",
+    "outcome_1": 2.95,
+    "outcome_X": 2.95,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "Roasso Kumamoto",
+    "away_name": "Yokohama FC",
+    "outcome_1": 2.46,
+    "outcome_X": 3.1,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Ryukyu",
+    "away_name": "Oita Trinita",
+    "outcome_1": 3.85,
+    "outcome_X": 3.3,
+    "outcome_2": 1.94
+  },
+  {
+    "home_name": "Tokyo Verdy",
+    "away_name": "Fagiano Okayama",
+    "outcome_1": 2.65,
+    "outcome_X": 3.0,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Ventforet Kofu",
+    "away_name": "Grulla Morioka",
+    "outcome_1": 1.46,
+    "outcome_X": 4.2,
+    "outcome_2": 6.3
+  },
+  {
+    "home_name": "Zweigen Kanazawa",
+    "away_name": "Tochigi",
+    "outcome_1": 3.2,
+    "outcome_X": 3.0,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "Central Coast Mariners",
+    "away_name": "Perth Glory FC",
+    "outcome_1": 1.99,
+    "outcome_X": 3.6,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Jeonbuk Hyundai Motors",
+    "away_name": "Incheon United",
+    "outcome_1": 1.6,
+    "outcome_X": 3.85,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "Pohang Steelers",
+    "away_name": "Gangwon",
+    "outcome_1": 1.89,
+    "outcome_X": 3.4,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Ulsan Hyundai",
+    "away_name": "Jeju United",
+    "outcome_1": 1.81,
+    "outcome_X": 3.55,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Grazer AK",
+    "away_name": "First Vienna FC",
+    "outcome_1": 2.16,
+    "outcome_X": 3.38,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Sparta Prague B",
+    "away_name": "FK Fotbal Trinec",
+    "outcome_1": 1.73,
+    "outcome_X": 3.4,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "AD Union Adarve",
+    "away_name": "CD Atletico Paso",
+    "outcome_1": 1.73,
+    "outcome_X": 3.05,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Rayo Cantabria",
+    "away_name": "RS Gimnastica de Torrelavega",
+    "outcome_1": 1.95,
+    "outcome_X": 3.0,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Betis Deportivo Balompie",
+    "away_name": "Atletico Mancha Real",
+    "outcome_1": 1.5,
+    "outcome_X": 3.6,
+    "outcome_2": 5.7
+  },
+  {
+    "home_name": "CD Trofense",
+    "away_name": "FC Porto B",
+    "outcome_1": 2.7,
+    "outcome_X": 3.15,
+    "outcome_2": 2.32
+  },
+  {
+    "home_name": "AD Ceuta",
+    "away_name": "AD Alcorcon",
+    "outcome_1": 2.9,
+    "outcome_X": 3.2,
+    "outcome_2": 2.25
+  },
+  {
+    "home_name": "Atletico Madrid B",
+    "away_name": "UD Melilla",
+    "outcome_1": 2.59,
+    "outcome_X": 2.9,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "CA Osasuna B",
+    "away_name": "CD Calahorra",
+    "outcome_1": 2.02,
+    "outcome_X": 3.2,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "CD Alcoyano",
+    "away_name": "UD Logrones",
+    "outcome_1": 2.1,
+    "outcome_X": 3.1,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "CD Atletico Baleares",
+    "away_name": "Club Deportivo Eldense",
+    "outcome_1": 2.53,
+    "outcome_X": 3.1,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "CD Badajoz",
+    "away_name": "Real Balompedica Linense",
+    "outcome_1": 2.07,
+    "outcome_X": 3.2,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "CD Castellon",
+    "away_name": "SD Amorebieta",
+    "outcome_1": 1.64,
+    "outcome_X": 3.4,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "CD Don Benito",
+    "away_name": "Cerdanyola del Valles",
+    "outcome_1": 2.59,
+    "outcome_X": 2.85,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "CD Estepona",
+    "away_name": "CDA Navalcarnero",
+    "outcome_1": 2.62,
+    "outcome_X": 2.8,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "CD Guadalajara",
+    "away_name": "CF Villanovense",
+    "outcome_1": 2.59,
+    "outcome_X": 2.75,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "CF Algeciras",
+    "away_name": "CF Talavera de La Reina",
+    "outcome_1": 1.47,
+    "outcome_X": 3.9,
+    "outcome_2": 6.0
+  },
+  {
+    "home_name": "CR Granada",
+    "away_name": "RC Recreativo de Huelva",
+    "outcome_1": 2.43,
+    "outcome_X": 3.15,
+    "outcome_2": 2.56
+  },
+  {
+    "home_name": "Dziugas",
+    "away_name": "FK Panevezys",
+    "outcome_1": 6.35,
+    "outcome_X": 3.85,
+    "outcome_2": 1.38
+  },
+  {
+    "home_name": "FC Gifu",
+    "away_name": "Azul Claro Numazu",
+    "outcome_1": 1.9,
+    "outcome_X": 3.3,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "FK Auda",
+    "away_name": "FK Liepaja",
+    "outcome_1": 3.2,
+    "outcome_X": 3.45,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "Liverpool LFC",
+    "away_name": "Arsenal WFC",
+    "outcome_1": 25.5,
+    "outcome_X": 10.25,
+    "outcome_2": 1.04
+  },
+  {
+    "home_name": "Real Valladolid Promesas",
+    "away_name": "Real Aviles CF",
+    "outcome_1": 1.69,
+    "outcome_X": 3.25,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "SD Compostela",
+    "away_name": "Coruxo FC",
+    "outcome_1": 2.65,
+    "outcome_X": 2.62,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "San Sebastian Reyes",
+    "away_name": "Unionistas de Salamanca CF",
+    "outcome_1": 2.3,
+    "outcome_X": 3.1,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "UD Socuellamos CF",
+    "away_name": "CP Cacereno SAD",
+    "outcome_1": 4.3,
+    "outcome_X": 3.1,
+    "outcome_2": 1.77
+  },
+  {
+    "home_name": "Excelsior Rotterdam",
+    "away_name": "AZ Alkmaar",
+    "outcome_1": 7.2,
+    "outcome_X": 5.25,
+    "outcome_2": 1.39
+  },
+  {
+    "home_name": "Udinese",
+    "away_name": "Torino",
+    "outcome_1": 2.02,
+    "outcome_X": 3.4,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "Warta Poznan",
+    "away_name": "Gornik Zabrze",
+    "outcome_1": 2.65,
+    "outcome_X": 3.25,
+    "outcome_2": 2.53
+  },
+  {
+    "home_name": "Admira Wacker Modling",
+    "away_name": "FAC Wien",
+    "outcome_1": 2.37,
+    "outcome_X": 3.3,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "BB Bodrumspor",
+    "away_name": "Bandirmaspor",
+    "outcome_1": 2.1,
+    "outcome_X": 3.25,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "CS Mioveni",
+    "away_name": "FC Botosani",
+    "outcome_1": 2.43,
+    "outcome_X": 3.0,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Sukhothai FC",
+    "away_name": "Port FC",
+    "outcome_1": 4.45,
+    "outcome_X": 3.7,
+    "outcome_2": 1.6
+  },
+  {
+    "home_name": "GKS Tychy",
+    "away_name": "Puszcza Niepolomice",
+    "outcome_1": 2.07,
+    "outcome_X": 3.25,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Angers SCO",
+    "away_name": "Stade Rennes",
+    "outcome_1": 4.0,
+    "outcome_X": 3.85,
+    "outcome_2": 1.85
+  },
+  {
+    "home_name": "Swansea City",
+    "away_name": "Cardiff City",
+    "outcome_1": 2.18,
+    "outcome_X": 3.4,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Watford",
+    "away_name": "Luton Town",
+    "outcome_1": 2.15,
+    "outcome_X": 3.4,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Blau-Weiss Lohne",
+    "away_name": "Hamburger SV II",
+    "outcome_1": 2.5,
+    "outcome_X": 3.45,
+    "outcome_2": 2.32
+  },
+  {
+    "home_name": "Esbjerg FB",
+    "away_name": "Kolding IF",
+    "outcome_1": 1.83,
+    "outcome_X": 3.4,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "FK Sloboda Tuzla",
+    "away_name": "FK Tuzla City",
+    "outcome_1": 2.61,
+    "outcome_X": 3.1,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "FSV Luckenwalde",
+    "away_name": "Carl Zeiss Jena",
+    "outcome_1": 3.25,
+    "outcome_X": 3.3,
+    "outcome_2": 1.96
+  },
+  {
+    "home_name": "Muang Thong United",
+    "away_name": "Prachuap FC",
+    "outcome_1": 1.66,
+    "outcome_X": 3.6,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Naestved BK",
+    "away_name": "FC Helsingoer",
+    "outcome_1": 2.41,
+    "outcome_X": 3.5,
+    "outcome_2": 2.51
+  },
+  {
+    "home_name": "Ratchaburi Mitr Phol FC",
+    "away_name": "Chonburi FC",
+    "outcome_1": 2.32,
+    "outcome_X": 3.3,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "SK Super Nova",
+    "away_name": "FK Rigas Futbola Skola",
+    "outcome_1": 20.5,
+    "outcome_X": 7.1,
+    "outcome_2": 1.08
+  },
+  {
+    "home_name": "Vasteras SK",
+    "away_name": "Dalkurd",
+    "outcome_1": 1.69,
+    "outcome_X": 3.9,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "VfB Germania Halberstadt",
+    "away_name": "Greifswalder FC",
+    "outcome_1": 3.3,
+    "outcome_X": 3.45,
+    "outcome_2": 1.9
+  },
+  {
+    "home_name": "VfB Oldenburg",
+    "away_name": "FC Ingolstadt 04",
+    "outcome_1": 3.3,
+    "outcome_X": 3.5,
+    "outcome_2": 2.03
+  },
+  {
+    "home_name": "Kasimpasa Istanbul",
+    "away_name": "Kayserispor",
+    "outcome_1": 2.15,
+    "outcome_X": 3.45,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "1. FC Heidenheim",
+    "away_name": "Greuther Furth",
+    "outcome_1": 2.09,
+    "outcome_X": 3.45,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Hamburger SV",
+    "away_name": "1. FC Magdeburg",
+    "outcome_1": 1.46,
+    "outcome_X": 4.65,
+    "outcome_2": 5.9
+  },
+  {
+    "home_name": "Karlsruher SC",
+    "away_name": "Fortuna Dusseldorf",
+    "outcome_1": 2.35,
+    "outcome_X": 3.38,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Royal Antwerp FC",
+    "away_name": "KRC Genk",
+    "outcome_1": 2.57,
+    "outcome_X": 3.5,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "ZFC Meuselwitz",
+    "away_name": "Berliner AK 07",
+    "outcome_1": 3.8,
+    "outcome_X": 3.7,
+    "outcome_2": 1.71
+  },
+  {
+    "home_name": "Espanyol Barcelona",
+    "away_name": "Elche",
+    "outcome_1": 1.75,
+    "outcome_X": 3.8,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Racing Santander",
+    "away_name": "Ponferradina",
+    "outcome_1": 2.0,
+    "outcome_X": 3.38,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Randers",
+    "away_name": "FC Nordsjaelland",
+    "outcome_1": 2.52,
+    "outcome_X": 3.4,
+    "outcome_2": 2.63
+  },
+  {
+    "home_name": "1. FC Phonix Lubeck",
+    "away_name": "VfV 06 Hildesheim",
+    "outcome_1": 1.79,
+    "outcome_X": 3.5,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Bangkok United",
+    "away_name": "BG Pathum United FC",
+    "outcome_1": 2.07,
+    "outcome_X": 3.3,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Borussia Monchengladbach II",
+    "away_name": "SV 19 Straelen",
+    "outcome_1": 1.82,
+    "outcome_X": 3.4,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "FC Fredericia",
+    "away_name": "Hobro IK",
+    "outcome_1": 1.89,
+    "outcome_X": 3.45,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "FC St. Pauli II",
+    "away_name": "Kickers Emden",
+    "outcome_1": 1.61,
+    "outcome_X": 3.75,
+    "outcome_2": 4.35
+  },
+  {
+    "home_name": "FC Teutonia Ottensen 1905",
+    "away_name": "SSV Jeddeloh II",
+    "outcome_1": 2.9,
+    "outcome_X": 3.4,
+    "outcome_2": 2.07
+  },
+  {
+    "home_name": "FK Suduva Marijampole",
+    "away_name": "FK Jonava",
+    "outcome_1": 1.05,
+    "outcome_X": 8.9,
+    "outcome_2": 13.75
+  },
+  {
+    "home_name": "FK Tukums 2000/TSS",
+    "away_name": "Valmiera FC",
+    "outcome_1": 9.15,
+    "outcome_X": 5.15,
+    "outcome_2": 1.22
+  },
+  {
+    "home_name": "Fortuna Cologne",
+    "away_name": "Fortuna Dusseldorf II",
+    "outcome_1": 1.81,
+    "outcome_X": 3.4,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "KS Hutnik Krakow SSA",
+    "away_name": "Slask II Wroclaw",
+    "outcome_1": 2.62,
+    "outcome_X": 3.1,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "Piteaa IF",
+    "away_name": "Sollentuna FK",
+    "outcome_1": 2.31,
+    "outcome_X": 3.5,
+    "outcome_2": 2.5
+  },
+  {
+    "home_name": "Radunia Stezyca",
+    "away_name": "Pogon Siedlce",
+    "outcome_1": 1.58,
+    "outcome_X": 3.7,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "SC Verl",
+    "away_name": "Erzgebirge Aue",
+    "outcome_1": 2.42,
+    "outcome_X": 3.4,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "SG Wattenscheid 09",
+    "away_name": "FC Schalke 04 II",
+    "outcome_1": 4.95,
+    "outcome_X": 4.05,
+    "outcome_2": 1.49
+  },
+  {
+    "home_name": "Team TG FF",
+    "away_name": "IFK Haninge",
+    "outcome_1": 6.25,
+    "outcome_X": 4.75,
+    "outcome_2": 1.33
+  },
+  {
+    "home_name": "Vendsyssel FF",
+    "away_name": "HB Koge",
+    "outcome_1": 2.13,
+    "outcome_X": 3.45,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Basel",
+    "away_name": "FC Winterthur",
+    "outcome_1": 1.53,
+    "outcome_X": 4.25,
+    "outcome_2": 5.25
+  },
+  {
+    "home_name": "FC Aarau",
+    "away_name": "Neuchatel Xamax",
+    "outcome_1": 1.6,
+    "outcome_X": 4.1,
+    "outcome_2": 4.35
+  },
+  {
+    "home_name": "FC Vaduz",
+    "away_name": "FC Wil",
+    "outcome_1": 2.16,
+    "outcome_X": 3.65,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "FC Groningen",
+    "away_name": "PSV",
+    "outcome_1": 8.1,
+    "outcome_X": 5.5,
+    "outcome_2": 1.34
+  },
+  {
+    "home_name": "NEC",
+    "away_name": "Go Ahead Eagles",
+    "outcome_1": 1.93,
+    "outcome_X": 3.6,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "SC Cambuur",
+    "away_name": "FC Twente Enschede",
+    "outcome_1": 4.15,
+    "outcome_X": 3.85,
+    "outcome_2": 1.82
+  },
+  {
+    "home_name": "AC Renate",
+    "away_name": "US Albinoleffe",
+    "outcome_1": 1.67,
+    "outcome_X": 3.2,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "AC Trento",
+    "away_name": "Piacenza Calcio",
+    "outcome_1": 2.14,
+    "outcome_X": 2.95,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "AS Gubbio",
+    "away_name": "Imolese Calcio",
+    "outcome_1": 1.66,
+    "outcome_X": 3.3,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Austria Lustenau",
+    "away_name": "SV Ried",
+    "outcome_1": 2.53,
+    "outcome_X": 3.38,
+    "outcome_2": 2.58
+  },
+  {
+    "home_name": "Calcio Padova",
+    "away_name": "Novara FC",
+    "outcome_1": 2.2,
+    "outcome_X": 2.95,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "FC Arzignano Valchiampo",
+    "away_name": "Calcio Lecco 1912",
+    "outcome_1": 2.04,
+    "outcome_X": 3.05,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Juventus Next Gen",
+    "away_name": "Triestina Calcio 1918",
+    "outcome_1": 2.46,
+    "outcome_X": 3.0,
+    "outcome_2": 2.61
+  },
+  {
+    "home_name": "Mantova 1911",
+    "away_name": "US Pergolettese Crema",
+    "outcome_1": 2.52,
+    "outcome_X": 3.0,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "NK Posusje",
+    "away_name": "FK Sarajevo",
+    "outcome_1": 2.25,
+    "outcome_X": 3.1,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Pordenone",
+    "away_name": "Feralpisalo",
+    "outcome_1": 2.11,
+    "outcome_X": 2.95,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Pro Patria Busto Arsizio",
+    "away_name": "Virtus Verona",
+    "outcome_1": 2.06,
+    "outcome_X": 3.0,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Pro Vercelli 1892",
+    "away_name": "Pro Sesto",
+    "outcome_1": 1.72,
+    "outcome_X": 3.15,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "Sangiuliano City Nova FC",
+    "away_name": "L.R. Vicenza",
+    "outcome_1": 2.6,
+    "outcome_X": 2.95,
+    "outcome_2": 2.52
+  },
+  {
+    "home_name": "USD Recanatese 1923",
+    "away_name": "Siena 1904",
+    "outcome_1": 3.0,
+    "outcome_X": 2.9,
+    "outcome_2": 2.26
+  },
+  {
+    "home_name": "Virtus Entella",
+    "away_name": " US Ancona 1905",
+    "outcome_1": 1.77,
+    "outcome_X": 3.25,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Vis Pesaro 1898",
+    "away_name": "US Alessandria Calcio 1912",
+    "outcome_1": 1.97,
+    "outcome_X": 3.05,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Wolfsberger AC",
+    "away_name": "SCR Altach",
+    "outcome_1": 1.71,
+    "outcome_X": 3.8,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Southampton",
+    "away_name": "Arsenal",
+    "outcome_1": 5.4,
+    "outcome_X": 4.3,
+    "outcome_2": 1.58
+  },
+  {
+    "home_name": "Aston Villa",
+    "away_name": "Brentford",
+    "outcome_1": 2.07,
+    "outcome_X": 3.55,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Clermont Foot 63",
+    "away_name": "Stade Brest 29",
+    "outcome_1": 2.41,
+    "outcome_X": 3.38,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "ESTAC Troyes",
+    "away_name": "Lorient",
+    "outcome_1": 2.36,
+    "outcome_X": 3.45,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Leeds United",
+    "away_name": "Fulham",
+    "outcome_1": 2.05,
+    "outcome_X": 3.55,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Stade Reims",
+    "away_name": "AJ Auxerre",
+    "outcome_1": 1.89,
+    "outcome_X": 3.65,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Toulouse FC",
+    "away_name": "Strasbourg Alsace",
+    "outcome_1": 2.24,
+    "outcome_X": 3.5,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Wolverhampton Wanderers",
+    "away_name": "Leicester City",
+    "outcome_1": 2.22,
+    "outcome_X": 3.4,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Bologna",
+    "away_name": "Lecce",
+    "outcome_1": 2.19,
+    "outcome_X": 3.2,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "FC Penafiel",
+    "away_name": "CD Feirense",
+    "outcome_1": 2.11,
+    "outcome_X": 3.1,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Ionikos Nikea FC",
+    "away_name": "PAS Giannina",
+    "outcome_1": 2.11,
+    "outcome_X": 3.15,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "UD Oliveirense",
+    "away_name": "Nacional de Madeir",
+    "outcome_1": 2.4,
+    "outcome_X": 3.05,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Slask Wroclaw",
+    "away_name": "Jagiellonia Bialystok",
+    "outcome_1": 2.57,
+    "outcome_X": 3.3,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "Aarhus Fremad",
+    "away_name": "B93 Copenhagen",
+    "outcome_1": 2.27,
+    "outcome_X": 3.5,
+    "outcome_2": 2.56
+  },
+  {
+    "home_name": "Al Jazira (UAE)",
+    "away_name": "Ajman Club",
+    "outcome_1": 1.39,
+    "outcome_X": 4.5,
+    "outcome_2": 5.6
+  },
+  {
+    "home_name": "CWKS Resovia",
+    "away_name": "LKS Lodz",
+    "outcome_1": 2.26,
+    "outcome_X": 3.2,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Elfsborg",
+    "away_name": "Hammarby",
+    "outcome_1": 2.62,
+    "outcome_X": 3.55,
+    "outcome_2": 2.46
+  },
+  {
+    "home_name": "Helsingborgs",
+    "away_name": "Degerfors",
+    "outcome_1": 2.18,
+    "outcome_X": 3.6,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Leicester City WFC",
+    "away_name": "Manchester United WFC",
+    "outcome_1": 18.5,
+    "outcome_X": 8.5,
+    "outcome_2": 1.08
+  },
+  {
+    "home_name": "NK Istra 1961",
+    "away_name": "HNK Sibenik",
+    "outcome_1": 2.37,
+    "outcome_X": 3.1,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Pyramids FC",
+    "away_name": "Al Masry Club",
+    "outcome_1": 1.59,
+    "outcome_X": 3.6,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "SK Dynamo Ceske Budejovice",
+    "away_name": "FC Hradec Kralove",
+    "outcome_1": 2.85,
+    "outcome_X": 3.3,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "SV Drochtersen/Assel",
+    "away_name": "Holstein Kiel II",
+    "outcome_1": 1.57,
+    "outcome_X": 4.0,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Skovde AIK",
+    "away_name": "Utsiktens BK",
+    "outcome_1": 2.34,
+    "outcome_X": 3.38,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Tabor Sezana",
+    "away_name": "Mura Murska Sobota",
+    "outcome_1": 3.7,
+    "outcome_X": 3.5,
+    "outcome_2": 1.91
+  },
+  {
+    "home_name": "West Ham United FC Women",
+    "away_name": "Reading FC Women",
+    "outcome_1": 1.62,
+    "outcome_X": 4.0,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Yeni Malatyaspor",
+    "away_name": "Goztepe Izmir",
+    "outcome_1": 3.25,
+    "outcome_X": 3.38,
+    "outcome_2": 1.94
+  },
+  {
+    "home_name": "VfL Bochum",
+    "away_name": "Union Berlin",
+    "outcome_1": 4.1,
+    "outcome_X": 3.45,
+    "outcome_2": 1.93
+  },
+  {
+    "home_name": "ASD Torres Sassari",
+    "away_name": "Olbia Calcio",
+    "outcome_1": 2.07,
+    "outcome_X": 2.95,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Mas Taborsko",
+    "away_name": "FK Varnsdorf",
+    "outcome_1": 2.52,
+    "outcome_X": 3.3,
+    "outcome_2": 2.38
+  },
+  {
+    "home_name": "Botev Vratsa",
+    "away_name": "CSKA Sofia",
+    "outcome_1": 7.65,
+    "outcome_X": 4.4,
+    "outcome_2": 1.35
+  },
+  {
+    "home_name": "Adana Demirspor",
+    "away_name": "Konyaspor",
+    "outcome_1": 2.15,
+    "outcome_X": 3.38,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "AC Horsens",
+    "away_name": "Silkeborg IF",
+    "outcome_1": 3.6,
+    "outcome_X": 3.5,
+    "outcome_2": 1.98
+  },
+  {
+    "home_name": "1. FC Slovacko Uherske Hradiste",
+    "away_name": "FK Teplice",
+    "outcome_1": 1.44,
+    "outcome_X": 4.3,
+    "outcome_2": 6.5
+  },
+  {
+    "home_name": "Athletic Bilbao B",
+    "away_name": "Real Murcia CF",
+    "outcome_1": 2.3,
+    "outcome_X": 3.05,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "CD Linares",
+    "away_name": "RC Celta de Vigo B",
+    "outcome_1": 2.02,
+    "outcome_X": 3.2,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "FK Mlada Boleslav",
+    "away_name": "Bohemians Prague 1905",
+    "outcome_1": 2.07,
+    "outcome_X": 3.3,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Falkenbergs",
+    "away_name": "FC Trollhattan",
+    "outcome_1": 1.58,
+    "outcome_X": 3.75,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "IF Karlstad Fotbol",
+    "away_name": "FC Stockholm Internazionale",
+    "outcome_1": 2.16,
+    "outcome_X": 3.65,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "KAA Gent",
+    "away_name": "RFC Seraing",
+    "outcome_1": 1.39,
+    "outcome_X": 5.05,
+    "outcome_2": 7.65
+  },
+  {
+    "home_name": "Karmiotissa FC",
+    "away_name": "Akritas Chlorakas",
+    "outcome_1": 2.0,
+    "outcome_X": 3.25,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Odisha FC",
+    "away_name": "Kerala Blasters FC",
+    "outcome_1": 2.65,
+    "outcome_X": 3.2,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "RWD Molenbeek 47",
+    "away_name": "SK Beveren",
+    "outcome_1": 1.98,
+    "outcome_X": 3.6,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Real Betis Seville",
+    "away_name": "Atletico Madrid",
+    "outcome_1": 3.25,
+    "outcome_X": 3.3,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "Lugo",
+    "away_name": "Burgos CF",
+    "outcome_1": 2.63,
+    "outcome_X": 3.0,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Palermo FC",
+    "away_name": "AS Cittadella",
+    "outcome_1": 2.3,
+    "outcome_X": 3.1,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Pisa",
+    "away_name": "Modena FC",
+    "outcome_1": 2.13,
+    "outcome_X": 3.2,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "FC Vizela",
+    "away_name": "Santa Clara Azores",
+    "outcome_1": 2.01,
+    "outcome_X": 3.25,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Maritimo Madeira",
+    "away_name": "FC Arouca",
+    "outcome_1": 2.57,
+    "outcome_X": 3.2,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Moreirense",
+    "away_name": "SC Farense",
+    "outcome_1": 2.08,
+    "outcome_X": 3.1,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "FC Zurich",
+    "away_name": "Grasshopper",
+    "outcome_1": 1.69,
+    "outcome_X": 4.0,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "St. Gallen",
+    "away_name": "Servette Geneva",
+    "outcome_1": 2.18,
+    "outcome_X": 3.65,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "CD Mafra",
+    "away_name": "Estrela Amadora",
+    "outcome_1": 2.01,
+    "outcome_X": 3.15,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "FC Utrecht",
+    "away_name": "Sparta Rotterdam",
+    "outcome_1": 1.83,
+    "outcome_X": 3.7,
+    "outcome_2": 4.3
+  },
+  {
+    "home_name": "Vilnius FK Zalgiris",
+    "away_name": "FC Hegelmann Kaunas",
+    "outcome_1": 1.55,
+    "outcome_X": 3.3,
+    "outcome_2": 5.3
+  },
+  {
+    "home_name": "Aalesunds FK",
+    "away_name": "Sandefjord Fotball",
+    "outcome_1": 1.63,
+    "outcome_X": 4.05,
+    "outcome_2": 4.75
+  },
+  {
+    "home_name": "Antequera CF",
+    "away_name": "Xerez Deportivo FC",
+    "outcome_1": 1.6,
+    "outcome_X": 3.55,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Bodoe/Glimt",
+    "away_name": "Kristiansund BK",
+    "outcome_1": 1.17,
+    "outcome_X": 7.5,
+    "outcome_2": 11.75
+  },
+  {
+    "home_name": "CD Coria",
+    "away_name": "UD Montijo",
+    "outcome_1": 1.75,
+    "outcome_X": 3.2,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "CD El Ejido 2012",
+    "away_name": "Sevilla Atl\u00e9tico",
+    "outcome_1": 2.55,
+    "outcome_X": 2.9,
+    "outcome_2": 2.63
+  },
+  {
+    "home_name": "CD Palencia Cristo Atletico",
+    "away_name": "Real Oviedo B",
+    "outcome_1": 2.09,
+    "outcome_X": 2.75,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "CD San Roque",
+    "away_name": "UCAM Murcia",
+    "outcome_1": 3.0,
+    "outcome_X": 3.0,
+    "outcome_2": 2.21
+  },
+  {
+    "home_name": "Ceramica Cleopatra",
+    "away_name": "Zamalek SC",
+    "outcome_1": 3.25,
+    "outcome_X": 3.0,
+    "outcome_2": 2.19
+  },
+  {
+    "home_name": "Club Marino de Luanco",
+    "away_name": "Bergantinos CF",
+    "outcome_1": 1.73,
+    "outcome_X": 3.0,
+    "outcome_2": 4.75
+  },
+  {
+    "home_name": "FC Cartagena B",
+    "away_name": "Mar Menor CF",
+    "outcome_1": 3.75,
+    "outcome_X": 3.2,
+    "outcome_2": 1.86
+  },
+  {
+    "home_name": "FK Haugesund",
+    "away_name": "Lillestrom SK",
+    "outcome_1": 2.85,
+    "outcome_X": 3.38,
+    "outcome_2": 2.39
+  },
+  {
+    "home_name": "FK Jerv",
+    "away_name": "Viking FK",
+    "outcome_1": 4.85,
+    "outcome_X": 4.45,
+    "outcome_2": 1.57
+  },
+  {
+    "home_name": "Gimnastica Segoviana CF",
+    "away_name": "AD Alcorcon B",
+    "outcome_1": 1.72,
+    "outcome_X": 3.25,
+    "outcome_2": 4.35
+  },
+  {
+    "home_name": "LASK",
+    "away_name": "FK Austria Wien",
+    "outcome_1": 1.91,
+    "outcome_X": 3.55,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Ourense CF",
+    "away_name": "CD Guijuelo",
+    "outcome_1": 2.8,
+    "outcome_X": 2.8,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "SD Logrones",
+    "away_name": "FC Barcelona Atletic",
+    "outcome_1": 2.4,
+    "outcome_X": 3.2,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Sarpsborg 08",
+    "away_name": "Tromsoe IL",
+    "outcome_1": 2.0,
+    "outcome_X": 3.55,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "UP Langreo",
+    "away_name": "Zamora CF",
+    "outcome_1": 2.05,
+    "outcome_X": 2.95,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Yeclano Deportivo",
+    "away_name": "CD Utrera",
+    "outcome_1": 1.69,
+    "outcome_X": 3.05,
+    "outcome_2": 5.0
+  },
+  {
+    "home_name": "OGC Nice",
+    "away_name": "Nantes",
+    "outcome_1": 1.8,
+    "outcome_X": 3.7,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "NK Slaven Belupo",
+    "away_name": "HNK Rijeka",
+    "outcome_1": 2.52,
+    "outcome_X": 3.15,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "FC Uta Arad",
+    "away_name": "CS Universitatea Craiova 1948",
+    "outcome_1": 3.0,
+    "outcome_X": 3.1,
+    "outcome_2": 2.37
+  },
+  {
+    "home_name": "Tottenham Hotspur",
+    "away_name": "Newcastle United",
+    "outcome_1": 2.03,
+    "outcome_X": 3.65,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Hertha BSC",
+    "away_name": "Schalke 04",
+    "outcome_1": 1.76,
+    "outcome_X": 3.9,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "MKS Cracovia Krakow",
+    "away_name": "Lech Poznan",
+    "outcome_1": 3.0,
+    "outcome_X": 3.25,
+    "outcome_2": 2.27
+  },
+  {
+    "home_name": "ASD San Donato Tavarnelle",
+    "away_name": "US Citta Di Pontedera",
+    "outcome_1": 2.43,
+    "outcome_X": 2.95,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Cesena FC",
+    "away_name": "US Fiorenzuola",
+    "outcome_1": 1.71,
+    "outcome_X": 3.2,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "DAC 1904 Dunajska Streda",
+    "away_name": "FK Zeleziarne Podbrezova",
+    "outcome_1": 1.62,
+    "outcome_X": 3.9,
+    "outcome_2": 4.4
+  },
+  {
+    "home_name": "Hacken Gothenburg",
+    "away_name": "Malmo",
+    "outcome_1": 2.38,
+    "outcome_X": 3.55,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Lucchese Libertas 1905",
+    "away_name": "Aquila Montevarchi",
+    "outcome_1": 1.97,
+    "outcome_X": 3.05,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "ND Gorica",
+    "away_name": "Olimpija Ljubljana",
+    "outcome_1": 3.95,
+    "outcome_X": 3.5,
+    "outcome_2": 1.85
+  },
+  {
+    "home_name": "Rimini FC 1912",
+    "away_name": "Fermana FC",
+    "outcome_1": 1.7,
+    "outcome_X": 3.2,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Turris Calcio",
+    "away_name": "Crotone",
+    "outcome_1": 3.05,
+    "outcome_X": 3.05,
+    "outcome_2": 2.17
+  },
+  {
+    "home_name": "Atalanta",
+    "away_name": "Lazio Rome",
+    "outcome_1": 1.99,
+    "outcome_X": 3.65,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "AGF Aarhus",
+    "away_name": "Brondby IF",
+    "outcome_1": 2.4,
+    "outcome_X": 3.45,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Al-Wasl FC",
+    "away_name": "Al-Ittihad Kalba",
+    "outcome_1": 1.75,
+    "outcome_X": 3.55,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Aris Limassol FC",
+    "away_name": "Enosis Neon Paralimni FC",
+    "outcome_1": 1.38,
+    "outcome_X": 4.4,
+    "outcome_2": 6.9
+  },
+  {
+    "home_name": "CD San Fernando",
+    "away_name": "Merida UD",
+    "outcome_1": 2.01,
+    "outcome_X": 3.2,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Maccabi Bney Reine",
+    "away_name": "Bnei Sakhnin FC",
+    "outcome_1": 3.3,
+    "outcome_X": 3.25,
+    "outcome_2": 2.06
+  },
+  {
+    "home_name": "Real Madrid Castilla",
+    "away_name": "Deportivo La Coruna",
+    "outcome_1": 2.5,
+    "outcome_X": 3.25,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "Samsunspor",
+    "away_name": "Boluspor",
+    "outcome_1": 1.78,
+    "outcome_X": 3.4,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Zaglebie Sosnowiec",
+    "away_name": "Gornik Leczna",
+    "outcome_1": 1.97,
+    "outcome_X": 3.38,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Ludogorets",
+    "away_name": "Botev Plovdiv",
+    "outcome_1": 1.31,
+    "outcome_X": 4.8,
+    "outcome_2": 7.65
+  },
+  {
+    "home_name": "PAOK Thessaloniki",
+    "away_name": "Asteras Tripolis",
+    "outcome_1": 1.48,
+    "outcome_X": 3.85,
+    "outcome_2": 6.9
+  },
+  {
+    "home_name": "Panathinaikos",
+    "away_name": "Aris Thessaloniki",
+    "outcome_1": 1.82,
+    "outcome_X": 3.15,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Girona",
+    "away_name": "Osasuna",
+    "outcome_1": 2.6,
+    "outcome_X": 3.15,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Villarreal",
+    "away_name": "Almeria",
+    "outcome_1": 1.38,
+    "outcome_X": 5.0,
+    "outcome_2": 8.05
+  },
+  {
+    "home_name": "Eibar",
+    "away_name": "Albacete",
+    "outcome_1": 1.95,
+    "outcome_X": 3.2,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Leganes",
+    "away_name": "Tenerife",
+    "outcome_1": 2.45,
+    "outcome_X": 2.9,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Standard Luik",
+    "away_name": "RSC Anderlecht",
+    "outcome_1": 2.75,
+    "outcome_X": 3.45,
+    "outcome_2": 2.5
+  },
+  {
+    "home_name": "Brighton and Hove Albion WFC",
+    "away_name": "Chelsea",
+    "outcome_1": 22.0,
+    "outcome_X": 9.05,
+    "outcome_2": 1.06
+  },
+  {
+    "home_name": "Galatasaray Istanbul",
+    "away_name": "Alanyaspor",
+    "outcome_1": 1.55,
+    "outcome_X": 4.15,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "GD Chaves",
+    "away_name": "Gil Vicente Barcelos",
+    "outcome_1": 2.54,
+    "outcome_X": 3.3,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "UD Vilafranquense",
+    "away_name": "Academico de Viseu FC",
+    "outcome_1": 2.29,
+    "outcome_X": 3.05,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "CF Montreal",
+    "away_name": "New York City FC",
+    "outcome_1": 2.05,
+    "outcome_X": 3.5,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "FK Kauno Zalgiris",
+    "away_name": "FA Siauliai",
+    "outcome_1": 1.77,
+    "outcome_X": 3.15,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Molde FK",
+    "away_name": "Rosenborg BK",
+    "outcome_1": 1.91,
+    "outcome_X": 3.7,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Slavia Prague",
+    "away_name": "Sparta Prague",
+    "outcome_1": 1.8,
+    "outcome_X": 3.6,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "FC Volendam",
+    "away_name": "SC Heerenveen",
+    "outcome_1": 3.15,
+    "outcome_X": 3.55,
+    "outcome_2": 2.21
+  },
+  {
+    "home_name": "CD Antofagasta",
+    "away_name": "Union Espanola",
+    "outcome_1": 2.13,
+    "outcome_X": 3.3,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "CD Palestino",
+    "away_name": "Deportes La Serena",
+    "outcome_1": 1.62,
+    "outcome_X": 3.75,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Coquimbo Unido",
+    "away_name": "Colo-Colo",
+    "outcome_1": 4.65,
+    "outcome_X": 3.6,
+    "outcome_2": 1.64
+  },
+  {
+    "home_name": "Deportivo Iztapa",
+    "away_name": "Deportivo Achuapa",
+    "outcome_1": 1.97,
+    "outcome_X": 3.3,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "FC Universitatea Cluj",
+    "away_name": "FC CFR 1907 Cluj",
+    "outcome_1": 3.75,
+    "outcome_X": 3.1,
+    "outcome_2": 2.05
+  },
+  {
+    "home_name": "Hapoel Hadera FC",
+    "away_name": "Hapoel Tel Aviv FC",
+    "outcome_1": 2.75,
+    "outcome_X": 3.25,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "Lierse Kempenzonen",
+    "away_name": "Lommel SK",
+    "outcome_1": 2.01,
+    "outcome_X": 3.45,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "UD Cornella",
+    "away_name": "CF La Nucia",
+    "outcome_1": 2.07,
+    "outcome_X": 3.15,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "CD Malacateco",
+    "away_name": "CSD Municipal",
+    "outcome_1": 1.94,
+    "outcome_X": 3.15,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "AS Roma",
+    "away_name": "Napoli",
+    "outcome_1": 2.85,
+    "outcome_X": 3.5,
+    "outcome_2": 2.4
+  },
+  {
+    "home_name": "Lille OSC",
+    "away_name": "AS Monaco",
+    "outcome_1": 2.43,
+    "outcome_X": 3.6,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Barcelona",
+    "away_name": "Athletic Bilbao",
+    "outcome_1": 1.62,
+    "outcome_X": 4.25,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "Las Palmas",
+    "away_name": "FC Cartagena",
+    "outcome_1": 1.78,
+    "outcome_X": 3.45,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Fluminense",
+    "away_name": "Botafogo",
+    "outcome_1": 1.74,
+    "outcome_X": 3.7,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Juventude",
+    "away_name": "Sao Paulo",
+    "outcome_1": 3.85,
+    "outcome_X": 3.3,
+    "outcome_2": 1.97
+  },
+  {
+    "home_name": "Nautico",
+    "away_name": "Gremio",
+    "outcome_1": 6.65,
+    "outcome_X": 4.15,
+    "outcome_2": 1.41
+  },
+  {
+    "home_name": "CA Palmaflor",
+    "away_name": "The Strongest",
+    "outcome_1": 2.95,
+    "outcome_X": 3.4,
+    "outcome_2": 1.97
+  },
+  {
+    "home_name": "KV Oostende",
+    "away_name": "SV Zulte Waregem",
+    "outcome_1": 2.08,
+    "outcome_X": 3.6,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Royal Pari FC",
+    "away_name": "Club Aurora",
+    "outcome_1": 2.13,
+    "outcome_X": 3.1,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Vitoria SC Guimarares",
+    "away_name": "Boavista Porto",
+    "outcome_1": 2.06,
+    "outcome_X": 3.2,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "CD Guastatoya",
+    "away_name": "CSD Xelaju MC",
+    "outcome_1": 1.86,
+    "outcome_X": 2.9,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "Club Guarani Asuncion",
+    "away_name": "Cerro Porteno",
+    "outcome_1": 3.7,
+    "outcome_X": 3.38,
+    "outcome_2": 1.87
+  },
+  {
+    "home_name": "AC Goianiense GO",
+    "away_name": "Ceara",
+    "outcome_1": 2.28,
+    "outcome_X": 3.15,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Coritiba",
+    "away_name": "Internacional",
+    "outcome_1": 3.3,
+    "outcome_X": 3.25,
+    "outcome_2": 2.19
+  },
+  {
+    "home_name": "Cuiaba Esporte Clube MT",
+    "away_name": "Goias",
+    "outcome_1": 1.85,
+    "outcome_X": 3.2,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "Libertad Asuncion",
+    "away_name": "Nacional Asuncion",
+    "outcome_1": 1.79,
+    "outcome_X": 3.45,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Huehueteco Xinabajul",
+    "away_name": "Deportivo Mixco",
+    "outcome_1": 1.3,
+    "outcome_X": 4.2,
+    "outcome_2": 7.65
+  },
+  {
+    "home_name": "Austin FC",
+    "away_name": "FC Dallas",
+    "outcome_1": 1.96,
+    "outcome_X": 3.65,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "CD Once Caldas",
+    "away_name": "CD Alianza Petrolera",
+    "outcome_1": 1.76,
+    "outcome_X": 3.2,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "FC Pirin Blagoevgrad",
+    "away_name": "FK Septemvri Sofia",
+    "outcome_1": 2.11,
+    "outcome_X": 3.3,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "APO Levadiakos FC",
+    "away_name": "AEK Athene",
+    "outcome_1": 9.7,
+    "outcome_X": 4.45,
+    "outcome_2": 1.33
+  },
+  {
+    "home_name": "FC Petrolul Ploiesti",
+    "away_name": "ACS Champions FC Arges",
+    "outcome_1": 2.38,
+    "outcome_X": 3.05,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Piast Gliwice",
+    "away_name": "RKS Radomiak Radom",
+    "outcome_1": 2.27,
+    "outcome_X": 3.15,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "AEL Limassol",
+    "away_name": "Nea Salamina Famagusta",
+    "outcome_1": 1.9,
+    "outcome_X": 3.3,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "Mezokovesd Zsory",
+    "away_name": "Ujpest FC Budapest",
+    "outcome_1": 2.33,
+    "outcome_X": 3.3,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "SKRA Czestochowa",
+    "away_name": "Chrobry Glogow",
+    "outcome_1": 2.65,
+    "outcome_X": 3.25,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "Cremonese",
+    "away_name": "Sampdoria Genoa",
+    "outcome_1": 2.46,
+    "outcome_X": 3.38,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "FC Versailles 78",
+    "away_name": "Stade Olympique Choletais",
+    "outcome_1": 1.89,
+    "outcome_X": 3.2,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "US Orleans",
+    "away_name": "Red Star FC",
+    "outcome_1": 2.58,
+    "outcome_X": 2.95,
+    "outcome_2": 2.54
+  },
+  {
+    "home_name": "Giresunspor",
+    "away_name": "MKE Ankaragucu",
+    "outcome_1": 2.27,
+    "outcome_X": 3.25,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Hatayspor Antakya",
+    "away_name": "Besiktas Istanbul",
+    "outcome_1": 4.65,
+    "outcome_X": 3.85,
+    "outcome_2": 1.66
+  },
+  {
+    "home_name": "Aalborg BK",
+    "away_name": "Viborg FF",
+    "outcome_1": 2.95,
+    "outcome_X": 3.38,
+    "outcome_2": 2.31
+  },
+  {
+    "home_name": "OFI Kreta",
+    "away_name": "PAS Lamia 1964",
+    "outcome_1": 2.16,
+    "outcome_X": 3.15,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Adanaspor",
+    "away_name": "Genclerbirligi",
+    "outcome_1": 2.04,
+    "outcome_X": 3.15,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Djurgardens",
+    "away_name": "GIF Sundsvall",
+    "outcome_1": 1.12,
+    "outcome_X": 8.35,
+    "outcome_2": 18.5
+  },
+  {
+    "home_name": "FK Hebar Pazardzhik",
+    "away_name": "Beroe Stara Zagora",
+    "outcome_1": 3.6,
+    "outcome_X": 3.3,
+    "outcome_2": 1.91
+  },
+  {
+    "home_name": "Hallescher FC",
+    "away_name": "SpVgg Bayreuth",
+    "outcome_1": 2.14,
+    "outcome_X": 3.4,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "IFK Varnamo",
+    "away_name": "Norrkoping",
+    "outcome_1": 2.49,
+    "outcome_X": 3.55,
+    "outcome_2": 2.58
+  },
+  {
+    "home_name": "IK Sirius",
+    "away_name": "Kalmar",
+    "outcome_1": 3.2,
+    "outcome_X": 3.5,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Jonkopings Sodra",
+    "away_name": "Norrby",
+    "outcome_1": 2.38,
+    "outcome_X": 3.25,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Leixoes SC",
+    "away_name": "CD Tondela",
+    "outcome_1": 2.34,
+    "outcome_X": 3.1,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Mjallby",
+    "away_name": "Varbergs BoIS",
+    "outcome_1": 2.12,
+    "outcome_X": 3.5,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Taby FK",
+    "away_name": "Hammarby Talang FF",
+    "outcome_1": 2.57,
+    "outcome_X": 3.55,
+    "outcome_2": 2.22
+  },
+  {
+    "home_name": "IFK Goteborg",
+    "away_name": "AIK",
+    "outcome_1": 3.15,
+    "outcome_X": 3.6,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Maccabi Tel Aviv",
+    "away_name": "Maccabi Netanya FC",
+    "outcome_1": 1.41,
+    "outcome_X": 4.45,
+    "outcome_2": 6.1
+  },
+  {
+    "home_name": "Jong FC Utrecht",
+    "away_name": "PEC Zwolle",
+    "outcome_1": 4.9,
+    "outcome_X": 4.4,
+    "outcome_2": 1.61
+  },
+  {
+    "home_name": "Jong AZ Alkmaar",
+    "away_name": "SC Telstar",
+    "outcome_1": 2.34,
+    "outcome_X": 3.55,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Jong PSV Eindhoven",
+    "away_name": "Helmond Sport",
+    "outcome_1": 2.09,
+    "outcome_X": 3.65,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "ACS Sepsi OSK Sfantu Gheorghe",
+    "away_name": "Fotbal Club FCSB",
+    "outcome_1": 2.45,
+    "outcome_X": 3.2,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Jong Ajax",
+    "away_name": "VVV Venlo",
+    "outcome_1": 1.68,
+    "outcome_X": 4.25,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Debreceni VSC",
+    "away_name": "Kisvarda",
+    "outcome_1": 2.64,
+    "outcome_X": 3.2,
+    "outcome_2": 2.44
+  },
+  {
+    "home_name": "Zaglebie Lubin",
+    "away_name": "Lechia Gdansk",
+    "outcome_1": 1.82,
+    "outcome_X": 3.65,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "Ascoli Calcio 1898",
+    "away_name": "Cagliari",
+    "outcome_1": 2.75,
+    "outcome_X": 3.1,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "Carrarese Calcio",
+    "away_name": "Reggiana 1919",
+    "outcome_1": 2.8,
+    "outcome_X": 2.9,
+    "outcome_2": 2.39
+  },
+  {
+    "home_name": "GKS Katowice",
+    "away_name": "ZKS Stal Rzeszow",
+    "outcome_1": 2.08,
+    "outcome_X": 3.3,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Monterosi Tuscia",
+    "away_name": "SS Monopoli",
+    "outcome_1": 2.41,
+    "outcome_X": 3.05,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Sassuolo Calcio",
+    "away_name": "Hellas Verona",
+    "outcome_1": 1.96,
+    "outcome_X": 3.6,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Le Havre AC",
+    "away_name": "Metz",
+    "outcome_1": 1.98,
+    "outcome_X": 3.3,
+    "outcome_2": 3.65
+  },
+  {
+    "home_name": "West Ham United",
+    "away_name": "AFC Bournemouth",
+    "outcome_1": 1.55,
+    "outcome_X": 4.3,
+    "outcome_2": 5.9
+  },
+  {
+    "home_name": "RC Celta de Vigo",
+    "away_name": "Getafe CF",
+    "outcome_1": 1.8,
+    "outcome_X": 3.5,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "Real Oviedo",
+    "away_name": "Malaga",
+    "outcome_1": 2.03,
+    "outcome_X": 3.1,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Rio Ave",
+    "away_name": "Portimonense",
+    "outcome_1": 2.59,
+    "outcome_X": 3.15,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Fortaleza CE",
+    "away_name": "Atletico Mineiro",
+    "outcome_1": 3.15,
+    "outcome_X": 3.05,
+    "outcome_2": 2.3
+  },
+  {
+    "home_name": "Audax Italiano",
+    "away_name": "Curico Unido",
+    "outcome_1": 2.28,
+    "outcome_X": 3.2,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Smouha SC",
+    "away_name": "National Bank of Egypt SC",
+    "outcome_1": 2.07,
+    "outcome_X": 3.1,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Al Wahda FC (UAE)",
+    "away_name": "Al Dhafra SSC",
+    "outcome_1": 1.17,
+    "outcome_X": 5.85,
+    "outcome_2": 10.5
+  },
+  {
+    "home_name": "RB Salzburg",
+    "away_name": "Chelsea",
+    "outcome_1": 4.55,
+    "outcome_X": 4.0,
+    "outcome_2": 1.73
+  },
+  {
+    "home_name": "Sevilla FC",
+    "away_name": "FC Kopenhagen",
+    "outcome_1": 1.57,
+    "outcome_X": 4.15,
+    "outcome_2": 5.8
+  },
+  {
+    "home_name": "Halmstads",
+    "away_name": "orebro",
+    "outcome_1": 1.5,
+    "outcome_X": 4.25,
+    "outcome_2": 5.65
+  },
+  {
+    "home_name": "IF Brommapojkarna",
+    "away_name": "IK Brage",
+    "outcome_1": 1.72,
+    "outcome_X": 3.8,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Talaea El Gaish",
+    "away_name": "Enppi Club",
+    "outcome_1": 2.52,
+    "outcome_X": 2.63,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Altrincham FC",
+    "away_name": "Oldham Athletic",
+    "outcome_1": 2.09,
+    "outcome_X": 3.38,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Bromley FC",
+    "away_name": "Barnet FC",
+    "outcome_1": 1.56,
+    "outcome_X": 4.1,
+    "outcome_2": 4.65
+  },
+  {
+    "home_name": "Coventry City",
+    "away_name": "Rotherham United",
+    "outcome_1": 1.85,
+    "outcome_X": 3.5,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "Dagenham and Redbridge FC",
+    "away_name": "Boreham Wood FC",
+    "outcome_1": 2.32,
+    "outcome_X": 3.25,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Eastleigh FC",
+    "away_name": "Torquay United",
+    "outcome_1": 1.74,
+    "outcome_X": 3.55,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Maidenhead United FC",
+    "away_name": "Solihull Moors FC",
+    "outcome_1": 3.05,
+    "outcome_X": 3.25,
+    "outcome_2": 2.13
+  },
+  {
+    "home_name": "Maidstone United FC",
+    "away_name": "Southend United",
+    "outcome_1": 3.4,
+    "outcome_X": 3.4,
+    "outcome_2": 1.97
+  },
+  {
+    "home_name": "Scunthorpe United",
+    "away_name": "Gateshead FC",
+    "outcome_1": 2.16,
+    "outcome_X": 3.15,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Stockport County FC",
+    "away_name": "Carlisle United",
+    "outcome_1": 2.37,
+    "outcome_X": 3.3,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "Wealdstone FC",
+    "away_name": "Notts County",
+    "outcome_1": 5.3,
+    "outcome_X": 3.95,
+    "outcome_2": 1.52
+  },
+  {
+    "home_name": "Woking FC",
+    "away_name": "Dorking Wanderers",
+    "outcome_1": 1.76,
+    "outcome_X": 3.5,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "Wrexham AFC",
+    "away_name": "FC Halifax Town",
+    "outcome_1": 1.25,
+    "outcome_X": 5.2,
+    "outcome_2": 9.4
+  },
+  {
+    "home_name": "Yeovil Town",
+    "away_name": "Aldershot Town FC",
+    "outcome_1": 1.82,
+    "outcome_X": 3.4,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "York City FC",
+    "away_name": "Chesterfield FC",
+    "outcome_1": 3.05,
+    "outcome_X": 3.25,
+    "outcome_2": 2.13
+  },
+  {
+    "home_name": "Benfica Lisbon",
+    "away_name": "Juventus",
+    "outcome_1": 1.97,
+    "outcome_X": 3.6,
+    "outcome_2": 3.75
+  },
+  {
+    "home_name": "Borussia Dortmund",
+    "away_name": "Manchester City",
+    "outcome_1": 4.9,
+    "outcome_X": 4.4,
+    "outcome_2": 1.61
+  },
+  {
+    "home_name": "Celtic",
+    "away_name": "FC Shakhtar Donetsk",
+    "outcome_1": 1.86,
+    "outcome_X": 3.85,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "GNK Dinamo Zagreb",
+    "away_name": "AC Milan",
+    "outcome_1": 4.2,
+    "outcome_X": 3.8,
+    "outcome_2": 1.83
+  },
+  {
+    "home_name": "Paris Saint-Germain",
+    "away_name": "Maccabi Haifa FC",
+    "outcome_1": 1.1,
+    "outcome_X": 10.25,
+    "outcome_2": 22.5
+  },
+  {
+    "home_name": "RB Leipzig",
+    "away_name": "Real Madrid",
+    "outcome_1": 3.0,
+    "outcome_X": 3.5,
+    "outcome_2": 2.32
+  },
+  {
+    "home_name": "Burnley",
+    "away_name": "Norwich City",
+    "outcome_1": 2.19,
+    "outcome_X": 3.25,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "CS Alagoano AL",
+    "away_name": "Vila Nova FC GO",
+    "outcome_1": 1.76,
+    "outcome_X": 2.95,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "CR Flamengo RJ",
+    "away_name": "Santos",
+    "outcome_1": 1.54,
+    "outcome_X": 3.95,
+    "outcome_2": 5.65
+  },
+  {
+    "home_name": "Paranaense",
+    "away_name": "SE Palmeiras SP",
+    "outcome_1": 4.7,
+    "outcome_X": 3.5,
+    "outcome_2": 1.71
+  },
+  {
+    "home_name": "SK Rapid Wien",
+    "away_name": "TSV Hartberg",
+    "outcome_1": 1.61,
+    "outcome_X": 4.0,
+    "outcome_2": 4.75
+  },
+  {
+    "home_name": "HNK Hajduk Split",
+    "away_name": "HNK Gorica",
+    "outcome_1": 1.28,
+    "outcome_X": 4.8,
+    "outcome_2": 8.85
+  },
+  {
+    "home_name": "Club Brugge",
+    "away_name": "FC Porto",
+    "outcome_1": 3.45,
+    "outcome_X": 3.5,
+    "outcome_2": 2.11
+  },
+  {
+    "home_name": "Internazionale",
+    "away_name": "FC Viktoria Plzen",
+    "outcome_1": 1.15,
+    "outcome_X": 7.95,
+    "outcome_2": 19.5
+  },
+  {
+    "home_name": "Deportivo Iztapa",
+    "away_name": "CSD Xelaju MC",
+    "outcome_1": 1.98,
+    "outcome_X": 3.1,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Ajax",
+    "away_name": "Liverpool",
+    "outcome_1": 4.35,
+    "outcome_X": 4.15,
+    "outcome_2": 1.73
+  },
+  {
+    "home_name": "Atletico Madrid",
+    "away_name": "Bayer Leverkusen",
+    "outcome_1": 1.85,
+    "outcome_X": 3.75,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Barcelona",
+    "away_name": "Bayern M\u00fcnchen",
+    "outcome_1": 2.35,
+    "outcome_X": 3.7,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Eintracht Frankfurt",
+    "away_name": "Olympique Marseille",
+    "outcome_1": 2.35,
+    "outcome_X": 3.38,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Napoli",
+    "away_name": "Rangers FC",
+    "outcome_1": 1.26,
+    "outcome_X": 6.15,
+    "outcome_2": 11.0
+  },
+  {
+    "home_name": "Tottenham Hotspur",
+    "away_name": "Sporting Lisbon",
+    "outcome_1": 1.46,
+    "outcome_X": 4.7,
+    "outcome_2": 6.45
+  },
+  {
+    "home_name": "Botafogo",
+    "away_name": "Bragantino",
+    "outcome_1": 2.57,
+    "outcome_X": 3.1,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Corinthians",
+    "away_name": "Fluminense",
+    "outcome_1": 2.1,
+    "outcome_X": 3.1,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Goias",
+    "away_name": "America FC",
+    "outcome_1": 2.7,
+    "outcome_X": 3.15,
+    "outcome_2": 2.56
+  },
+  {
+    "home_name": "Internacional",
+    "away_name": "Ceara",
+    "outcome_1": 1.64,
+    "outcome_X": 3.65,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "PSV",
+    "away_name": "Arsenal",
+    "outcome_1": 2.8,
+    "outcome_X": 3.75,
+    "outcome_2": 2.34
+  },
+  {
+    "home_name": "FC Vaduz",
+    "away_name": "AZ Alkmaar",
+    "outcome_1": 5.65,
+    "outcome_X": 4.6,
+    "outcome_2": 1.52
+  },
+  {
+    "home_name": "AEK Larnaca",
+    "away_name": "FC Dynamo Kiev",
+    "outcome_1": 3.25,
+    "outcome_X": 3.45,
+    "outcome_2": 2.22
+  },
+  {
+    "home_name": "Fenerbahce",
+    "away_name": "Stade Rennes",
+    "outcome_1": 2.63,
+    "outcome_X": 3.25,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Lazio Rome",
+    "away_name": "Midtjylland",
+    "outcome_1": 1.6,
+    "outcome_X": 4.25,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "Fiorentina",
+    "away_name": "Istanbul Basaksehir",
+    "outcome_1": 1.89,
+    "outcome_X": 3.7,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "RSC Anderlecht",
+    "away_name": "Fotbal Club FCSB",
+    "outcome_1": 1.34,
+    "outcome_X": 5.25,
+    "outcome_2": 8.85
+  },
+  {
+    "home_name": "Villarreal",
+    "away_name": "Hapoel Be`er Sheva FC",
+    "outcome_1": 1.38,
+    "outcome_X": 5.1,
+    "outcome_2": 7.7
+  },
+  {
+    "home_name": "FC Zurich",
+    "away_name": "Bodoe/Glimt",
+    "outcome_1": 3.38,
+    "outcome_X": 3.7,
+    "outcome_2": 2.08
+  },
+  {
+    "home_name": "Ludogorets",
+    "away_name": "Real Betis Seville",
+    "outcome_1": 3.0,
+    "outcome_X": 3.55,
+    "outcome_2": 2.29
+  },
+  {
+    "home_name": "Malmo",
+    "away_name": "Union Saint-Gilloise",
+    "outcome_1": 3.4,
+    "outcome_X": 3.45,
+    "outcome_2": 2.15
+  },
+  {
+    "home_name": "Union Berlin",
+    "away_name": "SC Braga",
+    "outcome_1": 1.84,
+    "outcome_X": 3.75,
+    "outcome_2": 4.15
+  },
+  {
+    "home_name": "1. FC Slovacko Uherske Hradiste",
+    "away_name": "FC Koln",
+    "outcome_1": 3.3,
+    "outcome_X": 3.7,
+    "outcome_2": 2.1
+  },
+  {
+    "home_name": "FK Austria Wien",
+    "away_name": "Lech Poznan",
+    "outcome_1": 2.65,
+    "outcome_X": 3.4,
+    "outcome_2": 2.63
+  },
+  {
+    "home_name": "OGC Nice",
+    "away_name": "FK Partizan Belgrade",
+    "outcome_1": 1.67,
+    "outcome_X": 3.95,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "SK Sturm Graz",
+    "away_name": "Feyenoord",
+    "outcome_1": 3.55,
+    "outcome_X": 3.8,
+    "outcome_2": 1.98
+  },
+  {
+    "home_name": "FK Crvena Zvezda Belgrade",
+    "away_name": "Trabzonspor",
+    "outcome_1": 2.22,
+    "outcome_X": 3.5,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Ferencvarosi Budapest",
+    "away_name": "AS Monaco",
+    "outcome_1": 3.65,
+    "outcome_X": 3.7,
+    "outcome_2": 1.98
+  },
+  {
+    "home_name": "HJK Helsinki",
+    "away_name": "AS Roma",
+    "outcome_1": 8.1,
+    "outcome_X": 5.1,
+    "outcome_2": 1.37
+  },
+  {
+    "home_name": "Manchester United",
+    "away_name": "FC Sheriff Tiraspol",
+    "outcome_1": 1.13,
+    "outcome_X": 8.45,
+    "outcome_2": 22.0
+  },
+  {
+    "home_name": "SC Freiburg",
+    "away_name": "Olympiacos Piraeus",
+    "outcome_1": 1.52,
+    "outcome_X": 4.35,
+    "outcome_2": 6.25
+  },
+  {
+    "home_name": "Shamrock Rovers",
+    "away_name": "KAA Gent",
+    "outcome_1": 4.95,
+    "outcome_X": 3.9,
+    "outcome_2": 1.69
+  },
+  {
+    "home_name": "West Ham United",
+    "away_name": "Silkeborg IF",
+    "outcome_1": 1.43,
+    "outcome_X": 4.85,
+    "outcome_2": 7.05
+  },
+  {
+    "home_name": "AC Omonia Nicosia",
+    "away_name": "Real Sociedad San Sebastian",
+    "outcome_1": 6.75,
+    "outcome_X": 4.5,
+    "outcome_2": 1.47
+  },
+  {
+    "home_name": "Nantes",
+    "away_name": "Qarabag FK",
+    "outcome_1": 2.3,
+    "outcome_X": 3.55,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Basel",
+    "away_name": "Vilnius FK Zalgiris",
+    "outcome_1": 1.41,
+    "outcome_X": 4.95,
+    "outcome_2": 7.3
+  },
+  {
+    "home_name": "FC Ballkani",
+    "away_name": "Slavia Prague",
+    "outcome_1": 5.0,
+    "outcome_X": 4.05,
+    "outcome_2": 1.66
+  },
+  {
+    "home_name": "Heart of Midlothian FC",
+    "away_name": "FK Rigas Futbola Skola",
+    "outcome_1": 1.72,
+    "outcome_X": 3.85,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "Molde FK",
+    "away_name": "Djurgardens",
+    "outcome_1": 1.79,
+    "outcome_X": 3.7,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "SC Dnipro-1",
+    "away_name": "Apollon Limassol",
+    "outcome_1": 2.0,
+    "outcome_X": 3.55,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Sivasspor",
+    "away_name": "FC CFR 1907 Cluj",
+    "outcome_1": 2.27,
+    "outcome_X": 3.3,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Slovan Bratislava",
+    "away_name": "FC Pyunik Yerevan",
+    "outcome_1": 1.54,
+    "outcome_X": 4.25,
+    "outcome_2": 6.1
+  },
+  {
+    "home_name": "Fortaleza CE",
+    "away_name": "Coritiba",
+    "outcome_1": 1.64,
+    "outcome_X": 3.65,
+    "outcome_2": 5.15
+  },
+  {
+    "home_name": "Sao Paulo",
+    "away_name": "AC Goianiense GO",
+    "outcome_1": 1.53,
+    "outcome_X": 3.9,
+    "outcome_2": 5.85
+  },
+  {
+    "home_name": "Western Sydney Wanderers",
+    "away_name": "Newcastle United Jets FC",
+    "outcome_1": 2.1,
+    "outcome_X": 3.4,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "AFC Chindia Targoviste",
+    "away_name": "FC Botosani",
+    "outcome_1": 2.7,
+    "outcome_X": 3.05,
+    "outcome_2": 2.64
+  },
+  {
+    "home_name": "SK Sigma Olomouc B",
+    "away_name": "MFk Vyskov",
+    "outcome_1": 2.05,
+    "outcome_X": 3.2,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Vion Zlate Moravce",
+    "away_name": "MsK zilina",
+    "outcome_1": 3.1,
+    "outcome_X": 3.2,
+    "outcome_2": 2.14
+  },
+  {
+    "home_name": "Akritas Chlorakas",
+    "away_name": "AEL Limassol",
+    "outcome_1": 4.4,
+    "outcome_X": 3.45,
+    "outcome_2": 1.72
+  },
+  {
+    "home_name": "HNK Sibenik",
+    "away_name": "Varteks Varazdin",
+    "outcome_1": 2.35,
+    "outcome_X": 3.3,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "First Vienna FC",
+    "away_name": "Vorwarts Steyr",
+    "outcome_1": 1.61,
+    "outcome_X": 3.8,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "SKN St Polten",
+    "away_name": "Young Violets Wien",
+    "outcome_1": 1.41,
+    "outcome_X": 4.45,
+    "outcome_2": 5.95
+  },
+  {
+    "home_name": "SKU Amstetten",
+    "away_name": "Grazer AK",
+    "outcome_1": 2.08,
+    "outcome_X": 3.45,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "1. FC Magdeburg",
+    "away_name": "1. FC Heidenheim",
+    "outcome_1": 3.2,
+    "outcome_X": 3.45,
+    "outcome_2": 2.09
+  },
+  {
+    "home_name": "Greuther Furth",
+    "away_name": "Arminia Bielefeld",
+    "outcome_1": 2.06,
+    "outcome_X": 3.5,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Fatih Karagumruk Istanbul",
+    "away_name": "Galatasaray Istanbul",
+    "outcome_1": 3.1,
+    "outcome_X": 3.6,
+    "outcome_2": 2.09
+  },
+  {
+    "home_name": "SV Wehen Wiesbaden",
+    "away_name": "MSV Duisburg",
+    "outcome_1": 1.69,
+    "outcome_X": 3.85,
+    "outcome_2": 4.4
+  },
+  {
+    "home_name": "FC U Craiova 1948",
+    "away_name": "FC Farul Constanta",
+    "outcome_1": 2.95,
+    "outcome_X": 3.1,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "Werder Bremen",
+    "away_name": "Hertha BSC",
+    "outcome_1": 1.98,
+    "outcome_X": 3.65,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "RC Lens",
+    "away_name": "Toulouse FC",
+    "outcome_1": 1.62,
+    "outcome_X": 4.05,
+    "outcome_2": 4.6
+  },
+  {
+    "home_name": "Birmingham City",
+    "away_name": "Queens Park Rangers",
+    "outcome_1": 2.65,
+    "outcome_X": 3.15,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "Brisbane Roar FC",
+    "away_name": "Melbourne Victory",
+    "outcome_1": 2.8,
+    "outcome_X": 3.38,
+    "outcome_2": 2.35
+  },
+  {
+    "home_name": "Avispa Fukuoka",
+    "away_name": "Kashiwa Reysol",
+    "outcome_1": 2.32,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Gamba Osaka",
+    "away_name": "Jubilo Iwata",
+    "outcome_1": 2.03,
+    "outcome_X": 3.4,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Kawasaki Frontale",
+    "away_name": "Vissel Kobe",
+    "outcome_1": 1.58,
+    "outcome_X": 3.9,
+    "outcome_2": 5.25
+  },
+  {
+    "home_name": "Kyoto Sanga",
+    "away_name": "Cerezo Osaka",
+    "outcome_1": 3.4,
+    "outcome_X": 3.38,
+    "outcome_2": 2.06
+  },
+  {
+    "home_name": "Nagoya Grampus",
+    "away_name": "FC Tokyo",
+    "outcome_1": 2.25,
+    "outcome_X": 3.25,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Sanfrecce Hiroshima",
+    "away_name": "Consadole Sapporo",
+    "outcome_1": 1.98,
+    "outcome_X": 3.4,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Shimizu S-Pulse",
+    "away_name": "Kashima Antlers",
+    "outcome_1": 2.75,
+    "outcome_X": 3.3,
+    "outcome_2": 2.41
+  },
+  {
+    "home_name": "Shonan Bellmare",
+    "away_name": "Sagan Tosu",
+    "outcome_1": 2.28,
+    "outcome_X": 3.25,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Yokohama Marinos",
+    "away_name": "Urawa Red Diamonds",
+    "outcome_1": 1.76,
+    "outcome_X": 3.7,
+    "outcome_2": 4.15
+  },
+  {
+    "home_name": "Central Coast Mariners",
+    "away_name": "Western United FC",
+    "outcome_1": 2.06,
+    "outcome_X": 3.5,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "FK Fotbal Trinec",
+    "away_name": "SK Lisen Brno",
+    "outcome_1": 2.8,
+    "outcome_X": 3.15,
+    "outcome_2": 2.25
+  },
+  {
+    "home_name": "Macarthur FC",
+    "away_name": "Sydney FC",
+    "outcome_1": 2.6,
+    "outcome_X": 3.3,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "Bandirmaspor",
+    "away_name": "Caykur Rizespor",
+    "outcome_1": 2.04,
+    "outcome_X": 3.25,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "1 FC Kaiserslautern",
+    "away_name": "1. FC Nurnberg",
+    "outcome_1": 2.13,
+    "outcome_X": 3.45,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Holstein Kiel",
+    "away_name": "Fortuna Dusseldorf",
+    "outcome_1": 2.63,
+    "outcome_X": 3.55,
+    "outcome_2": 2.39
+  },
+  {
+    "home_name": "Jahn Regensburg",
+    "away_name": "Hansa Rostock",
+    "outcome_1": 2.49,
+    "outcome_X": 3.38,
+    "outcome_2": 2.64
+  },
+  {
+    "home_name": "Bristol City",
+    "away_name": "Swansea City",
+    "outcome_1": 2.18,
+    "outcome_X": 3.3,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Konyaspor",
+    "away_name": "Kasimpasa Istanbul",
+    "outcome_1": 1.78,
+    "outcome_X": 3.65,
+    "outcome_2": 4.05
+  },
+  {
+    "home_name": "West Bromwich Albion",
+    "away_name": "Sheffield United",
+    "outcome_1": 2.35,
+    "outcome_X": 3.2,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "1. FC Saarbrucken",
+    "away_name": "SV Meppen 1912",
+    "outcome_1": 1.77,
+    "outcome_X": 3.75,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Blau-Weiss Linz",
+    "away_name": "FC Liefering",
+    "outcome_1": 1.34,
+    "outcome_X": 4.7,
+    "outcome_2": 7.25
+  },
+  {
+    "home_name": "Borussia Dortmund II",
+    "away_name": "SC Verl",
+    "outcome_1": 2.3,
+    "outcome_X": 3.45,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Erzgebirge Aue",
+    "away_name": "SV 07 Elversberg",
+    "outcome_1": 3.25,
+    "outcome_X": 3.7,
+    "outcome_2": 1.99
+  },
+  {
+    "home_name": "FAC Wien",
+    "away_name": "FC Dornbirn",
+    "outcome_1": 1.39,
+    "outcome_X": 4.5,
+    "outcome_2": 6.35
+  },
+  {
+    "home_name": "Rapid Wien II",
+    "away_name": "Admira Wacker Modling",
+    "outcome_1": 3.1,
+    "outcome_X": 3.45,
+    "outcome_2": 2.04
+  },
+  {
+    "home_name": "Rot-Weiss Essen",
+    "away_name": "FSV Zwickau",
+    "outcome_1": 2.01,
+    "outcome_X": 3.5,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "SV Waldhof Mannheim",
+    "away_name": "Dynamo Dresden",
+    "outcome_1": 2.35,
+    "outcome_X": 3.45,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "SpVgg Bayreuth",
+    "away_name": "TSV 1860 Munchen",
+    "outcome_1": 4.1,
+    "outcome_X": 3.9,
+    "outcome_2": 1.72
+  },
+  {
+    "home_name": "1. FK Pribram",
+    "away_name": "FC Vysocina Jihlava",
+    "outcome_1": 1.61,
+    "outcome_X": 3.6,
+    "outcome_2": 4.55
+  },
+  {
+    "home_name": "1.SK Prostejov",
+    "away_name": "SFC Opava",
+    "outcome_1": 2.33,
+    "outcome_X": 3.25,
+    "outcome_2": 2.62
+  },
+  {
+    "home_name": "Napoli",
+    "away_name": "Sassuolo Calcio",
+    "outcome_1": 1.35,
+    "outcome_X": 5.0,
+    "outcome_2": 7.25
+  },
+  {
+    "home_name": "AS Trencin",
+    "away_name": "Ruzomberok",
+    "outcome_1": 2.01,
+    "outcome_X": 3.25,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "FC Banik Ostrava",
+    "away_name": "FK Mlada Boleslav",
+    "outcome_1": 2.14,
+    "outcome_X": 3.55,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "FC Hradec Kralove",
+    "away_name": "FK Pardubice",
+    "outcome_1": 1.66,
+    "outcome_X": 3.65,
+    "outcome_2": 4.85
+  },
+  {
+    "home_name": "FK Jablonec",
+    "away_name": "SK Dynamo Ceske Budejovice",
+    "outcome_1": 1.82,
+    "outcome_X": 3.7,
+    "outcome_2": 3.85
+  },
+  {
+    "home_name": "FK Zeleziarne Podbrezova",
+    "away_name": "MFK Skalica",
+    "outcome_1": 1.89,
+    "outcome_X": 3.4,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "HNK Rijeka",
+    "away_name": "NK Istra 1961",
+    "outcome_1": 1.79,
+    "outcome_X": 3.45,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Sakaryaspor",
+    "away_name": "Altay Izmir",
+    "outcome_1": 1.77,
+    "outcome_X": 3.4,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "Bayern M\u00fcnchen",
+    "away_name": "FSV Mainz",
+    "outcome_1": 1.24,
+    "outcome_X": 6.2,
+    "outcome_2": 9.1
+  },
+  {
+    "home_name": "RB Leipzig",
+    "away_name": "Bayer Leverkusen",
+    "outcome_1": 1.86,
+    "outcome_X": 3.8,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "VfB Stuttgart",
+    "away_name": "FC Augsburg",
+    "outcome_1": 1.82,
+    "outcome_X": 3.55,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "VfL Wolfsburg",
+    "away_name": "VfL Bochum",
+    "outcome_1": 1.74,
+    "outcome_X": 3.85,
+    "outcome_2": 4.1
+  },
+  {
+    "home_name": "Burnley",
+    "away_name": "Reading",
+    "outcome_1": 1.57,
+    "outcome_X": 4.05,
+    "outcome_2": 5.05
+  },
+  {
+    "home_name": "Cardiff City",
+    "away_name": "Rotherham United",
+    "outcome_1": 2.09,
+    "outcome_X": 3.3,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Coventry City",
+    "away_name": "Blackpool",
+    "outcome_1": 2.05,
+    "outcome_X": 3.3,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Huddersfield Town",
+    "away_name": "Millwall",
+    "outcome_1": 2.5,
+    "outcome_X": 3.2,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Hull City",
+    "away_name": "Blackburn Rovers",
+    "outcome_1": 2.8,
+    "outcome_X": 3.15,
+    "outcome_2": 2.47
+  },
+  {
+    "home_name": "Ionikos Nikea FC",
+    "away_name": "Panaitolikos Agrinio",
+    "outcome_1": 2.35,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Luton Town",
+    "away_name": "Sunderland AFC",
+    "outcome_1": 1.85,
+    "outcome_X": 3.45,
+    "outcome_2": 4.0
+  },
+  {
+    "home_name": "Nea Salamina Famagusta",
+    "away_name": "Pafos FC",
+    "outcome_1": 4.2,
+    "outcome_X": 3.4,
+    "outcome_2": 1.76
+  },
+  {
+    "home_name": "Norwich City",
+    "away_name": "Stoke City",
+    "outcome_1": 1.68,
+    "outcome_X": 3.65,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Preston North End",
+    "away_name": "Middlesbrough",
+    "outcome_1": 2.23,
+    "outcome_X": 3.1,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Wigan Athletic",
+    "away_name": "Watford",
+    "outcome_1": 3.15,
+    "outcome_X": 3.2,
+    "outcome_2": 2.24
+  },
+  {
+    "home_name": "SC Heerenveen",
+    "away_name": "FC Utrecht",
+    "outcome_1": 2.15,
+    "outcome_X": 3.5,
+    "outcome_2": 3.05
+  },
+  {
+    "home_name": "Paris Saint-Germain",
+    "away_name": "ESTAC Troyes",
+    "outcome_1": 1.11,
+    "outcome_X": 8.25,
+    "outcome_2": 17.25
+  },
+  {
+    "home_name": "Austria Lustenau",
+    "away_name": "SK Rapid Wien",
+    "outcome_1": 3.3,
+    "outcome_X": 3.75,
+    "outcome_2": 1.96
+  },
+  {
+    "home_name": "RB Salzburg",
+    "away_name": "TSV Hartberg",
+    "outcome_1": 1.18,
+    "outcome_X": 6.7,
+    "outcome_2": 12.0
+  },
+  {
+    "home_name": "SK Austria Klagenfurt",
+    "away_name": "WSG Tirol",
+    "outcome_1": 1.95,
+    "outcome_X": 3.8,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "NK Osijek",
+    "away_name": "GNK Dinamo Zagreb",
+    "outcome_1": 2.64,
+    "outcome_X": 3.15,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "Lecce",
+    "away_name": "Juventus",
+    "outcome_1": 4.4,
+    "outcome_X": 3.45,
+    "outcome_2": 1.77
+  },
+  {
+    "home_name": "Enosis Neon Paralimni FC",
+    "away_name": "Olympiakos Nicosia",
+    "outcome_1": 2.0,
+    "outcome_X": 3.25,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "FC Voluntari",
+    "away_name": "FC Petrolul Ploiesti",
+    "outcome_1": 2.27,
+    "outcome_X": 3.0,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "FC Zlin",
+    "away_name": "FC Viktoria Plzen",
+    "outcome_1": 4.75,
+    "outcome_X": 3.65,
+    "outcome_2": 1.69
+  },
+  {
+    "home_name": "Goztepe Izmir",
+    "away_name": "Denizlispor",
+    "outcome_1": 1.62,
+    "outcome_X": 3.6,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Stroemsgodset IF",
+    "away_name": "FK Haugesund",
+    "outcome_1": 2.07,
+    "outcome_X": 3.5,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Vaalerenga IF",
+    "away_name": "Sarpsborg 08",
+    "outcome_1": 2.03,
+    "outcome_X": 3.6,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Eintracht Frankfurt",
+    "away_name": "Borussia Dortmund",
+    "outcome_1": 3.0,
+    "outcome_X": 3.45,
+    "outcome_2": 2.18
+  },
+  {
+    "home_name": "Volos NPS",
+    "away_name": "Panathinaikos",
+    "outcome_1": 3.95,
+    "outcome_X": 3.4,
+    "outcome_2": 1.88
+  },
+  {
+    "home_name": "Sparta Rotterdam",
+    "away_name": "Fortuna Sittard",
+    "outcome_1": 1.96,
+    "outcome_X": 3.7,
+    "outcome_2": 3.38
+  },
+  {
+    "home_name": "Alanyaspor",
+    "away_name": "Gaziantep FK",
+    "outcome_1": 2.06,
+    "outcome_X": 3.5,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "FC St. Pauli",
+    "away_name": "SV Darmstadt 98",
+    "outcome_1": 2.75,
+    "outcome_X": 3.5,
+    "outcome_2": 2.33
+  },
+  {
+    "home_name": "ACS Sepsi OSK Sfantu Gheorghe",
+    "away_name": "CS Universitatea Craiova 1948",
+    "outcome_1": 2.64,
+    "outcome_X": 3.05,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Internazionale",
+    "away_name": "Sampdoria Genoa",
+    "outcome_1": 1.25,
+    "outcome_X": 5.65,
+    "outcome_2": 9.65
+  },
+  {
+    "home_name": "Go Ahead Eagles",
+    "away_name": "Excelsior Rotterdam",
+    "outcome_1": 1.86,
+    "outcome_X": 3.7,
+    "outcome_2": 3.7
+  },
+  {
+    "home_name": "Strasbourg Alsace",
+    "away_name": "Olympique Marseille",
+    "outcome_1": 3.25,
+    "outcome_X": 3.4,
+    "outcome_2": 2.08
+  },
+  {
+    "home_name": "CR Flamengo RJ",
+    "away_name": "Paranaense",
+    "outcome_1": 1.49,
+    "outcome_X": 4.0,
+    "outcome_2": 6.3
+  },
+  {
+    "home_name": "Adelaide United FC",
+    "away_name": "Perth Glory FC",
+    "outcome_1": 1.76,
+    "outcome_X": 3.65,
+    "outcome_2": 4.25
+  },
+  {
+    "home_name": "Melbourne City FC",
+    "away_name": "Wellington Phoenix FC",
+    "outcome_1": 1.47,
+    "outcome_X": 4.45,
+    "outcome_2": 5.7
+  },
+  {
+    "home_name": "SV Lafnitz",
+    "away_name": "SV Horn",
+    "outcome_1": 1.93,
+    "outcome_X": 3.55,
+    "outcome_2": 3.3
+  },
+  {
+    "home_name": "Tuzlaspor",
+    "away_name": "Ankara Keciorengucu",
+    "outcome_1": 2.75,
+    "outcome_X": 3.25,
+    "outcome_2": 2.23
+  },
+  {
+    "home_name": "FC Emmen",
+    "away_name": "FC Groningen",
+    "outcome_1": 2.3,
+    "outcome_X": 3.5,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Empoli FC",
+    "away_name": "Atalanta",
+    "outcome_1": 4.05,
+    "outcome_X": 3.8,
+    "outcome_2": 1.76
+  },
+  {
+    "home_name": "MKE Ankaragucu",
+    "away_name": "Hatayspor Antakya",
+    "outcome_1": 2.25,
+    "outcome_X": 3.45,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Sturm Graz II",
+    "away_name": "Kapfenberger SV",
+    "outcome_1": 1.45,
+    "outcome_X": 4.3,
+    "outcome_2": 5.65
+  },
+  {
+    "home_name": "AJ Auxerre",
+    "away_name": "AC Ajaccio",
+    "outcome_1": 2.44,
+    "outcome_X": 3.05,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "SC Freiburg II",
+    "away_name": "VfB Oldenburg",
+    "outcome_1": 1.97,
+    "outcome_X": 3.5,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Hannover 96",
+    "away_name": "Karlsruher SC",
+    "outcome_1": 2.38,
+    "outcome_X": 3.45,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "SC Paderborn 07",
+    "away_name": "Hamburger SV",
+    "outcome_1": 2.38,
+    "outcome_X": 3.65,
+    "outcome_2": 2.58
+  },
+  {
+    "home_name": "SV Sandhausen",
+    "away_name": "Eintracht Braunschweig",
+    "outcome_1": 2.35,
+    "outcome_X": 3.4,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Dukla Prague",
+    "away_name": "Sparta Prague B",
+    "outcome_1": 1.99,
+    "outcome_X": 3.38,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Buyuksehir Belediye Erzurumspor",
+    "away_name": "Eyupspor",
+    "outcome_1": 3.2,
+    "outcome_X": 3.3,
+    "outcome_2": 1.97
+  },
+  {
+    "home_name": "FC Ingolstadt 04",
+    "away_name": "FC Viktoria Koln",
+    "outcome_1": 1.62,
+    "outcome_X": 3.85,
+    "outcome_2": 4.85
+  },
+  {
+    "home_name": "FC Twente Enschede",
+    "away_name": "RKC Waalwijk",
+    "outcome_1": 1.48,
+    "outcome_X": 4.35,
+    "outcome_2": 5.75
+  },
+  {
+    "home_name": "FC Vlasim",
+    "away_name": "Mas Taborsko",
+    "outcome_1": 2.05,
+    "outcome_X": 3.25,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "FK Austria Wien",
+    "away_name": "SCR Altach",
+    "outcome_1": 1.57,
+    "outcome_X": 4.0,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "FK Varnsdorf",
+    "away_name": "MFK Chrudim",
+    "outcome_1": 2.0,
+    "outcome_X": 3.3,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "LASK",
+    "away_name": "Wolfsberger AC",
+    "outcome_1": 1.59,
+    "outcome_X": 4.15,
+    "outcome_2": 4.75
+  },
+  {
+    "home_name": "PSV",
+    "away_name": "NEC",
+    "outcome_1": 1.2,
+    "outcome_X": 6.2,
+    "outcome_2": 12.0
+  },
+  {
+    "home_name": "Besiktas Istanbul",
+    "away_name": "Umraniyespor",
+    "outcome_1": 1.44,
+    "outcome_X": 4.5,
+    "outcome_2": 6.15
+  },
+  {
+    "home_name": "Cremonese",
+    "away_name": "Udinese",
+    "outcome_1": 3.8,
+    "outcome_X": 3.5,
+    "outcome_2": 1.88
+  },
+  {
+    "home_name": "Spezia",
+    "away_name": "Fiorentina",
+    "outcome_1": 3.9,
+    "outcome_X": 3.55,
+    "outcome_2": 1.85
+  },
+  {
+    "home_name": "Kayserispor",
+    "away_name": "Adana Demirspor",
+    "outcome_1": 2.58,
+    "outcome_X": 3.45,
+    "outcome_2": 2.49
+  },
+  {
+    "home_name": "AS Monaco",
+    "away_name": "Angers SCO",
+    "outcome_1": 1.38,
+    "outcome_X": 4.9,
+    "outcome_2": 6.65
+  },
+  {
+    "home_name": "Bohemians Prague 1905",
+    "away_name": "Slavia Prague",
+    "outcome_1": 5.35,
+    "outcome_X": 3.85,
+    "outcome_2": 1.58
+  },
+  {
+    "home_name": "FC Zbrojovka Brno",
+    "away_name": "FC Slovan Liberec",
+    "outcome_1": 2.52,
+    "outcome_X": 3.25,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "FK Teplice",
+    "away_name": "SK Sigma Olomouc",
+    "outcome_1": 3.0,
+    "outcome_X": 3.3,
+    "outcome_2": 2.27
+  },
+  {
+    "home_name": "NK Lokomotiva Zagreb",
+    "away_name": "HNK Hajduk Split",
+    "outcome_1": 3.4,
+    "outcome_X": 3.3,
+    "outcome_2": 2.0
+  },
+  {
+    "home_name": "Nantes",
+    "away_name": "Clermont Foot 63",
+    "outcome_1": 2.05,
+    "outcome_X": 3.38,
+    "outcome_2": 3.4
+  },
+  {
+    "home_name": "Olympiacos Piraeus",
+    "away_name": "PAS Lamia 1964",
+    "outcome_1": 1.23,
+    "outcome_X": 5.65,
+    "outcome_2": 11.5
+  },
+  {
+    "home_name": "Slovan Bratislava",
+    "away_name": "MFK Tatran Liptovsky Mikulas",
+    "outcome_1": 1.11,
+    "outcome_X": 7.4,
+    "outcome_2": 16.75
+  },
+  {
+    "home_name": "Stade Brest 29",
+    "away_name": "Stade Reims",
+    "outcome_1": 2.39,
+    "outcome_X": 3.3,
+    "outcome_2": 2.8
+  },
+  {
+    "home_name": "Stade Rennes",
+    "away_name": "Montpellier",
+    "outcome_1": 1.41,
+    "outcome_X": 4.65,
+    "outcome_2": 6.5
+  },
+  {
+    "home_name": "Union Berlin",
+    "away_name": "Borussia Monchengladbach",
+    "outcome_1": 2.28,
+    "outcome_X": 3.25,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "APO Levadiakos FC",
+    "away_name": "Atromitos Athinon",
+    "outcome_1": 2.64,
+    "outcome_X": 3.2,
+    "outcome_2": 2.55
+  },
+  {
+    "home_name": "AEK Larnaca",
+    "away_name": "Karmiotissa FC",
+    "outcome_1": 1.32,
+    "outcome_X": 4.7,
+    "outcome_2": 7.65
+  },
+  {
+    "home_name": "AZ Alkmaar",
+    "away_name": "FC Volendam",
+    "outcome_1": 1.19,
+    "outcome_X": 6.25,
+    "outcome_2": 12.75
+  },
+  {
+    "home_name": "Boluspor",
+    "away_name": "Adanaspor",
+    "outcome_1": 1.84,
+    "outcome_X": 3.38,
+    "outcome_2": 3.6
+  },
+  {
+    "home_name": "Kristiansund BK",
+    "away_name": "Aalesunds FK",
+    "outcome_1": 2.28,
+    "outcome_X": 3.4,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Lillestrom SK",
+    "away_name": "Odds BK",
+    "outcome_1": 1.6,
+    "outcome_X": 4.0,
+    "outcome_2": 4.95
+  },
+  {
+    "home_name": "Rosenborg BK",
+    "away_name": "Bodoe/Glimt",
+    "outcome_1": 2.85,
+    "outcome_X": 3.4,
+    "outcome_2": 2.28
+  },
+  {
+    "home_name": "SK Sturm Graz",
+    "away_name": "SV Ried",
+    "outcome_1": 1.43,
+    "outcome_X": 4.4,
+    "outcome_2": 6.55
+  },
+  {
+    "home_name": "Sandefjord Fotball",
+    "away_name": "Hamarkameratene",
+    "outcome_1": 2.56,
+    "outcome_X": 3.15,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Tromsoe IL",
+    "away_name": "FK Jerv",
+    "outcome_1": 1.21,
+    "outcome_X": 6.35,
+    "outcome_2": 10.75
+  },
+  {
+    "home_name": "Lorient",
+    "away_name": "OGC Nice",
+    "outcome_1": 2.62,
+    "outcome_X": 3.3,
+    "outcome_2": 2.54
+  },
+  {
+    "home_name": "FC Uta Arad",
+    "away_name": "ACS Champions FC Arges",
+    "outcome_1": 2.23,
+    "outcome_X": 3.05,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "Schalke 04",
+    "away_name": "SC Freiburg",
+    "outcome_1": 3.65,
+    "outcome_X": 3.55,
+    "outcome_2": 1.91
+  },
+  {
+    "home_name": "HNK Gorica",
+    "away_name": "NK Slaven Belupo",
+    "outcome_1": 2.6,
+    "outcome_X": 3.25,
+    "outcome_2": 2.45
+  },
+  {
+    "home_name": "Lazio Rome",
+    "away_name": "US Salernitana",
+    "outcome_1": 1.48,
+    "outcome_X": 4.45,
+    "outcome_2": 5.6
+  },
+  {
+    "home_name": "Istanbulspor AS",
+    "away_name": "Fenerbahce",
+    "outcome_1": 4.65,
+    "outcome_X": 4.0,
+    "outcome_2": 1.63
+  },
+  {
+    "home_name": "Apollon Limassol",
+    "away_name": "APOEL Nikosia",
+    "outcome_1": 2.42,
+    "outcome_X": 3.1,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Dukla Banska Bystrica",
+    "away_name": "DAC 1904 Dunajska Streda",
+    "outcome_1": 3.7,
+    "outcome_X": 3.45,
+    "outcome_2": 1.85
+  },
+  {
+    "home_name": "Sparta Prague",
+    "away_name": "1. FC Slovacko Uherske Hradiste",
+    "outcome_1": 1.62,
+    "outcome_X": 3.85,
+    "outcome_2": 4.95
+  },
+  {
+    "home_name": "AEK Athene",
+    "away_name": "PAOK Thessaloniki",
+    "outcome_1": 1.96,
+    "outcome_X": 3.2,
+    "outcome_2": 3.9
+  },
+  {
+    "home_name": "Viking FK",
+    "away_name": "Molde FK",
+    "outcome_1": 3.3,
+    "outcome_X": 3.55,
+    "outcome_2": 2.02
+  },
+  {
+    "home_name": "FC Koln",
+    "away_name": "TSG Hoffenheim",
+    "outcome_1": 2.52,
+    "outcome_X": 3.38,
+    "outcome_2": 2.6
+  },
+  {
+    "home_name": "Aris Thessaloniki",
+    "away_name": "OFI Kreta",
+    "outcome_1": 1.53,
+    "outcome_X": 3.95,
+    "outcome_2": 5.8
+  },
+  {
+    "home_name": "Rapid Bucuresti 1923",
+    "away_name": "FC CFR 1907 Cluj",
+    "outcome_1": 2.7,
+    "outcome_X": 2.95,
+    "outcome_2": 2.65
+  },
+  {
+    "home_name": "Torino",
+    "away_name": "AC Milan",
+    "outcome_1": 3.6,
+    "outcome_X": 3.2,
+    "outcome_2": 2.05
+  },
+  {
+    "home_name": "Olympique Lyon",
+    "away_name": "Lille OSC",
+    "outcome_1": 2.04,
+    "outcome_X": 3.55,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "CS Mioveni",
+    "away_name": "AFC Hermannstadt",
+    "outcome_1": 2.63,
+    "outcome_X": 3.05,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "PAS Giannina",
+    "away_name": "Asteras Tripolis",
+    "outcome_1": 2.5,
+    "outcome_X": 3.15,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Istanbul Basaksehir",
+    "away_name": "Giresunspor",
+    "outcome_1": 1.6,
+    "outcome_X": 3.9,
+    "outcome_2": 5.1
+  },
+  {
+    "home_name": "Sivasspor",
+    "away_name": "Antalyaspor",
+    "outcome_1": 2.34,
+    "outcome_X": 3.38,
+    "outcome_2": 2.85
+  },
+  {
+    "home_name": "AC Omonia Nicosia",
+    "away_name": "Anorthosis Famagusta",
+    "outcome_1": 2.15,
+    "outcome_X": 3.15,
+    "outcome_2": 3.15
+  },
+  {
+    "home_name": "Doxa Katokopias",
+    "away_name": "Aris Limassol FC",
+    "outcome_1": 2.8,
+    "outcome_X": 3.05,
+    "outcome_2": 2.4
+  },
+  {
+    "home_name": "Hellas Verona",
+    "away_name": "AS Roma",
+    "outcome_1": 4.35,
+    "outcome_X": 3.6,
+    "outcome_2": 1.74
+  },
+  {
+    "home_name": "VfL 1899 Osnabruck",
+    "away_name": "Hallescher FC",
+    "outcome_1": 1.65,
+    "outcome_X": 4.0,
+    "outcome_2": 4.5
+  },
+  {
+    "home_name": "FC Universitatea Cluj",
+    "away_name": "Fotbal Club FCSB",
+    "outcome_1": 3.7,
+    "outcome_X": 3.3,
+    "outcome_2": 1.99
+  },
+  {
+    "home_name": "AC Monza",
+    "away_name": "Bologna",
+    "outcome_1": 2.15,
+    "outcome_X": 3.3,
+    "outcome_2": 3.25
+  },
+  {
+    "home_name": "FC Botosani",
+    "away_name": "FC Voluntari",
+    "outcome_1": 2.39,
+    "outcome_X": 3.1,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "FC Farul Constanta",
+    "away_name": "CS Mioveni",
+    "outcome_1": 1.47,
+    "outcome_X": 3.9,
+    "outcome_2": 7.05
+  },
+  {
+    "home_name": "ACS Champions FC Arges",
+    "away_name": "ACS Sepsi OSK Sfantu Gheorghe",
+    "outcome_1": 2.8,
+    "outcome_X": 3.1,
+    "outcome_2": 2.47
+  },
+  {
+    "home_name": "Nimes Olympique",
+    "away_name": "Girondins Bordeaux",
+    "outcome_1": 2.85,
+    "outcome_X": 3.25,
+    "outcome_2": 2.36
+  },
+  {
+    "home_name": "FC Petrolul Ploiesti",
+    "away_name": "FC Uta Arad",
+    "outcome_1": 2.63,
+    "outcome_X": 3.05,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Annecy FC",
+    "away_name": "Sochaux-Montbeliard",
+    "outcome_1": 3.45,
+    "outcome_X": 3.25,
+    "outcome_2": 2.06
+  },
+  {
+    "home_name": "Dijon FCO",
+    "away_name": "EA Guingamp",
+    "outcome_1": 2.41,
+    "outcome_X": 3.1,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "Pau",
+    "away_name": "Amiens SC",
+    "outcome_1": 2.56,
+    "outcome_X": 3.1,
+    "outcome_2": 2.7
+  },
+  {
+    "home_name": "Quevilly-Rouen Metropole",
+    "away_name": "Le Havre AC",
+    "outcome_1": 3.38,
+    "outcome_X": 3.15,
+    "outcome_2": 2.16
+  },
+  {
+    "home_name": "Rodez Aveyron",
+    "away_name": "Grenoble",
+    "outcome_1": 2.64,
+    "outcome_X": 2.95,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "SC Bastia",
+    "away_name": "Paris",
+    "outcome_1": 2.62,
+    "outcome_X": 3.0,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Stade Lavallois Mayenne",
+    "away_name": "Chamois FC",
+    "outcome_1": 2.09,
+    "outcome_X": 3.2,
+    "outcome_2": 3.45
+  },
+  {
+    "home_name": "Valenciennes",
+    "away_name": "SM Caen",
+    "outcome_1": 2.85,
+    "outcome_X": 2.95,
+    "outcome_2": 2.59
+  },
+  {
+    "home_name": "CS Universitatea Craiova 1948",
+    "away_name": "FC Universitatea Cluj",
+    "outcome_1": 1.67,
+    "outcome_X": 3.5,
+    "outcome_2": 5.2
+  },
+  {
+    "home_name": "AFC Hermannstadt",
+    "away_name": "AFC Chindia Targoviste",
+    "outcome_1": 2.38,
+    "outcome_X": 2.95,
+    "outcome_2": 3.1
+  },
+  {
+    "home_name": "Fotbal Club FCSB",
+    "away_name": "Rapid Bucuresti 1923",
+    "outcome_1": 2.23,
+    "outcome_X": 3.1,
+    "outcome_2": 3.2
+  },
+  {
+    "home_name": "Metz",
+    "away_name": "AS Saint-Etienne",
+    "outcome_1": 2.33,
+    "outcome_X": 3.2,
+    "outcome_2": 2.95
+  },
+  {
+    "home_name": "SC Farense",
+    "away_name": "CD Trofense",
+    "outcome_1": 1.58,
+    "outcome_X": 3.8,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Qatar",
+    "away_name": "Ecuador",
+    "outcome_1": 3.3,
+    "outcome_X": 3.3,
+    "outcome_2": 2.12
+  },
+  {
+    "home_name": "Engeland",
+    "away_name": "Iran",
+    "outcome_1": 1.3,
+    "outcome_X": 4.7,
+    "outcome_2": 10.25
+  },
+  {
+    "home_name": "Senegal",
+    "away_name": "Nederland",
+    "outcome_1": 5.4,
+    "outcome_X": 3.65,
+    "outcome_2": 1.61
+  },
+  {
+    "home_name": "VS",
+    "away_name": "Wales",
+    "outcome_1": 2.45,
+    "outcome_X": 3.05,
+    "outcome_2": 2.9
+  },
+  {
+    "home_name": "Argentinie",
+    "away_name": "Saudi Arabia",
+    "outcome_1": 1.17,
+    "outcome_X": 6.25,
+    "outcome_2": 15.5
+  },
+  {
+    "home_name": "Denemarken",
+    "away_name": "Tunesie",
+    "outcome_1": 1.44,
+    "outcome_X": 4.05,
+    "outcome_2": 7.05
+  },
+  {
+    "home_name": "Mexico",
+    "away_name": "Polen",
+    "outcome_1": 2.75,
+    "outcome_X": 3.05,
+    "outcome_2": 2.57
+  },
+  {
+    "home_name": "Frankrijk",
+    "away_name": "Australie",
+    "outcome_1": 1.2,
+    "outcome_X": 5.9,
+    "outcome_2": 12.75
+  },
+  {
+    "home_name": "Marokko",
+    "away_name": "Kroatie",
+    "outcome_1": 4.25,
+    "outcome_X": 3.2,
+    "outcome_2": 1.87
+  },
+  {
+    "home_name": "Duitsland",
+    "away_name": "Japan",
+    "outcome_1": 1.36,
+    "outcome_X": 4.75,
+    "outcome_2": 7.6
+  },
+  {
+    "home_name": "Spanje",
+    "away_name": "Costa Rica",
+    "outcome_1": 1.25,
+    "outcome_X": 5.2,
+    "outcome_2": 11.0
+  },
+  {
+    "home_name": "Belgie",
+    "away_name": "Canada",
+    "outcome_1": 1.28,
+    "outcome_X": 5.2,
+    "outcome_2": 9.45
+  },
+  {
+    "home_name": "Zwitserland",
+    "away_name": "Kameroen",
+    "outcome_1": 1.82,
+    "outcome_X": 3.3,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Uruguay",
+    "away_name": "Republic of Korea",
+    "outcome_1": 1.8,
+    "outcome_X": 3.3,
+    "outcome_2": 4.45
+  },
+  {
+    "home_name": "Portugal",
+    "away_name": "Ghana",
+    "outcome_1": 1.51,
+    "outcome_X": 3.85,
+    "outcome_2": 6.45
+  },
+  {
+    "home_name": "Brazilie",
+    "away_name": "Servie",
+    "outcome_1": 1.45,
+    "outcome_X": 4.25,
+    "outcome_2": 6.55
+  },
+  {
+    "home_name": "Wales",
+    "away_name": "Iran",
+    "outcome_1": 2.12,
+    "outcome_X": 3.1,
+    "outcome_2": 3.5
+  },
+  {
+    "home_name": "Qatar",
+    "away_name": "Senegal",
+    "outcome_1": 3.55,
+    "outcome_X": 3.2,
+    "outcome_2": 2.05
+  },
+  {
+    "home_name": "Nederland",
+    "away_name": "Ecuador",
+    "outcome_1": 1.65,
+    "outcome_X": 3.75,
+    "outcome_2": 4.8
+  },
+  {
+    "home_name": "Engeland",
+    "away_name": "VS",
+    "outcome_1": 1.73,
+    "outcome_X": 3.45,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Tunesie",
+    "away_name": "Australie",
+    "outcome_1": 2.85,
+    "outcome_X": 2.9,
+    "outcome_2": 2.58
+  },
+  {
+    "home_name": "Polen",
+    "away_name": "Saudi Arabia",
+    "outcome_1": 1.73,
+    "outcome_X": 3.45,
+    "outcome_2": 4.7
+  },
+  {
+    "home_name": "Frankrijk",
+    "away_name": "Denemarken",
+    "outcome_1": 1.89,
+    "outcome_X": 3.45,
+    "outcome_2": 3.8
+  },
+  {
+    "home_name": "Argentinie",
+    "away_name": "Mexico",
+    "outcome_1": 1.6,
+    "outcome_X": 3.65,
+    "outcome_2": 5.5
+  },
+  {
+    "home_name": "Japan",
+    "away_name": "Costa Rica",
+    "outcome_1": 1.96,
+    "outcome_X": 3.15,
+    "outcome_2": 3.95
+  },
+  {
+    "home_name": "Belgie",
+    "away_name": "Marokko",
+    "outcome_1": 1.52,
+    "outcome_X": 4.0,
+    "outcome_2": 5.7
+  },
+  {
+    "home_name": "Kroatie",
+    "away_name": "Canada",
+    "outcome_1": 1.81,
+    "outcome_X": 3.45,
+    "outcome_2": 4.2
+  },
+  {
+    "home_name": "Spanje",
+    "away_name": "Duitsland",
+    "outcome_1": 2.49,
+    "outcome_X": 3.2,
+    "outcome_2": 2.75
+  },
+  {
+    "home_name": "Kameroen",
+    "away_name": "Servie",
+    "outcome_1": 3.75,
+    "outcome_X": 3.15,
+    "outcome_2": 2.03
+  },
+  {
+    "home_name": "Republic of Korea",
+    "away_name": "Ghana",
+    "outcome_1": 2.49,
+    "outcome_X": 2.9,
+    "outcome_2": 3.0
+  },
+  {
+    "home_name": "Brazilie",
+    "away_name": "Zwitserland",
+    "outcome_1": 1.46,
+    "outcome_X": 4.15,
+    "outcome_2": 6.5
+  },
+  {
+    "home_name": "Portugal",
+    "away_name": "Uruguay",
+    "outcome_1": 2.06,
+    "outcome_X": 3.2,
+    "outcome_2": 3.55
+  },
+  {
+    "home_name": "Ecuador",
+    "away_name": "Senegal",
+    "outcome_1": 2.9,
+    "outcome_X": 3.05,
+    "outcome_2": 2.46
+  },
+  {
+    "home_name": "Nederland",
+    "away_name": "Qatar",
+    "outcome_1": 1.29,
+    "outcome_X": 5.1,
+    "outcome_2": 9.3
+  },
+  {
+    "home_name": "Iran",
+    "away_name": "VS",
+    "outcome_1": 3.3,
+    "outcome_X": 3.25,
+    "outcome_2": 2.13
+  },
+  {
+    "home_name": "Wales",
+    "away_name": "Engeland",
+    "outcome_1": 5.75,
+    "outcome_X": 3.7,
+    "outcome_2": 1.58
+  },
+  {
+    "home_name": "Australie",
+    "away_name": "Denemarken",
+    "outcome_1": 6.25,
+    "outcome_X": 3.5,
+    "outcome_2": 1.58
+  },
+  {
+    "home_name": "Tunesie",
+    "away_name": "Frankrijk",
+    "outcome_1": 13.0,
+    "outcome_X": 5.4,
+    "outcome_2": 1.22
+  },
+  {
+    "home_name": "Polen",
+    "away_name": "Argentinie",
+    "outcome_1": 4.45,
+    "outcome_X": 4.05,
+    "outcome_2": 1.65
+  },
+  {
+    "home_name": "Saudi Arabia",
+    "away_name": "Mexico",
+    "outcome_1": 6.05,
+    "outcome_X": 3.9,
+    "outcome_2": 1.52
+  },
+  {
+    "home_name": "Canada",
+    "away_name": "Marokko",
+    "outcome_1": 3.15,
+    "outcome_X": 3.15,
+    "outcome_2": 2.24
+  },
+  {
+    "home_name": "Kroatie",
+    "away_name": "Belgie",
+    "outcome_1": 3.8,
+    "outcome_X": 3.5,
+    "outcome_2": 1.88
+  },
+  {
+    "home_name": "Costa Rica",
+    "away_name": "Duitsland",
+    "outcome_1": 9.8,
+    "outcome_X": 5.15,
+    "outcome_2": 1.28
+  },
+  {
+    "home_name": "Japan",
+    "away_name": "Spanje",
+    "outcome_1": 8.9,
+    "outcome_X": 5.15,
+    "outcome_2": 1.29
+  },
+  {
+    "home_name": "Ghana",
+    "away_name": "Uruguay",
+    "outcome_1": 4.65,
+    "outcome_X": 3.45,
+    "outcome_2": 1.74
+  },
+  {
+    "home_name": "Republic of Korea",
+    "away_name": "Portugal",
+    "outcome_1": 10.0,
+    "outcome_X": 4.55,
+    "outcome_2": 1.32
+  },
+  {
+    "home_name": "Kameroen",
+    "away_name": "Brazilie",
+    "outcome_1": 8.5,
+    "outcome_X": 4.95,
+    "outcome_2": 1.32
+  },
+  {
+    "home_name": "Servie",
+    "away_name": "Zwitserland",
+    "outcome_1": 2.75,
+    "outcome_X": 3.25,
+    "outcome_2": 2.45
+  }
+]

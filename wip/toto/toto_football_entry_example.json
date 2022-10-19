@@ -1,0 +1,194 @@
+{
+  "id": "392172",
+  "externalIds": [
+    { "id": "9396508", "provider": "betgenius" },
+    { "id": "sr:match:34277383", "provider": "betradar" }
+  ],
+  "extKey": null,
+  "retailCode": null,
+  "name": "Elche v Real Madrid",
+  "active": true,
+  "displayed": true,
+  "status": "ACTIVE",
+  "displayOrder": -145,
+  "popularityOrder": null,
+  "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+  "sortCode": "MTCH",
+  "startTime": "2022-10-19T19:00:00Z",
+  "started": true,
+  "liveNow": true,
+  "liveBettingAvailable": true,
+  "resulted": false,
+  "settled": false,
+  "cashoutAvailable": true,
+  "sportId": "17",
+  "competitionDrilldownTagId": "570",
+  "raceNumber": 0,
+  "venue": null,
+  "isVoid": false,
+  "blurb": null,
+  "fixedOddsAvailable": true,
+  "rcpAvailable": true,
+  "statisticsAvailable": false,
+  "neutralVenue": false,
+  "meeting": null,
+  "teams": [
+    {
+      "id": null,
+      "side": "HOME",
+      "name": "Elche",
+      "alternativeNames": [{ "type": "FULL", "value": "Elche" }],
+      "code": null,
+      "externalId": null,
+      "status": null
+    },
+    {
+      "id": null,
+      "side": "AWAY",
+      "name": "Real Madrid",
+      "alternativeNames": [{ "type": "FULL", "value": "Real Madrid" }],
+      "code": null,
+      "externalId": null,
+      "status": null
+    }
+  ],
+  "type": {
+    "id": "92",
+    "name": "Spain Primera Division",
+    "alternativeNames": [],
+    "displayOrder": "0",
+    "fixedOddsAvailable": true
+  },
+  "class": { "id": "52", "name": "Spanje", "displayOrder": "0" },
+  "category": {
+    "id": "17",
+    "name": "Soccer",
+    "displayOrder": "-90",
+    "code": "FOOTBALL"
+  },
+  "marketCount": 58,
+  "marketCounts": { "total": 58, "fixedOdds": 58 },
+  "markets": [
+    {
+      "id": "36391223",
+      "eventId": "392172",
+      "templateMarketId": "38936",
+      "type": "-",
+      "subType": "MR",
+      "name": "Match Result",
+      "active": true,
+      "displayed": true,
+      "status": "ACTIVE",
+      "collectionIds": ["132", "125", "131"],
+      "betInRun": true,
+      "resulted": null,
+      "displayOrder": 10,
+      "displaySortId": "32",
+      "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+      "handicapValue": null,
+      "startingPriceAvailable": false,
+      "livePriceAvailable": true,
+      "cashoutAvailable": true,
+      "rcpAvailable": true,
+      "minimumAccumulator": 1,
+      "maximumAccumulator": 25,
+      "fixedOddsAvailable": true,
+      "groupCode": "MATCH_RESULT",
+      "blurb": null,
+      "retailCode": null,
+      "castBetTypesAvailable": [],
+      "outcomes": [
+        {
+          "id": "116724316",
+          "marketId": "36391223",
+          "name": "Real Madrid",
+          "type": "MR",
+          "subType": "A",
+          "displayOrder": 3,
+          "active": true,
+          "displayed": true,
+          "status": "ACTIVE",
+          "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+          "resulted": false,
+          "rcpAvailable": true,
+          "runnerNumber": 0,
+          "retailCode": null,
+          "lateVoid": false,
+          "outcomeScore": null,
+          "prices": [
+            {
+              "numerator": 1,
+              "denominator": 12,
+              "decimal": 1.08,
+              "displayOrder": 1,
+              "priceType": "LP",
+              "handicapLow": null,
+              "handicapHigh": null
+            }
+          ],
+          "result": { "resultCode": "-", "position": null }
+        },
+        {
+          "id": "116724319",
+          "marketId": "36391223",
+          "name": "Elche",
+          "type": "MR",
+          "subType": "H",
+          "displayOrder": 1,
+          "active": true,
+          "displayed": true,
+          "status": "ACTIVE",
+          "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+          "resulted": false,
+          "rcpAvailable": true,
+          "runnerNumber": 0,
+          "retailCode": null,
+          "lateVoid": false,
+          "outcomeScore": null,
+          "prices": [
+            {
+              "numerator": 50,
+              "denominator": 1,
+              "decimal": 51.0,
+              "displayOrder": 1,
+              "priceType": "LP",
+              "handicapLow": null,
+              "handicapHigh": null
+            }
+          ],
+          "result": { "resultCode": "-", "position": null }
+        },
+        {
+          "id": "116724321",
+          "marketId": "36391223",
+          "name": "Draw",
+          "type": "MR",
+          "subType": "D",
+          "displayOrder": 2,
+          "active": true,
+          "displayed": true,
+          "status": "ACTIVE",
+          "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+          "resulted": false,
+          "rcpAvailable": true,
+          "runnerNumber": 0,
+          "retailCode": null,
+          "lateVoid": false,
+          "outcomeScore": null,
+          "prices": [
+            {
+              "numerator": 15,
+              "denominator": 2,
+              "decimal": 8.5,
+              "displayOrder": 1,
+              "priceType": "LP",
+              "handicapLow": null,
+              "handicapHigh": null
+            }
+          ],
+          "result": { "resultCode": "-", "position": null }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "400974",
+  "externalIds": [
+    { "id": "9762185", "provider": "betgenius" },
+    { "id": "sr:match:36806297", "provider": "betradar" }
+  ],
+  "extKey": null,
+  "retailCode": null,
+  "name": "Mertens, E v Kalinskaya, A",
+  "active": true,
+  "displayed": true,
+  "status": "ACTIVE",
+  "displayOrder": 0,
+  "popularityOrder": null,
+  "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+  "sortCode": "MTCH",
+  "startTime": "2022-10-19T18:20:00Z",
+  "started": true,
+  "liveNow": true,
+  "liveBettingAvailable": true,
+  "resulted": false,
+  "settled": false,
+  "cashoutAvailable": true,
+  "sportId": "34",
+  "competitionDrilldownTagId": "5943",
+  "raceNumber": 0,
+  "venue": null,
+  "isVoid": false,
+  "blurb": null,
+  "fixedOddsAvailable": true,
+  "rcpAvailable": false,
+  "statisticsAvailable": false,
+  "neutralVenue": false,
+  "meeting": null,
+  "teams": [
+    {
+      "id": null,
+      "side": "HOME",
+      "name": "Mertens, E",
+      "alternativeNames": [{ "type": "FULL", "value": "Mertens, E" }],
+      "code": null,
+      "externalId": null,
+      "status": null
+    },
+    {
+      "id": null,
+      "side": "AWAY",
+      "name": "Kalinskaya, A",
+      "alternativeNames": [{ "type": "FULL", "value": "Kalinskaya, A" }],
+      "code": null,
+      "externalId": null,
+      "status": null
+    }
+  ],
+  "type": {
+    "id": "4723",
+    "name": "WTA Guadalajara Open, Singles",
+    "alternativeNames": [],
+    "displayOrder": "-6",
+    "fixedOddsAvailable": true
+  },
+  "class": { "id": "121", "name": "WTA Tour", "displayOrder": "-8" },
+  "category": {
+    "id": "34",
+    "name": "Tennis",
+    "displayOrder": "-89",
+    "code": "TENNIS"
+  },
+  "marketCount": 16,
+  "marketCounts": { "total": 16, "fixedOdds": 16 },
+  "markets": [
+    {
+      "id": "37403398",
+      "eventId": "400974",
+      "templateMarketId": "458747",
+      "type": "-",
+      "subType": "HH",
+      "name": "Match Winner",
+      "active": true,
+      "displayed": true,
+      "status": "ACTIVE",
+      "collectionIds": [],
+      "betInRun": true,
+      "resulted": null,
+      "displayOrder": 10,
+      "displaySortId": null,
+      "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+      "handicapValue": null,
+      "startingPriceAvailable": false,
+      "livePriceAvailable": true,
+      "cashoutAvailable": true,
+      "rcpAvailable": false,
+      "minimumAccumulator": 1,
+      "maximumAccumulator": 18,
+      "fixedOddsAvailable": true,
+      "groupCode": "MATCH_WINNER",
+      "blurb": null,
+      "retailCode": null,
+      "castBetTypesAvailable": [],
+      "outcomes": [
+        {
+          "id": "119881894",
+          "marketId": "37403398",
+          "name": "Kalinskaya, A",
+          "type": "HH",
+          "subType": "A",
+          "displayOrder": 2,
+          "active": true,
+          "displayed": true,
+          "status": "ACTIVE",
+          "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+          "resulted": false,
+          "rcpAvailable": false,
+          "runnerNumber": 0,
+          "retailCode": null,
+          "lateVoid": false,
+          "outcomeScore": null,
+          "prices": [
+            {
+              "numerator": 2,
+              "denominator": 1,
+              "decimal": 3.0,
+              "displayOrder": 1,
+              "priceType": "LP",
+              "handicapLow": null,
+              "handicapHigh": null
+            }
+          ],
+          "result": { "resultCode": "-", "position": null }
+        },
+        {
+          "id": "119881895",
+          "marketId": "37403398",
+          "name": "Mertens, E",
+          "type": "HH",
+          "subType": "H",
+          "displayOrder": 1,
+          "active": true,
+          "displayed": true,
+          "status": "ACTIVE",
+          "channels": ["P", "A", "R", "T", "X", "I", "M", "O"],
+          "resulted": false,
+          "rcpAvailable": false,
+          "runnerNumber": 0,
+          "retailCode": null,
+          "lateVoid": false,
+          "outcomeScore": null,
+          "prices": [
+            {
+              "numerator": 100,
+              "denominator": 241,
+              "decimal": 1.41,
+              "displayOrder": 1,
+              "priceType": "LP",
+              "handicapLow": null,
+              "handicapHigh": null
+            }
+          ],
+          "result": { "resultCode": "-", "position": null }
+        }
+      ]
+    }
+  ]
+}

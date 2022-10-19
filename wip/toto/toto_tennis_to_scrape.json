@@ -1,0 +1,34 @@
+{
+  "name": "Mertens, E v Kalinskaya, A",
+  "startTime": "2022-10-19T18:20:00Z",
+  "category": {
+    "name": "Tennis",
+    "code": "TENNIS"
+  },
+  "markets": [
+    {
+      "subType": "HH",
+      "outcomes": [
+        {
+          "name": "Kalinskaya, A",
+          "_comment": "subType A is for an Away win, H for a Home win",
+          "subType": "A",
+          "prices": [
+            {
+              "decimal": 3.0
+            }
+          ]
+        },
+        {
+          "name": "Mertens, E",
+          "subType": "H",
+          "prices": [
+            {
+              "decimal": 1.41
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

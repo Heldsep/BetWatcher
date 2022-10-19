@@ -1,0 +1,43 @@
+{
+  "name": "Elche v Real Madrid",
+  "startTime": "2022-10-19T19:00:00Z",
+  "category": {
+    "name": "Soccer",
+    "code": "FOOTBALL"
+  },
+  "markets": [
+    {
+      "subType": "MR",
+      "outcomes": [
+        {
+          "name": "Real Madrid",
+          "_comment": "subType A is for an Away win, H for a Home win, D for a draw",
+          "subType": "A",
+          "prices": [
+            {
+              "decimal": 1.08
+            }
+          ]
+        },
+        {
+          "name": "Elche",
+          "subType": "H",
+          "prices": [
+            {
+              "decimal": 51.0
+            }
+          ]
+        },
+        {
+          "name": "Draw",
+          "subType": "D",
+          "prices": [
+            {
+              "decimal": 8.5
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
