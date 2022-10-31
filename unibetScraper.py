@@ -75,8 +75,9 @@ def save_to_json(file, data):
     """
     Save data to a file as json.
     """
-    with open(file, "w") as f:
-        json.dump(data, f)
+    meta = [{"site": 'unibet', }]
+    with open(file, "w", encoding='utf8') as f:
+        json.dump(meta + data, f, ensure_ascii=False)
 
 
 def main():
