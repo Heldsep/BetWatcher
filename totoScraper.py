@@ -29,6 +29,7 @@ def extract_bets(feed):
     matches = [entry["markets"][0]["outcomes"] for entry in entries]
 
     result = []
+
     for match in matches:
         result.append(prepare_bet(match))
 
@@ -68,7 +69,7 @@ def main():
     feed = get_footbal_feed()
     bets = extract_bets(feed)
     print(len(bets))
-    save_to_json(file="wip/toto_output.json", data=bets)
+    save_to_json(file="output/toto_output.json", data=bets)
 
 
 if __name__ == "__main__":
