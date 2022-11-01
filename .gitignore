@@ -1,3 +1,6 @@
 
 output/unibet_output.json
 output/toto_output.json
+output/merged_output.json
+__pycache__/merger.cpython-38.pyc
+*.pyc
