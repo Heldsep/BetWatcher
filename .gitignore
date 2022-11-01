@@ -4,3 +4,5 @@ output/toto_output.json
 output/merged_output.json
 __pycache__/merger.cpython-38.pyc
 *.pyc
+output/toto.json
+output/arbitrage_matches.json
