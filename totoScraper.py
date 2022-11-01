@@ -60,7 +60,7 @@ def save_to_json(file, data):
     """
     meta = [{"site": 'toto', }]
     with open(file, "w", encoding='utf8') as f:
-        json.dump(meta + data, f, ensure_ascii=True)
+        json.dump(meta + data, f, ensure_ascii=False)
 
 
 def main():
@@ -71,6 +71,7 @@ def main():
     bets = extract_bets(feed)
     print(len(bets))
     save_to_json(file="output/toto_output.json", data=bets)
+    return bets
 
 
 if __name__ == "__main__":

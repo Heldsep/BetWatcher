@@ -88,6 +88,7 @@ def main():
     bets = extract_bets(feed)
     print(len(bets))
     save_to_json(file="output/unibet_output.json", data=bets)
+    return bets
 
 
 if __name__ == "__main__":
