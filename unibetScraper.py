@@ -63,11 +63,12 @@ def prepare_bet(outcomes):
     outcome_2 = [outcome for outcome in outcomes if outcome["label"] == "2"][0]
 
     return {
+        "site": 'unibet',
         "home_name": outcome_1["participant"],
         "away_name": outcome_2["participant"],
-        "outcome_1": outcome_1["odds"] if "odds" in outcome_1 else None,
-        "outcome_X": outcome_x["odds"] if "odds" in outcome_x else None,
-        "outcome_2": outcome_2["odds"] if "odds" in outcome_2 else None,
+        "outcome_1": outcome_1["odds"]/1000 if "odds" in outcome_1 else 0,
+        "outcome_x": outcome_x["odds"]/1000 if "odds" in outcome_x else 0,
+        "outcome_2": outcome_2["odds"]/1000 if "odds" in outcome_2 else 0,
     }
 
 
@@ -75,9 +76,8 @@ def save_to_json(file, data):
     """
     Save data to a file as json.
     """
-    meta = [{"site": 'unibet', }]
     with open(file, "w", encoding='utf8') as f:
-        json.dump(meta + data, f, ensure_ascii=False)
+        json.dump(data, f, ensure_ascii=False)
 
 
 def main():
