@@ -40,17 +40,17 @@ def prepare_bet(match):
     """
     Return a dict object with the odds for a given match.
     """
-
-    outcome_1 = [bet for bet in match if bet["subType"] == HOME_WIN][0]
-    outcome_x = [bet for bet in match if bet["subType"] == DRAW][0]
-    outcome_2 = [bet for bet in match if bet["subType"] == AWAY_WIN][0]
+    outcome_1 = [bet for bet in match if bet["subType"] == HOME_WIN]
+    outcome_x = [bet for bet in match if bet["subType"] == DRAW]
+    outcome_2 = [bet for bet in match if bet["subType"] == AWAY_WIN]
 
     return {
-        "home_name": outcome_1["name"],
-        "away_name": outcome_2["name"],
-        "outcome_1": outcome_1["prices"][0]["decimal"],
-        "outcome_X": outcome_x["prices"][0]["decimal"],
-        "outcome_2": outcome_2["prices"][0]["decimal"],
+        "site": 'toto',
+        "home_name": outcome_1[0]["name"] if outcome_1 else '',
+        "away_name": outcome_2[0]["name"] if outcome_2 else '',
+        "outcome_1": outcome_1[0]["prices"][0]["decimal"] if outcome_1 else 0,
+        "outcome_x": outcome_x[0]["prices"][0]["decimal"] if outcome_x else 0,
+        "outcome_2": outcome_2[0]["prices"][0]["decimal"] if outcome_2 else 0,
     }
 
 
@@ -58,9 +58,8 @@ def save_to_json(file, data):
     """
     Save data to a file as json.
     """
-    meta = [{"site": 'toto', }]
     with open(file, "w", encoding='utf8') as f:
-        json.dump(meta + data, f, ensure_ascii=False)
+        json.dump(data, f, ensure_ascii=False)
 
 
 def main():

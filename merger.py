@@ -17,32 +17,32 @@ import json
 def combine_match(base_site, all_match_odds):
     home_name = all_match_odds[0]['home_name']
     away_name = all_match_odds[0]['away_name']
-    outcome_1 = [{base_site: all_match_odds[0]['outcome_1']}] + [
-        {match_odds['site']: match_odds['outcome_1']} for match_odds in all_match_odds[1:]]
-    outcome_X = [{base_site: all_match_odds[0]['outcome_X']}] + [
-        {match_odds['site']: match_odds['outcome_X']} for match_odds in all_match_odds[1:]]
-    outcome_2 = [{base_site: all_match_odds[0]['outcome_2']}] + [
-        {match_odds['site']: match_odds['outcome_2']} for match_odds in all_match_odds[1:]]
+    outcome_1 = max([
+        {'site': match_odds['site'], 'odds': match_odds['outcome_1']} for match_odds in all_match_odds], key=lambda x: x['odds'])
+    outcome_x = max([
+        {'site': match_odds['site'], 'odds': match_odds['outcome_x']} for match_odds in all_match_odds], key=lambda x: x['odds'])
+    outcome_2 = max([
+        {'site': match_odds['site'], 'odds': match_odds['outcome_2']} for match_odds in all_match_odds], key=lambda x: x['odds'])
     return {
         "home_name": home_name,
         "away_name": away_name,
         "outcome_1": outcome_1,
-        "outcome_X": outcome_X,
+        "outcome_x": outcome_x,
         "outcome_2": outcome_2}
 
 
 def reformat_match(base_site, match_odds):
     home_name = match_odds['home_name']
     away_name = match_odds['away_name']
-    outcome_1 = {base_site: match_odds['outcome_1']}
-    outcome_X = {base_site: match_odds['outcome_X']}
-    outcome_2 = {base_site: match_odds['outcome_2']}
+    outcome_1 = {'site': base_site, 'odds': match_odds['outcome_1']}
+    outcome_x = {'site': base_site, 'odds': match_odds['outcome_x']}
+    outcome_2 = {'site': base_site, 'odds': match_odds['outcome_2']}
 
     return {
         "home_name": home_name,
         "away_name": away_name,
         "outcome_1": outcome_1,
-        "outcome_X": outcome_X,
+        "outcome_x": outcome_x,
         "outcome_2": outcome_2}
 
 
@@ -55,13 +55,14 @@ def merge(scrapes):
     for match in base:
         # get first teams name to hold against other scrapes
         home_team = match['home_name']
+        away_team = match['away_name']
         all_match_odds = [match]
         for scrape in scrapes:
             scrape_site = scrape[0]['site']
             for scrap in scrape[1:]:
-                if scrap['home_name'] == home_team:
+                if scrap['home_name'] == home_team and scrap['away_name'] == away_team:
                     all_match_odds.append(
-                        {'site': scrape_site, 'outcome_1': scrap['outcome_1'], 'outcome_X': scrap['outcome_X'], 'outcome_2': scrap['outcome_2']})
+                        {'site': scrape_site, 'outcome_1': scrap['outcome_1'], 'outcome_x': scrap['outcome_x'], 'outcome_2': scrap['outcome_2']})
         # Found all the match occurences in the other scrape results
         # saved in the following format:
         # [{'site': 'toto', 'outcome_1': 1.2, 'outcome_X': 4.6, 'outcome_2': 5.2},
@@ -74,7 +75,7 @@ def merge(scrapes):
         # TODO een else waarin alleen de base moet worden omgeschreven tot gewenste format
     print(len(result))
     save_to_json(file="output/merged_output.json", data=result)
-    # return result
+    return result
 
 
 def save_to_json(file, data):
