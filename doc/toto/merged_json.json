@@ -1,0 +1,9 @@
+[
+  {
+    "home_name": "Bayer Leverkusen",
+    "away_name": "Club Brugge",
+    "outcome_1": { "unibet": 1.2, "toto": 1.3 },
+    "outcome_X": { "unibet": 1.2, "toto": 1.3 },
+    "outcome_2": { "unibet": 1.2, "toto": 1.3 }
+  }
+]
